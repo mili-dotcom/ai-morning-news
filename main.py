@@ -16,6 +16,7 @@ from urllib.parse import urlencode  # URL 参数编码
 import httpx  # 异步 HTTP 客户端，用于 API 请求和 Bark 推送
 import feedparser  # RSS 解析库
 import edge_tts  # 微软 Edge TTS，免费文字转语音
+from deep_translator import GoogleTranslator  # 免费 Google 翻译
 
 
 # ============================================================
@@ -104,6 +105,42 @@ def title_fingerprint(title):
     if not seed:  # 种子为空时直接用标题哈希
         seed = title[:30]
     return hashlib.md5(seed.encode()).hexdigest()  # MD5 哈希作为指纹
+
+
+def has_chinese(text):
+    """判断文本是否包含中文，返回 True/False"""
+    if not text:
+        return False
+    return bool(re.search(r"[一-鿿]", text))  # 匹配 Unicode 中文范围
+
+
+def translate_text(text):
+    """将英文文本翻译为中文，失败时返回原文"""
+    if not text or len(text.strip()) < 3:  # 太短的文本不翻译
+        return text
+    if has_chinese(text):  # 已经是中文的文本跳过
+        return text
+    try:
+        translator = GoogleTranslator(source="auto", target="zh-CN")  # 自动检测源语言 → 中文
+        result = translator.translate(text[:800])  # 最多翻译前 800 字符，避免超长
+        return result if result else text  # 翻译成功返回结果，失败返回原文
+    except Exception as e:
+        print(f"[翻译] 失败: {e}")
+        return text  # 翻译失败返回原文
+
+
+async def translate_articles(articles):
+    """批量翻译英文文章（在线程池中运行，避免阻塞异步循环）"""
+    for art in articles:  # 逐条处理
+        title = art.get("title", "")  # 获取标题
+        summary = art.get("summary", "")  # 获取摘要
+        # 只翻译纯英文（无任何中文）的文章
+        if not has_chinese(title + summary):  # 标题和摘要都没有中文
+            cn_title = await asyncio.to_thread(translate_text, title)  # 线程池中翻译标题
+            cn_summary = await asyncio.to_thread(translate_text, summary)  # 线程池中翻译摘要
+            art["title_cn"] = cn_title  # 存储中文标题
+            art["summary_cn"] = cn_summary  # 存储中文摘要
+    return articles
 
 
 # ============================================================
@@ -394,9 +431,14 @@ def build_tts_text(date_str, weekday_str, articles):
     lines = [f"早上好！今天是{date_str}，{weekday_str}。"]  # 开场问候
     lines.append("以下是今日 AI 和科技热点新闻摘要，共{}条。".format(len(articles)))  # 告知条数
     for i, art in enumerate(articles, 1):  # 逐条拼接
-        lines.append(f"第{i}条，来自{art['source']}。{art['title']}。")  # 标题 + 来源
-        if art.get("summary"):  # 如果有摘要，追加朗读
-            lines.append(art["summary"])
+        lines.append(f"第{i}条，来自{art['source']}。")  # 来源
+        # 优先用中文标题朗读（英文标题中文 TTS 发音很差）
+        display_title = art.get("title_cn") or art["title"]  # 有翻译用翻译，没有用原标题
+        lines.append(f"{display_title}。")  # 朗读标题
+        if art.get("summary_cn"):  # 有中文摘要就用中文读
+            lines.append(art["summary_cn"])  # 朗读中文摘要
+        elif art.get("summary"):  # 只有原文摘要
+            lines.append(art["summary"])  # 朗读原文摘要
     lines.append("以上是今日早报全部内容，祝你一天顺利！")  # 结尾
     return "\n".join(lines)  # 用换行分隔，edge-tts 会根据标点自然停顿
 
@@ -506,6 +548,10 @@ async def main():
     articles = merge_articles(all_articles)  # 去重 + 排序 + 截断
     print(f"[筛选] 去重后保留 {len(articles)} 条")
 
+    # --- 第 2.5 步：翻译英文文章 ---
+    articles = await translate_articles(articles)  # 英文 → 中文翻译
+    print("[翻译] 英文文章已翻译为中文")
+
     if not articles:  # 如果一条新闻都没抓到，推送错误通知后退出
         async with httpx.AsyncClient(headers=HEADERS) as client:
             await send_bark(client, "AI 早报异常", "今日未获取到新闻，请检查新闻源是否正常。")
@@ -514,10 +560,18 @@ async def main():
     # --- 第 3 步：构建文字摘要 ---
     text_lines = [f"🤖 AI 早报 | {date_str} {weekday_str}", "=" * 30, ""]
     for i, art in enumerate(articles, 1):  # 逐条格式化
-        text_lines.append(f"【{i}】{art['title']}")  # 标题
+        # 标题：有中文翻译就显示双语，否则只显示原文
+        if art.get("title_cn"):  # 有中文翻译（说明原文是英文）
+            text_lines.append(f"【{i}】{art['title']}")  # 英文原标题
+            text_lines.append(f"      {art['title_cn']}")  # 中文翻译
+        else:
+            text_lines.append(f"【{i}】{art['title']}")  # 中文标题直接显示
         text_lines.append(f"  来源：{art['source']}")  # 来源
+        # 摘要：同样双语对照
         if art.get("summary"):  # 有摘要就显示
-            text_lines.append(f"  {art['summary']}")
+            text_lines.append(f"  {art['summary']}")  # 原文摘要
+        if art.get("summary_cn") and art["summary_cn"] != art["summary"]:  # 有中文翻译且不同于原文
+            text_lines.append(f"  {art['summary_cn']}")  # 中文摘要
         text_lines.append(f"  🔗 {art['url']}")  # 原文链接
         text_lines.append("")
     full_text = "\n".join(text_lines)  # 拼接为完整字符串
