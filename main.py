@@ -42,6 +42,37 @@ HEADERS = {
     "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
 }
 
+# 全球 AI 公司追踪关键词（中英文），命中任一个即抓取
+AI_COMPANY_KEYWORDS = [
+    # ===== 美国大厂 AI Lab =====
+    "OpenAI", "DeepMind", "Google AI", "Anthropic", "Claude", "Microsoft AI",
+    "Meta AI", "Apple AI", "Amazon AI", "AWS AI",
+    # ===== 美国芯片/算力 =====
+    "NVIDIA", "英伟达", "AMD", "Intel", "英特尔", "Groq", "Cerebras",
+    # ===== 美国明星创业 =====
+    "xAI", "马斯克", "Elon Musk", "Perplexity", "Midjourney", "Stability AI",
+    "Character.AI", "Cohere", "Scale AI",
+    # ===== 美国机器人/自动驾驶 =====
+    "Tesla", "特斯拉", "Optimus", "FSD", "Waymo", "Figure AI", "Boston Dynamics",
+    # ===== 中国大厂 AI =====
+    "百度", "文心一言", "百度AI", "阿里", "通义千问", "腾讯", "混元",
+    "字节", "豆包", "华为", "盘古",
+    # ===== 中国大模型六小虎 =====
+    "智谱", "ChatGLM", "月之暗面", "Kimi", "MiniMax", "海螺AI",
+    "百川智能", "零一万物", "阶跃星辰",
+    # ===== DeepSeek =====
+    "DeepSeek", "深度求索",
+    # ===== AI 四小龙 =====
+    "商汤", "旷视", "云从", "依图",
+    # ===== 中国芯片 =====
+    "寒武纪", "地平线", "壁仞", "摩尔线程", "海光",
+    # ===== 中国自动驾驶 =====
+    "小马智行", "文远知行", "Momenta", "元戎启行",
+    # ===== 通用 AI 关键词（保底） =====
+    "AI", "人工智能", "大模型", "GPT", "ChatGPT", "LLM", "Agent",
+    "芯片", "GPU", "机器人", "自动驾驶", "融资", "发布",
+]
+
 
 def get_beijing_time():
     """获取当前北京时间字符串，格式 YYYY-MM-DD 星期X"""
@@ -90,20 +121,15 @@ async def fetch_zhihu(client):
         resp = await client.get(url, params=params, timeout=15)  # 发送 GET 请求
         data = resp.json()  # 解析 JSON
         articles = []  # 存放筛选结果
-        tech_keywords = [  # 科技相关关键词，匹配到任一个就保留
-            "AI", "人工智能", "大模型", "GPT", "ChatGPT", "OpenAI", "谷歌", "微软",
-            "苹果", "华为", "小米", "特斯拉", "芯片", "GPU", "科技", "互联网",
-            "机器", "算法", "自动驾驶", "机器人", "手机", "App", "软件", "数据",
-            "模型", "发布", "融资", "编程", "代码", "量子", "5G",
-        ]
         for item in data.get("data", []):  # 遍历热榜条目
             target = item.get("target", {})  # 每条热榜的 target 字段包含详情
             title = target.get("title", "")  # 问题标题
             excerpt = target.get("excerpt", "")  # 摘要
             if not title:  # 跳过空标题
                 continue
-            # 判断标题是否包含科技关键词
-            is_tech = any(kw in title for kw in tech_keywords)
+            # 判断标题+摘要是否命中 AI 公司关键词（不区分大小写）
+            text = (title + " " + excerpt).lower()  # 拼接标题和摘要，统一小写
+            is_tech = any(kw.lower() in text for kw in AI_COMPANY_KEYWORDS)
             if is_tech:
                 articles.append({
                     "title": clean_html(title),  # 清理后的标题
@@ -220,14 +246,6 @@ async def fetch_hackernews(client):
     """
     top_url = "https://hacker-news.firebaseio.com/v0/topstories.json"  # HN 热门文章 ID 列表
     item_url = "https://hacker-news.firebaseio.com/v0/item/{}.json"  # 单条详情 URL 模板
-    ai_keywords = [  # AI 相关英文关键词
-        "ai", "llm", "gpt", "openai", "anthropic", "claude", "gemini",
-        "model", "machine learning", "deep learning", "neural", "transformer",
-        "chatgpt", "copilot", "agent", "robot", "nvidia", "cuda", "gpu",
-        "diffusion", "stable diffusion", "midjourney", "sora", "generative",
-        "rag", "fine-tun", "embedding", "vector", "langchain", "llama",
-        "mistral", "deepseek", "quantum", "agi", "alignment", "safety",
-    ]
     try:
         ids_resp = await client.get(top_url, timeout=15)  # 获取 Top 文章 ID 列表
         all_ids = ids_resp.json()[:50]  # 取前 50 个 ID
@@ -241,7 +259,7 @@ async def fetch_hackernews(client):
                     continue
                 # 检查标题是否包含 AI 关键词（不区分大小写）
                 title_lower = title.lower()  # 小写化便于匹配
-                if not any(kw in title_lower for kw in ai_keywords):  # 不匹配 AI 关键词则跳过
+                if not any(kw.lower() in title_lower for kw in AI_COMPANY_KEYWORDS):  # 不匹配 AI 公司关键词则跳过
                     continue
                 articles.append({
                     "title": title,  # 保留英文原标题
