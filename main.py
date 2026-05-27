@@ -24,6 +24,7 @@ from deep_translator import GoogleTranslator  # 免费 Google 翻译
 # ============================================================
 BARK_KEY = os.environ.get("BARK_KEY", "iFrHTEy9BhfdYxaX2dFD5k")  # Bark 推送密钥
 BARK_BASE = f"https://api.day.app/{BARK_KEY}"  # Bark API 基础地址
+FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "")  # 飞书机器人 Webhook（可选备用通道）
 PAGES_URL = os.environ.get("PAGES_URL", "")  # GitHub Pages 地址（运行时自动获取）
 OUTPUT_DIR = Path("output")  # 输出目录，存放生成的 mp3
 MP3_FILE = "news.mp3"  # 语音文件名
@@ -388,6 +389,55 @@ async def fetch_arxiv(client):
 
 
 # ============================================================
+# 新闻分类
+# ============================================================
+
+def classify_article(art):
+    """
+    根据来源和关键词为文章分配分类标签（emoji）
+    匹配优先级从高到低，命中即返回
+    """
+    source = art.get("source", "")  # 新闻来源
+    title = art.get("title", "") + " " + art.get("summary", "")  # 合并标题和摘要
+    text_lower = (title + " " + (art.get("title_cn", "") or "") + " " + (art.get("summary_cn", "") or "")).lower()  # 统一小写
+
+    if "arxiv" in source.lower():  # ArXiv 学术论文
+        return "🔬", "学术前沿"
+    # 自动驾驶与机器人
+    if any(k in text_lower for k in ["tesla", "特斯拉", "optimus", "fsd", "waymo", "figure ai",
+                                       "boston dynamics", "小马智行", "文远知行", "momenta", "元戎启行",
+                                       "自动驾驶", "人形机器人"]):
+        return "🚗", "自动驾驶"
+    # 芯片与算力
+    if any(k in text_lower for k in ["nvidia", "英伟达", "amd", "intel", "英特尔", "groq", "cerebras",
+                                       "寒武纪", "地平线", "壁仞", "摩尔线程", "海光", "gpu", "算力",
+                                       "芯片", "半导体"]):
+        return "📊", "芯片算力"
+    # 融资与创投
+    if any(k in text_lower for k in ["融资", "收购", "ipo", "上市", "funding", "raise", "billion",
+                                       "估值", "invest", "million"]):
+        if "36氪" in source or "techcrunch" in source.lower():  # 创投媒体来源优先
+            return "💰", "融资创投"
+    # 开源与模型发布
+    if any(k in text_lower for k in ["开源", "open source", "模型", "model", "llm", "gpt",
+                                       "deepseek", "深度求索", "发布", "launch", "release"]):
+        return "🧠", "开源模型"
+    # 大厂动态
+    if any(k in text_lower for k in ["openai", "google", "deepmind", "anthropic", "microsoft",
+                                       "meta", "apple", "amazon", "百度", "阿里", "腾讯", "字节",
+                                       "华为", "商汤", "旷视", "xai", "musk", "马斯克"]):
+        return "🏭", "大厂动态"
+    # 36氪/创业创投类默认
+    if "36氪" in source or "techcrunch" in source.lower():
+        return "💰", "融资创投"
+    # 机器之心/量子位等国内科技媒体默认
+    if "hacker news" in source.lower():
+        return "🧠", "开源模型"
+    # 兜底
+    return "🌐", "科技热点"
+
+
+# ============================================================
 # 新闻整合
 # ============================================================
 
@@ -515,6 +565,143 @@ async def send_bark_chunked(client, title_prefix, full_text, mp3_url=None):
         )
 
 
+async def send_feishu(client, title, content):
+    """
+    通过飞书机器人 Webhook 发送消息（备用推送通道）
+    title: 消息标题
+    content: 消息正文
+    """
+    if not FEISHU_WEBHOOK:  # 未配置飞书 Webhook 则跳过
+        return
+    try:
+        # 飞书消息格式：使用富文本卡片
+        payload = {
+            "msg_type": "interactive",  # 飞书交互消息类型
+            "card": {
+                "header": {
+                    "title": {"content": title[:100], "tag": "plain_text"},  # 标题
+                    "template": "blue",  # 蓝色标题栏
+                },
+                "elements": [
+                    {"tag": "markdown", "content": content[:8000]}  # 正文用 Markdown 格式，限 8000 字符
+                ],
+            },
+        }
+        resp = await client.post(FEISHU_WEBHOOK, json=payload, timeout=15)  # POST 到飞书
+        result = resp.json()  # 飞书返回 JSON
+        if result.get("code") == 0:  # 飞书成功返回码是 0
+            print(f"[飞书] 推送成功: {title}")
+        else:
+            print(f"[飞书] 推送失败: {result}")
+    except Exception as e:
+        print(f"[飞书] 推送异常: {e}")
+
+
+# ============================================================
+# 历史存档 & 每周回顾
+# ============================================================
+
+HISTORY_DIR = Path("history")  # 历史存档目录
+DAYS_TO_KEEP = 7  # 每周回顾需要的天数
+
+
+def save_daily_history(date_str, articles):
+    """将当天文章摘要保存为 JSON 文件，用于周报统计"""
+    HISTORY_DIR.mkdir(exist_ok=True)  # 确保目录存在
+    records = []  # 要保存的记录列表
+    for art in articles:  # 逐条精简存储
+        records.append({
+            "title": art.get("title_cn") or art.get("title", ""),  # 优先中文标题
+            "source": art.get("source", ""),  # 来源
+            "url": art.get("url", ""),  # 原文链接
+            "category": art.get("cat_name", ""),  # 分类名
+            "emoji": art.get("cat_emoji", ""),  # 分类 emoji
+            "hotness": art.get("hotness", 0),  # 热度
+        })
+    file_path = HISTORY_DIR / f"{date_str}.json"  # 文件名如 2026-05-28.json
+    with open(file_path, "w", encoding="utf-8") as f:  # 写入 JSON
+        json.dump(records, f, ensure_ascii=False, indent=2)
+    print(f"[存档] 已保存 {len(records)} 条到 {file_path}")
+
+
+def load_week_history(today_str):
+    """读取过去 7 天的历史 JSON，返回合并后的文章列表"""
+    today = datetime.strptime(today_str, "%Y-%m-%d")  # 解析当前日期
+    all_records = []  # 合并所有记录
+    for i in range(DAYS_TO_KEEP):  # 往前推 7 天
+        day = today - timedelta(days=i + 1)  # 从昨天开始往前
+        file_path = HISTORY_DIR / f"{day.strftime('%Y-%m-%d')}.json"  # 找对应文件
+        if file_path.exists():  # 文件存在就读取
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:  # 读取 JSON
+                    records = json.load(f)
+                    all_records.extend(records)  # 合并
+            except Exception:
+                pass  # 文件损坏就跳过
+    return all_records  # 返回所有记录
+
+
+def build_weekly_report(date_str, weekday_str, week_records):
+    """根据一周记录生成周报文本"""
+    if not week_records:  # 无数据时不生成
+        return None
+    # 计算日期范围
+    today = datetime.strptime(date_str, "%Y-%m-%d")
+    start = today - timedelta(days=7)
+    date_range = f"{start.strftime('%m/%d')} - {today.strftime('%m/%d')}"
+
+    lines = [f"📊 AI 周报 | {date_range}", "=" * 40, ""]
+
+    # Top 5 最热新闻
+    sorted_records = sorted(week_records, key=lambda x: x.get("hotness", 0), reverse=True)  # 按热度排序
+    seen = set()  # 去重用
+    top5 = []  # Top 5 列表
+    for r in sorted_records:  # 遍历排序后的记录
+        fp = title_fingerprint(r["title"])  # 生成指纹去重
+        if fp not in seen and len(top5) < 5:  # 去重且不超过 5 条
+            seen.add(fp)
+            top5.append(r)
+
+    if top5:  # 有 Top 5 数据
+        lines.append("🔥 本周最热 Top 5：")
+        for j, r in enumerate(top5, 1):  # 逐条格式化
+            lines.append(f"  {j}. {r['emoji']} [{r['source']}] {r['title']}")
+        lines.append("")
+
+    # 分类统计
+    cat_count = {}  # 分类计数
+    source_count = {}  # 来源计数
+    keyword_count = {}  # 关键词出现次数
+    for r in week_records:  # 遍历所有记录
+        cat = r.get("category", "其他")  # 分类
+        cat_count[cat] = cat_count.get(cat, 0) + 1  # 分类计数 +1
+        src = r.get("source", "")  # 来源
+        source_count[src] = source_count.get(src, 0) + 1  # 来源计数 +1
+        # 统计热门关键词（从标题中提取）
+        for kw in AI_COMPANY_KEYWORDS[:40]:  # 只统计前 40 个关键词（避免太长）
+            if kw in r.get("title", ""):  # 标题命中
+                keyword_count[kw] = keyword_count.get(kw, 0) + 1  # 关键词计数 +1
+
+    lines.append("📈 分类分布：")
+    for cat, cnt in sorted(cat_count.items(), key=lambda x: x[1], reverse=True):  # 按数量降序
+        lines.append(f"  {cat}：{cnt} 条")
+    lines.append("")
+
+    lines.append("📰 来源分布：")
+    for src, cnt in sorted(source_count.items(), key=lambda x: x[1], reverse=True):  # 按数量降序
+        lines.append(f"  {src}：{cnt} 条")
+    lines.append("")
+
+    # Top 关键词
+    top_kw = sorted(keyword_count.items(), key=lambda x: x[1], reverse=True)[:8]  # Top 8 关键词
+    if top_kw:
+        kw_str = "  ".join([f"{kw}({cnt}次)" for kw, cnt in top_kw])  # 格式化关键词
+        lines.append(f"🏷️ 本周高频词：")
+        lines.append(f"  {kw_str}")
+
+    return "\n".join(lines)  # 返回周报文本
+
+
 # ============================================================
 # 主流程
 # ============================================================
@@ -558,25 +745,48 @@ async def main():
         return
 
     # --- 第 3 步：构建文字摘要 ---
-    text_lines = [f"🤖 AI 早报 | {date_str} {weekday_str}", "=" * 30, ""]
+    text_lines = [f"🤖 AI 早报 | {date_str} {weekday_str}", "=" * 40, ""]
+
+    # === 先分类所有文章 ===
+    for art in articles:  # 为每条文章分配分类
+        emoji, cat_name = classify_article(art)  # 获取分类 emoji 和名称
+        art["cat_emoji"] = emoji  # 存储 emoji
+        art["cat_name"] = cat_name  # 存储分类名
+
+    # === 📌 今日必读 Top 3 ===
+    top3 = articles[:3]  # 热度最高的 3 条
+    text_lines.append("📌 今日必读")
+    text_lines.append("-" * 40)
+    for j, art in enumerate(top3, 1):  # 格式化 Top 3
+        top_title = art.get("title_cn") or art["title"]  # 优先中文标题
+        # 截取合适的显示长度
+        if len(top_title) > 60:  # 标题太长时截断
+            top_title = top_title[:58] + "…"
+        text_lines.append(f"{j}️⃣  {art['cat_emoji']} {top_title}")  # emoji + 序号 + 标题
+    text_lines.append("=" * 40)
+    text_lines.append("")
+
+    # === 完整新闻列表 ===
     for i, art in enumerate(articles, 1):  # 逐条格式化
+        emoji = art.get("cat_emoji", "🌐")  # 分类 emoji
         # 英文源链接用 Google 翻译包装，点击即看中文版
         url = art['url']  # 原文链接
         if art.get("title_cn") and url:  # 有中文翻译说明原文是英文 → 包装链接
             url = f"https://translate.google.com/translate?hl=zh-CN&sl=auto&u={url}"  # Google 翻译代理
         # 标题：有中文翻译就显示双语，否则只显示原文
         if art.get("title_cn"):  # 有中文翻译（说明原文是英文）
-            text_lines.append(f"【{i}】{art['title']}")  # 英文原标题
+            text_lines.append(f"{emoji} 【{i}】{art['title']}")  # emoji + 英文标题
             text_lines.append(f"      {art['title_cn']}")  # 中文翻译
         else:
-            text_lines.append(f"【{i}】{art['title']}")  # 中文标题直接显示
-        text_lines.append(f"  来源：{art['source']}")  # 来源
+            text_lines.append(f"{emoji} 【{i}】{art['title']}")  # emoji + 中文标题
+        text_lines.append(f"  来源：{art['source']}  |  {art.get('cat_name', '')}")  # 来源 + 分类
         # 摘要：同样双语对照
         if art.get("summary"):  # 有摘要就显示
             text_lines.append(f"  {art['summary']}")  # 原文摘要
         if art.get("summary_cn") and art["summary_cn"] != art["summary"]:  # 有中文翻译且不同于原文
             text_lines.append(f"  {art['summary_cn']}")  # 中文摘要
         text_lines.append(f"  🔗 {url}")  # 原文链接（英文源自动走翻译）
+        text_lines.append("")
     full_text = "\n".join(text_lines)  # 拼接为完整字符串
 
     # --- 第 4 步：生成 TTS 语音 ---
@@ -596,7 +806,28 @@ async def main():
     async with httpx.AsyncClient(headers=HEADERS) as client:
         title_prefix = f"🤖 AI 早报 {date_str}"  # 推送标题前缀
         await send_bark_chunked(client, title_prefix, full_text, mp3_url)  # 分段推送
-        print("[完成] 所有推送已发送")
+        # 飞书备用通道（如果配置了 Webhook）
+        await send_feishu(client, f"🤖 AI 早报 {date_str} {weekday_str}", full_text)  # 飞书推送
+        print("[完成] 每日推送已发送")
+
+        # --- 第 6 步：周一发送每周回顾 ---
+        is_monday = datetime.now(timezone(timedelta(hours=8))).weekday() == 0  # 判断是否周一
+        if is_monday:  # 周一额外推送周报
+            print("[周报] 今天是周一，生成周报...")
+            week_records = load_week_history(date_str)  # 读取过去 7 天数据
+            if week_records:  # 有数据才生成
+                weekly_text = build_weekly_report(date_str, weekday_str, week_records)  # 生成周报
+                if weekly_text:  # 生成成功
+                    weekly_title = f"📊 AI 周报 {date_str}"  # 周报标题
+                    await send_bark_chunked(client, weekly_title, weekly_text)  # Bark 推送周报
+                    await send_feishu(client, weekly_title, weekly_text)  # 飞书推送周报
+                    print(f"[周报] 已发送，覆盖 {len(week_records)} 条历史新闻")
+            else:
+                print("[周报] 无历史数据，跳过")
+
+    # --- 第 7 步：存档当天数据（用于后续周报）---
+    save_daily_history(date_str, articles)  # 保存 JSON 到 history/ 目录
+    print("[存档] 当天数据已存档")
 
 
 if __name__ == "__main__":
