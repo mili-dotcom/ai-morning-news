@@ -1,0 +1,52 @@
+name: AI 早报推送
+
+on:
+  schedule:
+    # 北京时间每天早上 7:00 = UTC 23:00
+    # GitHub Actions cron 基于 UTC 时间
+    - cron: "0 23 * * *"
+  # 允许手动触发（用于测试）
+  workflow_dispatch:
+
+# 需要写入权限才能推送 gh-pages 分支
+permissions:
+  contents: write
+
+jobs:
+  morning-news:
+    runs-on: ubuntu-latest  # 使用 Ubuntu 最新环境
+    timeout-minutes: 10  # 超时保护，避免意外空转
+
+    steps:
+      # --- 第 1 步：检出代码 ---
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      # --- 第 2 步：安装 Python ---
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"  # Python 3.11，稳定且 GitHub Actions 原生支持
+
+      # --- 第 3 步：安装依赖 ---
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      # --- 第 4 步：运行主脚本 ---
+      - name: 生成早报并推送
+        env:
+          BARK_KEY: ${{ secrets.BARK_KEY }}  # GitHub Secrets 传入
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: python main.py
+
+      # --- 第 5 步：发布 mp3 到 GitHub Pages ---
+      - name: 发布语音到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # 自动生成的 token
+          publish_dir: ./output  # 只发布 mp3 所在的 output 目录
+          publish_branch: gh-pages  # 发布到 gh-pages 分支
+          keep_files: false  # 每次覆盖，只保留最新一期的 mp3
+          user_name: "github-actions[bot]"  # 提交者名称
+          user_email: "github-actions[bot]@users.noreply.github.com"  # 提交者邮箱
+          commit_message: "更新早报语音 [skip ci]"  # 提交信息
