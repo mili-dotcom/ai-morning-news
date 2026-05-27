@@ -36,7 +36,7 @@ jobs:
       - name: 生成早报并推送
         env:
           BARK_KEY: ${{ secrets.BARK_KEY }}  # GitHub Secrets 传入
-          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          PAGES_URL: https://cdn.jsdelivr.net/gh/${{ github.repository }}@gh-pages
         run: python main.py
 
       # --- 第 5 步：发布 mp3 到 GitHub Pages ---
