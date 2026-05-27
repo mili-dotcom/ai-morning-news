@@ -560,6 +560,10 @@ async def main():
     # --- 第 3 步：构建文字摘要 ---
     text_lines = [f"🤖 AI 早报 | {date_str} {weekday_str}", "=" * 30, ""]
     for i, art in enumerate(articles, 1):  # 逐条格式化
+        # 英文源链接用 Google 翻译包装，点击即看中文版
+        url = art['url']  # 原文链接
+        if art.get("title_cn") and url:  # 有中文翻译说明原文是英文 → 包装链接
+            url = f"https://translate.google.com/translate?hl=zh-CN&sl=auto&u={url}"  # Google 翻译代理
         # 标题：有中文翻译就显示双语，否则只显示原文
         if art.get("title_cn"):  # 有中文翻译（说明原文是英文）
             text_lines.append(f"【{i}】{art['title']}")  # 英文原标题
@@ -572,8 +576,7 @@ async def main():
             text_lines.append(f"  {art['summary']}")  # 原文摘要
         if art.get("summary_cn") and art["summary_cn"] != art["summary"]:  # 有中文翻译且不同于原文
             text_lines.append(f"  {art['summary_cn']}")  # 中文摘要
-        text_lines.append(f"  🔗 {art['url']}")  # 原文链接
-        text_lines.append("")
+        text_lines.append(f"  🔗 {url}")  # 原文链接（英文源自动走翻译）
     full_text = "\n".join(text_lines)  # 拼接为完整字符串
 
     # --- 第 4 步：生成 TTS 语音 ---
