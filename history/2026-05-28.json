@@ -1,0 +1,122 @@
+[
+  {
+    "title": "YouTube 将自动标记人工智能生成的视频",
+    "source": "Hacker News",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 968
+  },
+  {
+    "title": "我认为 Anthropic 和 OpenAI 已经找到了产品与市场的契合点",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 918
+  },
+  {
+    "title": "Google 表示人们喜欢 AI 模式后，DuckDuckGo 搜索访问量增加了 28%",
+    "source": "Hacker News",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 908
+  },
+  {
+    "title": "科技公司首席执行官显然患有人工智能精神病",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 658
+  },
+  {
+    "title": "越狱 Kindle 上的 Rust（和 Slint）",
+    "source": "Hacker News",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 176
+  },
+  {
+    "title": "当给定“可预测”数据时，GPU 上的矩阵乘法运行速度更快 (2024)",
+    "source": "Hacker News",
+    "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 163
+  },
+  {
+    "title": "Show HN：开源工作区（邮件、文档、电子表格、驱动器）网络/iOS",
+    "source": "Hacker News",
+    "url": "https://tinycld.org/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 99
+  },
+  {
+    "title": "尤里卡机器像自然一样思考并探索人工智能无法探索的事物",
+    "source": "Hacker News",
+    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 92
+  },
+  {
+    "title": "调查及时礼貌如何影响法学硕士准确性（2025）",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.04950",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 83
+  },
+  {
+    "title": "AMD 通过 Vivado 许可变更吸引 Linux 用户",
+    "source": "Hacker News",
+    "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 67
+  },
+  {
+    "title": "Vertu 希望首席执行官能够通过起价 6,880 美元的人工智能折叠屏来运营公司",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "为什么谷歌的人工智能无法拼写Google（或其他任何东西）",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "对于亚马逊来说，更多好消息是 Snowflake 与 AWS 签署了 60 亿美元的 AI CPU 芯片协议",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "薪资初创公司 Remote 表示，在不增加员工人数的情况下，每位员工的收入增长了 50%",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "您的 SEO 策略针对不再存在的搜索引擎进行了优化。",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
