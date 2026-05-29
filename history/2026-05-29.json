@@ -1,0 +1,122 @@
+[
+  {
+    "title": "近距离工作 4.8",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1555
+  },
+  {
+    "title": "YouTube 将自动标记人工智能生成的视频",
+    "source": "Hacker News",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1289
+  },
+  {
+    "title": "Anthropic 在 H 系列融资中筹集了 65B 美元，投后估值为 965B 美元",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/series-h",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 347
+  },
+  {
+    "title": "Show HN：继续？是/否：关于 AI 代理权限疲劳的 60 秒游戏",
+    "source": "Hacker News",
+    "url": "https://llmgame.scalex.dev",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 330
+  },
+  {
+    "title": "各种LLM的味道",
+    "source": "Hacker News",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 315
+  },
+  {
+    "title": "诉讼称，旧金山初创公司正在 Airbnb 中测试机器人，然后将其扔掉",
+    "source": "Hacker News",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 217
+  },
+  {
+    "title": "Claude Code – 您可以配置文档没有告诉您的一切",
+    "source": "Hacker News",
+    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 118
+  },
+  {
+    "title": "神秘的 Hy3 LLM 大幅领先 OpenRouter 模型排名",
+    "source": "Hacker News",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 83
+  },
+  {
+    "title": "Show HN：Ktx – 数据代理的开源可执行上下文层",
+    "source": "Hacker News",
+    "url": "https://github.com/Kaelio/ktx",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 76
+  },
+  {
+    "title": "在 macOS 上将 Tailscale 与 OrbStack VM 结合使用",
+    "source": "Hacker News",
+    "url": "https://github.com/highpost/tailscale-macos-vm",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 72
+  },
+  {
+    "title": "Show HN：开源人工智能赛车线束",
+    "source": "Hacker News",
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 71
+  },
+  {
+    "title": "微软数据显示使用人工智能比雇佣员工更昂贵",
+    "source": "Hacker News",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 58
+  },
+  {
+    "title": "随着 AI 预算削减成为其主要卖点，Glean 的营收突破 3 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "正在为机器重建互联网",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Asana 收购无代码代理构建器 StackAI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
