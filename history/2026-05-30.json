@@ -1,0 +1,122 @@
+[
+  {
+    "title": "近距离工作 4.8",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1733
+  },
+  {
+    "title": "Mistral AI Now 峰会的笔记",
+    "source": "Hacker News",
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 357
+  },
+  {
+    "title": "人工智能是否会导致前端失去的十年重演？",
+    "source": "Hacker News",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 334
+  },
+  {
+    "title": "标准 GPU 上的实时 LLM 推理：每个请求 3k 令牌/秒",
+    "source": "Hacker News",
+    "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 204
+  },
+  {
+    "title": "Liquid AI 揭示了在 38T 上训练的 8B-A1B MoE",
+    "source": "Hacker News",
+    "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 182
+  },
+  {
+    "title": "Claude 代码中的动态工作流程",
+    "source": "Hacker News",
+    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "显示 HN：Tiny-vLLM – C++ 和 CUDA 中的高性能 LLM 推理引擎",
+    "source": "Hacker News",
+    "url": "https://github.com/jmaczan/tiny-vllm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 137
+  },
+  {
+    "title": "Shift将免费打扫房屋以训练未来机器人",
+    "source": "Hacker News",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 130
+  },
+  {
+    "title": "神秘的 Hy3 LLM 大幅领先 OpenRouter 模型排名",
+    "source": "Hacker News",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 127
+  },
+  {
+    "title": "人工智能时代的专业知识",
+    "source": "Hacker News",
+    "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 112
+  },
+  {
+    "title": "Show HN：Zot – 另一种编码代理工具",
+    "source": "Hacker News",
+    "url": "https://www.zot.sh",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 78
+  },
+  {
+    "title": "验证码仍然可以检测 AI 代理",
+    "source": "Hacker News",
+    "url": "https://research.roundtable.ai/captchas-detect-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "程序员拒绝在没有人工智能的情况下工作——这可能会给他们带来负面影响",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "所以你已经听过这些人工智能术语并且点点头；让我们解决这个问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "当公司过于依赖人工智能时会发生什么？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
