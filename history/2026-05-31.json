@@ -1,0 +1,122 @@
+[
+  {
+    "title": "领域专业知识始终是真正的护城河",
+    "source": "Hacker News",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 576
+  },
+  {
+    "title": "OpenRouter 筹集 1.13 亿美元 B 轮融资",
+    "source": "Hacker News",
+    "url": "https://openrouter.ai/announcements/series-b",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 417
+  },
+  {
+    "title": "用 Godot 游戏引擎解释纳维-斯托克斯流体模拟",
+    "source": "Hacker News",
+    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 223
+  },
+  {
+    "title": "Intel 8087浮点芯片内部的微代码：寄存器交换",
+    "source": "Hacker News",
+    "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 114
+  },
+  {
+    "title": "软银表示将投资高达750亿欧元建设法国数据中心",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "“开什么玩笑”：Github Copilot 基于代币的新计费方式让开发者感到惊愕",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "据报道 Meta 正在开发一款 AI 挂件",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "我让 Google 的 24/7 AI 助手 Gemini Spark 开始工作，它实际上非常有用",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "随着浏览器大战愈演愈烈，以下是 2026 年 Chrome 和 Safari 的最热门替代品",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "程序员拒绝在没有人工智能的情况下工作——这可能会给他们带来负面影响",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "所以你已经听过这些人工智能术语并且点点头；让我们解决这个问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "当公司过于依赖人工智能时会发生什么？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，在 Nvidia 完成 200 亿美元非收购聘用后，AI 芯片初创公司 Groq 筹集了 6.5 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Cognition 的 Scott Wu 表示人工智能编码代理不应取代人类",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "您只需要物理吗？物理学家监督的科学软件人工智能开发案例研究",
+    "source": "ArXiv (cs.AI)",
+    "url": "https://arxiv.org/pdf/2605.30353v1",
+    "category": "学术前沿",
+    "emoji": "🔬",
+    "hotness": 45
+  }
+]
