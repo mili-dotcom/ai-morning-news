@@ -5,7 +5,7 @@
     "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 359
+    "hotness": 588
   },
   {
     "title": "Anthropic 向 SEC 秘密提交 S-1 草案",
@@ -13,23 +13,15 @@
     "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
     "category": "大厂动态",
     "emoji": "🏭",
-    "hotness": 281
+    "hotness": 503
   },
   {
-    "title": "随着流量的激增，DuckDuckGo 使其“非人工智能”搜索引擎更易于访问",
+    "title": "股市能否吞并 Anthropic、SpaceX 和 OpenAI？",
     "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 234
-  },
-  {
-    "title": "Nvidia RTX Spark",
-    "source": "Hacker News",
-    "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-    "category": "芯片算力",
-    "emoji": "📊",
-    "hotness": 187
+    "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 445
   },
   {
     "title": "斯坦福大学 CS336 人工智能代理指南",
@@ -37,86 +29,94 @@
     "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 149
+    "hotness": 437
   },
   {
-    "title": "英伟达 Cosmos 3",
+    "title": "Nvidia RTX Spark",
     "source": "Hacker News",
-    "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+    "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
     "category": "芯片算力",
     "emoji": "📊",
-    "hotness": 132
+    "hotness": 401
   },
   {
-    "title": "供水现已成为 SpaceX IPO 的一个风险因素",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-    "category": "融资创投",
-    "emoji": "💰",
-    "hotness": 55
-  },
-  {
-    "title": "人为文件将公开",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "category": "融资创投",
-    "emoji": "💰",
-    "hotness": 55
-  },
-  {
-    "title": "这家人工智能天气初创公司的预测能力超过了政府机构",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "title": "OpenAI 前沿模型和 Codex 现已在 AWS 上提供",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 55
+    "hotness": 297
   },
   {
-    "title": "艾琳·布罗科维奇 (Erin Brockovich) 致力于数据中心保密",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-    "category": "融资创投",
-    "emoji": "💰",
-    "hotness": 55
+    "title": "奇波莱·麦克斯",
+    "source": "Hacker News",
+    "url": "https://github.com/cyberpapiii/chipotlai-max",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 269
   },
   {
-    "title": "理解人工智能精神病的争论",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "category": "融资创投",
-    "emoji": "💰",
-    "hotness": 55
-  },
-  {
-    "title": "软银表示将投资高达 75B 欧元建设法国数据中心",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "category": "融资创投",
-    "emoji": "💰",
-    "hotness": 55
-  },
-  {
-    "title": "“开什么玩笑”：GitHub Copilot 基于代币的新计费方式让开发人员感到惊愕",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "title": "佛罗里达州因人工智能风险起诉 OpenAI 和 Sam Altman",
+    "source": "Hacker News",
+    "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
     "category": "大厂动态",
     "emoji": "🏭",
-    "hotness": 55
+    "hotness": 246
   },
   {
-    "title": "据报道 Meta 正在开发一款 AI 挂件",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "category": "大厂动态",
-    "emoji": "🏭",
-    "hotness": 55
+    "title": "微软打造 MacBook Pro 与 NVIDIA 驱动的 Surface Laptop Ultra 竞争",
+    "source": "Hacker News",
+    "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 238
   },
   {
-    "title": "我让 Google 的 24/7 AI 助手 Gemini Spark 开始工作，它实际上非常有用",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "title": "Alphabet 宣布筹集 80B 美元股权资本以扩大人工智能基础设施和计算",
+    "source": "Hacker News",
+    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 216
+  },
+  {
+    "title": "Adafruit 收到 Fenwick 法律顾问代表 Flux.ai 发出的要求函",
+    "source": "Hacker News",
+    "url": "https://blog.adafruit.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "Groq 如何筹集更多资金？",
+    "source": "Hacker News",
+    "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 121
+  },
+  {
+    "title": "推出 HN: Expanse (YC P26) – 释放浪费的 GPU 容量",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48356312",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 87
+  },
+  {
+    "title": "Michael Burry 表示 SpaceX 和 Anthropic 都不值 1T 美元",
+    "source": "Hacker News",
+    "url": "https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6",
     "category": "大厂动态",
     "emoji": "🏭",
-    "hotness": 55
+    "hotness": 82
+  },
+  {
+    "title": "Strace-ui、Bonsai_term 和 TUI 复兴",
+    "source": "Hacker News",
+    "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
   }
 ]
