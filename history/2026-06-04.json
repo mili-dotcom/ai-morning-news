@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Gmail 认为我很蠢，所以我离开了",
+    "source": "Hacker News",
+    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1100
+  },
+  {
+    "title": "MAI-代码-1-闪存",
+    "source": "Hacker News",
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 513
+  },
+  {
+    "title": "使用 Nvidia GPU 的 VRAM 作为 Linux 上的交换空间",
+    "source": "Hacker News",
+    "url": "https://github.com/c0dejedi/nbd-vram",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 405
+  },
+  {
+    "title": "斯坦福大学法学院研究中人工智能表现优于法学教授",
+    "source": "Hacker News",
+    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 361
+  },
+  {
+    "title": "经过几周的逆转后，特朗普签署了缩小人工智能订单规模",
+    "source": "Hacker News",
+    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 223
+  },
+  {
+    "title": "32GB DDR5 现在售价 375 美元——人工智能短缺继续挤压 PC 制造",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 168
+  },
+  {
+    "title": "开放维修数据标准",
+    "source": "Hacker News",
+    "url": "https://openrepair.org/open-data/open-standard/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 148
+  },
+  {
+    "title": "多伦多大学研究人员证明人工智能蠕虫可以针对任何在线设备",
+    "source": "Hacker News",
+    "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 104
+  },
+  {
+    "title": "莱顿人工智能和数学宣言",
+    "source": "Hacker News",
+    "url": "https://leidendeclaration.ai/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 87
+  },
+  {
+    "title": "DIY双足机器人使用气动“空气肌肉”代替电机",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 62
+  },
+  {
+    "title": "当你出于某种原因搜索时，亚马逊将显示人工智能产品图片",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "这两位创始人离开高盛和 Meta，为其他人忽视的市场构建语音人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "由于新规定，出版商将能够选择退出人工智能搜索",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 的 WhatsApp Business 人工智能代理现已在全球推出",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Coralogix 筹集了 2 亿美元，押注需要有人监视人工智能代理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
