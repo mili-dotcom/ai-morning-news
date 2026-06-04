@@ -1,83 +1,107 @@
 [
   {
-    "title": "Gmail 认为我很蠢，所以我离开了",
+    "title": "Uber 每月 1,500 美元的人工智能限额对于人工智能工具定价来说是一个有用的信号",
     "source": "Hacker News",
-    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 1100
+    "hotness": 493
   },
   {
-    "title": "MAI-代码-1-闪存",
+    "title": "人工智能没有意识——特德·蒋",
     "source": "Hacker News",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 513
-  },
-  {
-    "title": "使用 Nvidia GPU 的 VRAM 作为 Linux 上的交换空间",
-    "source": "Hacker News",
-    "url": "https://github.com/c0dejedi/nbd-vram",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
     "category": "芯片算力",
     "emoji": "📊",
-    "hotness": 405
+    "hotness": 456
   },
   {
-    "title": "斯坦福大学法学院研究中人工智能表现优于法学教授",
+    "title": "随着人工智能的使用，伯克利计算机科学课程中数学技能的下降，不及格成绩飙升",
     "source": "Hacker News",
-    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 361
+    "hotness": 340
   },
   {
-    "title": "经过几周的逆转后，特朗普签署了缩小人工智能订单规模",
+    "title": "随着人工智能迅速普及，数学家发出警告",
     "source": "Hacker News",
-    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 244
+  },
+  {
+    "title": "我构建了一个易受攻击的应用程序并花了 1,500 美元看看法学硕士是否可以破解它",
+    "source": "Hacker News",
+    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 230
+  },
+  {
+    "title": "Gooey：Zig 的 GPU 加速 UI 框架",
+    "source": "Hacker News",
+    "url": "https://github.com/duanebester/gooey",
     "category": "芯片算力",
     "emoji": "📊",
-    "hotness": 223
+    "hotness": 180
   },
   {
-    "title": "32GB DDR5 现在售价 375 美元——人工智能短缺继续挤压 PC 制造",
+    "title": "我们跨产品遏制 Claude 的方式",
     "source": "Hacker News",
-    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 168
+    "hotness": 135
   },
   {
-    "title": "开放维修数据标准",
+    "title": "土耳其如何入侵毛发移植行业",
     "source": "Hacker News",
-    "url": "https://openrepair.org/open-data/open-standard/",
+    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 148
+    "hotness": 119
   },
   {
-    "title": "多伦多大学研究人员证明人工智能蠕虫可以针对任何在线设备",
+    "title": "英国媒体在近 60% 的案件中未能披露国防部门的联系",
     "source": "Hacker News",
-    "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+    "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 104
+    "hotness": 97
   },
   {
-    "title": "莱顿人工智能和数学宣言",
+    "title": "推出 HN：Hyper (YC P26) – 公司大脑推动代理开发",
     "source": "Hacker News",
-    "url": "https://leidendeclaration.ai/",
-    "category": "芯片算力",
-    "emoji": "📊",
-    "hotness": 87
-  },
-  {
-    "title": "DIY双足机器人使用气动“空气肌肉”代替电机",
-    "source": "Hacker News",
-    "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+    "url": "https://news.ycombinator.com/item?id=48387095",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 62
+    "hotness": 69
+  },
+  {
+    "title": "消息人士称，Lovable 与 Google Cloud 签署多年协议，将使用量提高 5 倍",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Alphabet 破纪录地为谷歌人工智能业务筹集了 85B 美元，这是一个非常好的信号",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌的 Dreambeans，迄今为止名字最奇怪的人工智能工具，将把你的生活变成卡通",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
   },
   {
     "title": "当你出于某种原因搜索时，亚马逊将显示人工智能产品图片",
@@ -93,30 +117,6 @@
     "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
     "category": "大厂动态",
     "emoji": "🏭",
-    "hotness": 55
-  },
-  {
-    "title": "由于新规定，出版商将能够选择退出人工智能搜索",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 55
-  },
-  {
-    "title": "Meta 的 WhatsApp Business 人工智能代理现已在全球推出",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-    "category": "大厂动态",
-    "emoji": "🏭",
-    "hotness": 55
-  },
-  {
-    "title": "Coralogix 筹集了 2 亿美元，押注需要有人监视人工智能代理",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-    "category": "融资创投",
-    "emoji": "💰",
     "hotness": 55
   }
 ]
