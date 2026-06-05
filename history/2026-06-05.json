@@ -1,0 +1,122 @@
+[
+  {
+    "title": "随着人工智能的使用，伯克利计算机科学课程中数学技能的下降，不及格成绩飙升",
+    "source": "Hacker News",
+    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 777
+  },
+  {
+    "title": "当人工智能自我构建时：我们在递归自我完善方面的进展",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 461
+  },
+  {
+    "title": "Anthropic 用于人工智能驱动的漏洞发现的开源框架",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 436
+  },
+  {
+    "title": "Open Code Review – 人工智能驱动的代码审查 CLI 工具",
+    "source": "Hacker News",
+    "url": "https://github.com/alibaba/open-code-review",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 189
+  },
+  {
+    "title": "武士城",
+    "source": "Hacker News",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 170
+  },
+  {
+    "title": "KVarN：华为用于 KV 缓存量化的原生 vLLM 后端",
+    "source": "Hacker News",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 138
+  },
+  {
+    "title": "韩国论坛需要使用人工智能审查工具扫描每张图片",
+    "source": "Hacker News",
+    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 136
+  },
+  {
+    "title": "3D打印的书将自己的G代码变成凸起的字体",
+    "source": "Hacker News",
+    "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 82
+  },
+  {
+    "title": "微调 LLM 以像 1995 年一样编写文档",
+    "source": "Hacker News",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 77
+  },
+  {
+    "title": "米拉·穆拉蒂 (Mira Murati) 小心翼翼地重新回到聚光灯下",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "在 IPO 之前，Anthropic 的 Daniela Amodei 摆脱了对人工智能回报的疑虑",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Airbnb 的布莱恩·切斯基 (Brian Chesky) 计划推出新的人工智能实验室",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "6 月 18 日，国防技术、人工智能和筹款成为洛杉矶 StrictlyVC 的焦点",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 借鉴特斯拉的策略，在帐篷里建数据中心",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 55
+  },
+  {
+    "title": "Apple 批准 Poke 作为其 Messages for Business 平台上的第一个 AI 代理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
