@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Claude是否增加了rsync中的bug？",
+    "source": "Hacker News",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 396
+  },
+  {
+    "title": "宇航员在因漏气维修而避难后被告知返回国际空间站",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 386
+  },
+  {
+    "title": "标准普尔 500 指数拒绝 SpaceX，还阻止 OpenAI 和 Anthropic 进入",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 312
+  },
+  {
+    "title": "问 HN：您对 GenAI 感到“糟糕”的时刻是什么？",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48406174",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 310
+  },
+  {
+    "title": "法学硕士如何运作",
+    "source": "Hacker News",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 259
+  },
+  {
+    "title": "韩国论坛将需要使用人工智能审查工具扫描每张图片",
+    "source": "Hacker News",
+    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 243
+  },
+  {
+    "title": "微调 LLM 以像 1995 年一样编写文档",
+    "source": "Hacker News",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 184
+  },
+  {
+    "title": "我的测试驱动开发代理技能",
+    "source": "Hacker News",
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 170
+  },
+  {
+    "title": "现代相机镜头维修的难点（2024）",
+    "source": "Hacker News",
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 154
+  },
+  {
+    "title": "显示 HN：Lowfat – 可插入 CLI 过滤器，节省了我 91.8% 的 LLM 令牌",
+    "source": "Hacker News",
+    "url": "https://github.com/zdk/lowfat",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 127
+  },
+  {
+    "title": "问 HN：为什么 HN 人群如此反人工智能？",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48420827",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 124
+  },
+  {
+    "title": "C++ 的封底：该语言提出了封面未回答的问题",
+    "source": "Hacker News",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 77
+  },
+  {
+    "title": "Show HN：正式验证的多边形交集 – Opus 4.8 oneshots，上一个失败",
+    "source": "Hacker News",
+    "url": "https://github.com/schildep/verified-polygon-intersection",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "FAISS 内部：十亿级相似性搜索",
+    "source": "Hacker News",
+    "url": "https://fremaconsulting.ch/blog/faiss",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 59
+  },
+  {
+    "title": "Startup Battlefield 200 申请将在 3 天后正式截止",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
