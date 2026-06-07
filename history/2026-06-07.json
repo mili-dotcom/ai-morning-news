@@ -1,0 +1,122 @@
+[
+  {
+    "title": "法学硕士如何运作",
+    "source": "Hacker News",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 885
+  },
+  {
+    "title": "问 HN：您对 GenAI 感到“糟糕”的时刻是什么？",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48406174",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 622
+  },
+  {
+    "title": "Meta 证实数千个 Instagram 账户因滥用人工智能聊天机器人而被黑客入侵",
+    "source": "Hacker News",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 598
+  },
+  {
+    "title": "消息人士称，五角大楼将以色列对美国进行间谍活动的威胁提高到最高级别",
+    "source": "Hacker News",
+    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 523
+  },
+  {
+    "title": "Nvidia 正在为 Windows PC 推出一款野兽般的 CPU 系统",
+    "source": "Hacker News",
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 286
+  },
+  {
+    "title": "谷歌每月向 SpaceX 支付 9.2 亿美元，用于 xAI 数据中心的计算能力",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 246
+  },
+  {
+    "title": "线束工程：在代理优先的世界中利用 Codex",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/harness-engineering/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 198
+  },
+  {
+    "title": "我现在和 Claude 一起设计比 Figma 还多",
+    "source": "Hacker News",
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 160
+  },
+  {
+    "title": "公共领域图像档案",
+    "source": "Hacker News",
+    "url": "https://pdimagearchive.org/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 124
+  },
+  {
+    "title": "代币经济学：量化代币在代理软件工程中的使用情况",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2601.14470",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 106
+  },
+  {
+    "title": "OpenAI 推出锁定模式以保护敏感数据免受即时注入攻击",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "WWDC 2026 值得期待：Siri 备受期待的改造和 Apple Intelligence 更新",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Sriram Krishnan 将辞去白宫人工智能顾问的职务",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "特朗普政府可能入股 OpenAI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Startup Battlefield 200 申请将在 3 天后正式截止",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
