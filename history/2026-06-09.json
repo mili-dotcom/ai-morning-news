@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Apple 展示了围绕 Google Gemini 模型构建的新 AI 架构",
+    "source": "Hacker News",
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 610
+  },
+  {
+    "title": "Siri人工智能",
+    "source": "Hacker News",
+    "url": "https://www.apple.com/apple-intelligence/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 592
+  },
+  {
+    "title": "xAI 看起来更像是数据中心 REIT，而不是前沿实验室",
+    "source": "Hacker News",
+    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 575
+  },
+  {
+    "title": "人工智能正在放缓",
+    "source": "Hacker News",
+    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 572
+  },
+  {
+    "title": "问 HN：自从人工智能出现以来，您为自己制作了哪些工具？",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48449187",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 311
+  },
+  {
+    "title": "苹果核心人工智能框架",
+    "source": "Hacker News",
+    "url": "https://developer.apple.com/documentation/coreai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 307
+  },
+  {
+    "title": "微软开源工具被黑客窃取AI开发者密码",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 180
+  },
+  {
+    "title": "回复我的“法学硕士正在侵蚀我的职业生涯”帖子的评论",
+    "source": "Hacker News",
+    "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 152
+  },
+  {
+    "title": "苹果押注更便宜的人工智能将吸引小型开发者",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 69
+  },
+  {
+    "title": "amd64 微架构级别对 Go 有多大帮助？",
+    "source": "Hacker News",
+    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 60
+  },
+  {
+    "title": "为什么苹果缓慢而稳定的人工智能赌注开始看起来相当明智",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Mercor 的 Brendan Foody 点名红杉，指责其“双重定价”估值技巧",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "报告称，随着 OpenAI 申请 IPO，Sam Altman 的眼部扫描公司正在裁员",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "苹果 WWDC 人工智能演示在 2.5 亿美元虚假广告和解后看起来更加真实",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "继 Anthropic 之后，OpenAI 秘密提交 IPO 申请",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
