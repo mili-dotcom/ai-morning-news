@@ -1,0 +1,122 @@
+[
+  {
+    "title": "克劳德寓言5",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 2310
+  },
+  {
+    "title": "如果克劳德寓言不再帮助你，你永远不会知道",
+    "source": "Hacker News",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 865
+  },
+  {
+    "title": "macOS 容器机",
+    "source": "Hacker News",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 849
+  },
+  {
+    "title": "认为人工智能取代员工的首席执行官都是糟糕的首席执行官",
+    "source": "Hacker News",
+    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 717
+  },
+  {
+    "title": "德国裁决宣布谷歌对人工智能概述中的错误答案承担责任",
+    "source": "Hacker News",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 645
+  },
+  {
+    "title": "微软开源工具被黑客窃取AI开发者密码",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 540
+  },
+  {
+    "title": "Grit：使用代理在 Rust 中重写 Git",
+    "source": "Hacker News",
+    "url": "https://blog.gitbutler.com/true-grit",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 153
+  },
+  {
+    "title": "Grep 是您所需要的吗？ Agent 如何利用重塑 Agentic 搜索",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2605.15184",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 151
+  },
+  {
+    "title": "Rich Sutton 谈人工智能创造力和发现",
+    "source": "Hacker News",
+    "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 139
+  },
+  {
+    "title": "我们对自己说的有关电子邮件地址的谎言",
+    "source": "Hacker News",
+    "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 130
+  },
+  {
+    "title": "AWS Bedrock 要求与 Anthropic 共享 Mythos 和未来模型的数据",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48473166",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 129
+  },
+  {
+    "title": "Show HN：GentleOS – 一对适用于老式 32 位和 16 位 PC 的业余爱好操作系统",
+    "source": "Hacker News",
+    "url": "https://github.com/luke8086/gentleos32",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 113
+  },
+  {
+    "title": "Meta 与 Reliance 签署印度首个人工智能数据中心协议",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌刚刚在人工智能订阅价格战中发出警告",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Justin Ernest 如何在没有传统风险投资基金的情况下向热门初创企业投资近 5 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
