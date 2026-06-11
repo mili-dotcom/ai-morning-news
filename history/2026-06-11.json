@@ -1,0 +1,122 @@
+[
+  {
+    "title": "克劳德寓言5",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 2572
+  },
+  {
+    "title": "macOS 容器机",
+    "source": "Hacker News",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1225
+  },
+  {
+    "title": "网络安全研究人员对《人类寓言》的护栏并不满意",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 495
+  },
+  {
+    "title": "Anthropic 要求《寓言》和《神话》保留 30 天的数据",
+    "source": "Hacker News",
+    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 493
+  },
+  {
+    "title": "AI 代理在 Fedora 和其他地方横行",
+    "source": "Hacker News",
+    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 455
+  },
+  {
+    "title": "Pokémon Go 扫描训练了军用无人机的导航技术",
+    "source": "Hacker News",
+    "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 422
+  },
+  {
+    "title": "Claude Desktop 在每次启动时都会生成 1.8 GB Hyper-V 虚拟机，甚至仅用于聊天用途",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 408
+  },
+  {
+    "title": "硅氧烷事件",
+    "source": "Hacker News",
+    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 249
+  },
+  {
+    "title": "所有 9,300 个日本火车站，按其开业年份（1872 年至 2026 年）活跃起来",
+    "source": "Hacker News",
+    "url": "https://jivx.com/eki",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 246
+  },
+  {
+    "title": "Apache Burr：构建可靠的 AI 代理和应用程序",
+    "source": "Hacker News",
+    "url": "https://burr.apache.org/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 230
+  },
+  {
+    "title": "0.01 欧元的银行转账可能会危及银行人工智能代理的安全",
+    "source": "Hacker News",
+    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 192
+  },
+  {
+    "title": "DeepSeek 的注释",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48476474",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 185
+  },
+  {
+    "title": "从瑞士铁路购买火车、桥梁或铁轨",
+    "source": "Hacker News",
+    "url": "https://sbbresale.ch/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 177
+  },
+  {
+    "title": "5k of C 咒语克朗代克纸牌游戏",
+    "source": "Hacker News",
+    "url": "https://nanochess.org/klondike_in_c.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 89
+  },
+  {
+    "title": "为什么人工智能没有、将来也不会取代软件工程师",
+    "source": "Hacker News",
+    "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 81
+  }
+]
