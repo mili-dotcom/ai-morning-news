@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AI 特工在尝试扫描 DN42 时让他们的运营商破产",
+    "source": "Hacker News",
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 751
+  },
+  {
+    "title": "Pokémon Go 扫描训练了军用无人机的导航技术",
+    "source": "Hacker News",
+    "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 701
+  },
+  {
+    "title": "克劳德·寓言始终积极主动",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 510
+  },
+  {
+    "title": "人类为隐形的克劳德寓言护栏道歉",
+    "source": "Hacker News",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 441
+  },
+  {
+    "title": "克劳德寓言 5：编码任务的中等结果",
+    "source": "Hacker News",
+    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 338
+  },
+  {
+    "title": "AMD 无法修复的 RCE",
+    "source": "Hacker News",
+    "url": "https://mrbruh.com/amd2/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 281
+  },
+  {
+    "title": "练耳练习",
+    "source": "Hacker News",
+    "url": "https://tonedear.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 258
+  },
+  {
+    "title": "DeepSeek-R1 的开放复制",
+    "source": "Hacker News",
+    "url": "https://github.com/huggingface/open-r1",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 233
+  },
+  {
+    "title": "Waymo Premier",
+    "source": "Hacker News",
+    "url": "https://waymo.com/blog/2026/06/waymo-premier/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 194
+  },
+  {
+    "title": "随着美国阅读荷兰电子邮件，数字主权成为当务之急",
+    "source": "Hacker News",
+    "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "陶哲轩如何成为人工智能在数学领域的布道者",
+    "source": "Hacker News",
+    "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 137
+  },
+  {
+    "title": "从空气中收集饮用水的夹克",
+    "source": "Hacker News",
+    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 112
+  },
+  {
+    "title": "顺风和坡度应用程序",
+    "source": "Hacker News",
+    "url": "https://briandouglas.ie/llm-tailwind-template/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 81
+  },
+  {
+    "title": "MTG Bench：测试 LLM 玩万智牌的能力",
+    "source": "Hacker News",
+    "url": "https://mtgautodeck.com/articles/mtg-bench/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 58
+  },
+  {
+    "title": "Avataar 的视频 AI 更便宜、更快且具有文化意识，专为印度规模打造",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
