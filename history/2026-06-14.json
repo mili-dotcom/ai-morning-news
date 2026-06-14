@@ -1,0 +1,122 @@
+[
+  {
+    "title": "亚马逊CEO与美国官员会谈引发对人择模型的打压",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 690
+  },
+  {
+    "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查",
+    "source": "Hacker News",
+    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 327
+  },
+  {
+    "title": "在家进行人工智能编码，不会破产",
+    "source": "Hacker News",
+    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 297
+  },
+  {
+    "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档",
+    "source": "Hacker News",
+    "url": "https://github.com/tensorzero/tensorzero",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 261
+  },
+  {
+    "title": "Show HN：Paca – 用于人机协作的轻量级 Jira 替代方案",
+    "source": "Hacker News",
+    "url": "https://github.com/Paca-AI/paca",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 153
+  },
+  {
+    "title": "Intel 8087 浮点芯片核心的加法器",
+    "source": "Hacker News",
+    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 113
+  },
+  {
+    "title": "由于 Anthropic 暂停使用新模型，印度对其人工智能的未来展开争论",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，在北京方面的要求下，Meta 将解除价值 20 亿美元的 Manus 交易",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，亚马逊首席执行官在政府镇压之前提出了人择模型担忧",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 面临州总检察长的调查",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "安德鲁·杨（Andrew Yang）认为下一个重大创业机会是降低生活成本",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 的安全警告可能适得其反——政府已经终止了其最强大的人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "SpaceX IPO：您需要了解的一切实时更新",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "被困在里面的工程师说，Meta 几个月前的人工智能单元是一个令人心碎的古拉格集中营",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
