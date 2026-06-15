@@ -1,0 +1,122 @@
+[
+  {
+    "title": "曲柄GPT",
+    "source": "Hacker News",
+    "url": "https://crankgpt.com",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 437
+  },
+  {
+    "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并",
+    "source": "Hacker News",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 388
+  },
+  {
+    "title": "Anthropic 的安全超能力",
+    "source": "Hacker News",
+    "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 183
+  },
+  {
+    "title": "TinyWind：具有真实风物理原理的像素海盗航海游戏（航行超过 38 万公里）",
+    "source": "Hacker News",
+    "url": "https://tinywind.io",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 154
+  },
+  {
+    "title": "Show HN：我在没有 AI 的情况下从头开始编写了一个 C++ 光线追踪器",
+    "source": "Hacker News",
+    "url": "https://github.com/themartiano/luz",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 131
+  },
+  {
+    "title": "问 HN：有人用本地模型替换 Claude/GPT 进行日常编码吗？",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 107
+  },
+  {
+    "title": "我的 Homelab 人工智能开发平台",
+    "source": "Hacker News",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 79
+  },
+  {
+    "title": "最具争议的山峰托雷山简史 (2012)",
+    "source": "Hacker News",
+    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 68
+  },
+  {
+    "title": "网络安全专家抗议美国政府对 Anthropic 最强大模型的“危险”禁令",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Salesforce以36亿美元收购人工智能客户服务平台Fin",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Sarvam 获得由 HCLTech 领投的 2.34 亿美元融资，成为印度最新的人工智能独角兽",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "随着人工智能代理成为员工，NewCore 斥资 6600 万美元为他们提供身份",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "一颗卫星刚刚学会了自己寻找东西——这意味着什么",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "AI裁员浪潮正在成为火药桶",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "当人工智能公司竞相上市时，还有谁参与其中？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
