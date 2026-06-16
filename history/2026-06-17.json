@@ -1,0 +1,122 @@
+[
+  {
+    "title": "问 HN：有人用本地模型替换 Claude/GPT 进行日常编码吗？",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1206
+  },
+  {
+    "title": "TinyWind：具有真实风物理原理的像素海盗航海游戏（航行超过 38 万公里）",
+    "source": "Hacker News",
+    "url": "https://tinywind.io",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 949
+  },
+  {
+    "title": "我钦佩法布里斯·贝拉德。几乎可以肯定他是一个整体更好的程序员",
+    "source": "Hacker News",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 655
+  },
+  {
+    "title": "联邦调查局在简单的“修复此代码”提示后对《神鬼寓言5》感到震惊，而不是越狱",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 407
+  },
+  {
+    "title": "我的 Homelab 人工智能开发平台",
+    "source": "Hacker News",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 349
+  },
+  {
+    "title": "为什么我给完全陌生的人发电子邮件",
+    "source": "Hacker News",
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 203
+  },
+  {
+    "title": "克劳德军团",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 151
+  },
+  {
+    "title": "人类还没有准备好迎接即将到来的智能爆炸",
+    "source": "Hacker News",
+    "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 147
+  },
+  {
+    "title": "Cohere 的第一个开发者模型",
+    "source": "Hacker News",
+    "url": "https://cohere.com/blog/north-mini-code",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 129
+  },
+  {
+    "title": "Show HN：Fata – 间隔重复以对抗 AI 编码造成的技能衰退",
+    "source": "Hacker News",
+    "url": "https://fata.dev",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 105
+  },
+  {
+    "title": "《神鬼寓言》禁令从来都不是为了越狱",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 63
+  },
+  {
+    "title": "SpaceX 上市：首次公开募股后您需要了解的一切",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "DOJ 声称 xAI 未经许可的燃气轮机事关“国家、经济和能源安全”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Plaud 表示，在交付超过 200 万台人工智能记事本后，其软件业务的 ARR 突破 1 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Robinhood 关于裁员 10% 的说明表明，指责人工智能并不能减少裁员",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
