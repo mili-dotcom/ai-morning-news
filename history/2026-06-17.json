@@ -1,122 +1,122 @@
 [
   {
-    "title": "问 HN：有人用本地模型替换 Claude/GPT 进行日常编码吗？",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 1206
-  },
-  {
-    "title": "TinyWind：具有真实风物理原理的像素海盗航海游戏（航行超过 38 万公里）",
-    "source": "Hacker News",
-    "url": "https://tinywind.io",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 949
-  },
-  {
     "title": "我钦佩法布里斯·贝拉德。几乎可以肯定他是一个整体更好的程序员",
     "source": "Hacker News",
     "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 655
+    "hotness": 895
   },
   {
-    "title": "联邦调查局在简单的“修复此代码”提示后对《神鬼寓言5》感到震惊，而不是越狱",
+    "title": "人工智能已经杀死了自助非小说类书籍吗？",
     "source": "Hacker News",
-    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 407
+    "hotness": 335
   },
   {
-    "title": "我的 Homelab 人工智能开发平台",
+    "title": "尽管有 130 万个签名，“停止杀戮游戏”仍未能获得欧盟法律的支持",
     "source": "Hacker News",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 349
+    "hotness": 301
   },
   {
-    "title": "为什么我给完全陌生的人发电子邮件",
+    "title": "羞辱 IIS 服务器以获得乐趣和牢狱之灾",
     "source": "Hacker News",
-    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 203
+    "hotness": 300
   },
   {
-    "title": "克劳德军团",
+    "title": "GPT‑NL：荷兰的主权语言模型",
     "source": "Hacker News",
-    "url": "https://www.anthropic.com/news/claude-corps",
+    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 151
+    "hotness": 226
   },
   {
-    "title": "人类还没有准备好迎接即将到来的智能爆炸",
+    "title": "Qwen-Robot Suite：物理世界智能的基础模型套件",
     "source": "Hacker News",
-    "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
     "category": "芯片算力",
     "emoji": "📊",
-    "hotness": 147
+    "hotness": 195
   },
   {
-    "title": "Cohere 的第一个开发者模型",
+    "title": "百分之六十的美国消费者表示品牌信息中的“人工智能”令人厌烦",
     "source": "Hacker News",
-    "url": "https://cohere.com/blog/north-mini-code",
+    "url": "https://wpvip.com/future-of-the-web-2026/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 129
+    "hotness": 122
   },
   {
-    "title": "Show HN：Fata – 间隔重复以对抗 AI 编码造成的技能衰退",
+    "title": "创始人的剧本：建立一家人工智能原生初创公司",
     "source": "Hacker News",
-    "url": "https://fata.dev",
+    "url": "https://claude.com/blog/the-founders-playbook",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 105
+    "hotness": 116
   },
   {
-    "title": "《神鬼寓言》禁令从来都不是为了越狱",
+    "title": "Show HN：cuTile Rust：Rust 中安全、无数据竞争的 GPU 内核",
     "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 63
+    "url": "https://github.com/nvlabs/cutile-rs",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 89
   },
   {
-    "title": "SpaceX 上市：首次公开募股后您需要了解的一切",
+    "title": "加拿大养老金巨头加入竞赛，为印度人工智能推动的数据中心繁荣提供资金",
     "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
     "category": "融资创投",
     "emoji": "💰",
     "hotness": 55
   },
   {
-    "title": "DOJ 声称 xAI 未经许可的燃气轮机事关“国家、经济和能源安全”",
+    "title": "DeepL 收购 Mixhalo，用于现场活动音频流和翻译",
     "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Pinterest 推出了一款名为“Ask Pinterest”的实验性人工智能购物应用程序",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "销售数据显示，Anthropic 与特朗普政府的最新不和实际上可能会有所帮助",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
     "category": "大厂动态",
     "emoji": "🏭",
     "hotness": 55
   },
   {
-    "title": "Plaud 表示，在交付超过 200 万台人工智能记事本后，其软件业务的 ARR 突破 1 亿美元",
+    "title": "SpaceX 估值飙升至 2.6T 美元，短暂超过亚马逊",
     "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
     "category": "融资创投",
     "emoji": "💰",
     "hotness": 55
   },
   {
-    "title": "Robinhood 关于裁员 10% 的说明表明，指责人工智能并不能减少裁员",
+    "title": "随着谷歌扩展 Gemini 功能，Android 17 推出新的多任务工具",
     "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "category": "融资创投",
-    "emoji": "💰",
+    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "category": "开源模型",
+    "emoji": "🧠",
     "hotness": 55
   }
 ]
