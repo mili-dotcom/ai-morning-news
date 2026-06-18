@@ -1,0 +1,122 @@
+[
+  {
+    "title": "中途医疗",
+    "source": "Hacker News",
+    "url": "https://www.midjourney.com/medical/blogpost",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 885
+  },
+  {
+    "title": "美国暂缓将 DeepSeek 列入黑名单，100 多家公司被视为存在安全风险",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 472
+  },
+  {
+    "title": "创始人的剧本：建立一家人工智能原生初创公司",
+    "source": "Hacker News",
+    "url": "https://claude.com/blog/the-founders-playbook",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 233
+  },
+  {
+    "title": "DeepSeek 推出 Vision",
+    "source": "Hacker News",
+    "url": "https://chat.deepseek.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 198
+  },
+  {
+    "title": "推出 HN：Adam (YC W25) – 开源 AI CAD",
+    "source": "Hacker News",
+    "url": "https://github.com/Adam-CAD/CADAM",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 191
+  },
+  {
+    "title": "AMD 默默地从消费类 Ryzen CPU 中删除内存加密",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 179
+  },
+  {
+    "title": "澳大利亚政府要求短信/彩信发送者 ID 注册",
+    "source": "Hacker News",
+    "url": "https://www.acma.gov.au/sms-sender-id-register",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 114
+  },
+  {
+    "title": "ChatGPT 的图像生成器可被操纵以产生暴力、色情内容",
+    "source": "Hacker News",
+    "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 105
+  },
+  {
+    "title": "Anthropic 派出黑客安抚政府对人工智能安全的紧张情绪",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 79
+  },
+  {
+    "title": "如何关闭 Google 文档中的 AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Roelof Botha 加入 SpaceX 董事会",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "在推出昂贵的 AR 眼镜后，Snap 的股价暴跌",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "NEA 的 Tiffany Luck 表示企业仍在计算人工智能投资回报率",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "世界领导人想要美国的人工智能。他们只是不希望美国能够将其关闭。",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 成为第一家加入 Frontier 碳清除联盟的人工智能初创公司",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
