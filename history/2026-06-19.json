@@ -1,0 +1,122 @@
+[
+  {
+    "title": "中途医疗",
+    "source": "Hacker News",
+    "url": "https://www.midjourney.com/medical/blogpost",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1313
+  },
+  {
+    "title": "Emacs 31 即将到来：我每天都在推动的变化",
+    "source": "Hacker News",
+    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 445
+  },
+  {
+    "title": "Craigslist 创始人捐赠了 5 亿美元",
+    "source": "Hacker News",
+    "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 375
+  },
+  {
+    "title": "Noam Shazeer 加入 OpenAI",
+    "source": "Hacker News",
+    "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 336
+  },
+  {
+    "title": "Valhalla 项目解释：十年的工作成果如何融入 JDK 28",
+    "source": "Hacker News",
+    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 255
+  },
+  {
+    "title": "Show HN：Gerrymandle - 每日益智游戏，您可以在其中重新绘制选区",
+    "source": "Hacker News",
+    "url": "https://gerrymandle.cc/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 180
+  },
+  {
+    "title": "AirPods效应",
+    "source": "Hacker News",
+    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 160
+  },
+  {
+    "title": "启动 HN：TesterArmy (YC P26) – 测试 Web 和移动应用程序的代理",
+    "source": "Hacker News",
+    "url": "https://tester.army",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 123
+  },
+  {
+    "title": "日本铁路如何在分裂时保持一体",
+    "source": "Hacker News",
+    "url": "https://arun.is/blog/jr-logo/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 117
+  },
+  {
+    "title": "韩国电信巨头处于 Anthropic 神话争议的中心",
+    "source": "Hacker News",
+    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 116
+  },
+  {
+    "title": "代理资源发现规范",
+    "source": "Hacker News",
+    "url": "https://agenticresourcediscovery.org/introduction/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 70
+  },
+  {
+    "title": "美国称ASML的顶级芯片工具可能在中国。 ASML 表示并非如此",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductionAI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，人工智能推理初创公司 Baseten 在上一轮大型融资几个月后筹集了 1.5 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "出于成本考虑，Snap 将人工智能视频团队分拆为新公司 Dotmo",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
