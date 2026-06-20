@@ -1,0 +1,122 @@
+[
+  {
+    "title": "现代汽车收购波士顿动力公司",
+    "source": "Hacker News",
+    "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 831
+  },
+  {
+    "title": "挪威小学几乎禁止人工智能",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 669
+  },
+  {
+    "title": "Valhalla 项目解释：十年的工作成果如何融入 JDK 28",
+    "source": "Hacker News",
+    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 595
+  },
+  {
+    "title": "AirPods效应",
+    "source": "Hacker News",
+    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 413
+  },
+  {
+    "title": "新法案旨在向政府施加压力，压制合法的网络言论",
+    "source": "Hacker News",
+    "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 279
+  },
+  {
+    "title": "Show HN：Gerrymandle - 每日益智游戏，您可以在其中重新绘制选区",
+    "source": "Hacker News",
+    "url": "https://gerrymandle.cc/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 212
+  },
+  {
+    "title": "日本铁路如何在分裂时保持一体",
+    "source": "Hacker News",
+    "url": "https://arun.is/blog/jr-logo/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 183
+  },
+  {
+    "title": "GPT-5.5 产生的幻觉是 MIT 许可的 GLM-5.2 的 3 倍",
+    "source": "Hacker News",
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 162
+  },
+  {
+    "title": "约翰·詹珀 (John Jumper) 加盟 Anthropic",
+    "source": "Hacker News",
+    "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 134
+  },
+  {
+    "title": "数据压缩解释 (2012)",
+    "source": "Hacker News",
+    "url": "https://mattmahoney.net/dc/dce.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 126
+  },
+  {
+    "title": "阿拉伯语数字印刷：解释问题",
+    "source": "Hacker News",
+    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 56
+  },
+  {
+    "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "美国政府的人为禁令是否无意中帮助了该品牌？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "亿万富翁安巴尼希望人工智能渗透到每一个通话、应用程序和家庭中",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
