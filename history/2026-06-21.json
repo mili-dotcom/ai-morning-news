@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GPT-5.5 产生的幻觉是 MIT 许可的 GLM-5.2 的 3 倍",
+    "source": "Hacker News",
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 527
+  },
+  {
+    "title": "Loupe – 一款 iOS 应用程序，可提高人们对本机应用程序可以看到的内容的认识",
+    "source": "Hacker News",
+    "url": "https://github.com/mysk-research/loupe",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 305
+  },
+  {
+    "title": "缓慢呼吸调节大脑功能和危险行为",
+    "source": "Hacker News",
+    "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 218
+  },
+  {
+    "title": "AI 代理的临时 Cloudflare 帐户",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 213
+  },
+  {
+    "title": "你的大脑从来就不是为这么多坏消息而设计的",
+    "source": "Hacker News",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 211
+  },
+  {
+    "title": "当我拒绝人工智能代码时，即使它有效",
+    "source": "Hacker News",
+    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 190
+  },
+  {
+    "title": "Bootimus – 一个独立的 PXE 和 HTTP 启动服务器",
+    "source": "Hacker News",
+    "url": "https://bootimus.com",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 117
+  },
+  {
+    "title": "人工智能的十万个为什么",
+    "source": "Hacker News",
+    "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 112
+  },
+  {
+    "title": "构建可靠的代理人工智能系统",
+    "source": "Hacker News",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 108
+  },
+  {
+    "title": "Show HN：我们对一个模型进行了后训练，该模型可以进行渗透测试而不是拒绝",
+    "source": "Hacker News",
+    "url": "https://www.argusred.com/cli",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 82
+  },
+  {
+    "title": "半导体生命线让战斗机保持在空中",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 68
+  },
+  {
+    "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "权重中是您新的以人工智能为中心的虚荣搜索",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
