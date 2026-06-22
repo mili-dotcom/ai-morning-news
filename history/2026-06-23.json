@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Apertus – 主权人工智能的开放基础模型",
+    "source": "Hacker News",
+    "url": "https://apertvs.ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 494
+  },
+  {
+    "title": "丹麦隐私活动家拉尔斯·安德森 (Lars Andersen) 遭警方突击搜查",
+    "source": "Hacker News",
+    "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 367
+  },
+  {
+    "title": "JSON-LD 针对个人网站的解释",
+    "source": "Hacker News",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 260
+  },
+  {
+    "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好",
+    "source": "Hacker News",
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 195
+  },
+  {
+    "title": "1991 年慕尼黑：当前人工智能热潮的根源",
+    "source": "Hacker News",
+    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "显示 HN：Recall – Claude Code 的本地项目内存",
+    "source": "Hacker News",
+    "url": "https://github.com/raiyanyahya/recall",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 124
+  },
+  {
+    "title": "克劳德·科德的“扩展思维”是一种总结——不是真实的思维",
+    "source": "Hacker News",
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 101
+  },
+  {
+    "title": "Moebius：0.2B图像修复模型，10B级性能",
+    "source": "Hacker News",
+    "url": "https://hustvl.github.io/Moebius/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 61
+  },
+  {
+    "title": "为增长而打造的创始人大会：6 月 26 日 TechCrunch 创始人峰会通过率提高",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "当特朗普政府打压 Anthropic 时，谁受益？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "超越 Siri：以下是 iOS 27 中 iPhone 的实用人工智能功能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "权重中是您新的以人工智能为中心的虚荣搜索",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
