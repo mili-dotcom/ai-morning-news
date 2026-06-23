@@ -1,59 +1,27 @@
 [
   {
-    "title": "Apertus – 主权人工智能的开放基础模型",
+    "title": "加拿大计划到 2040 年建造多达 10 座反应堆，实现“核复兴”",
     "source": "Hacker News",
-    "url": "https://apertvs.ai/",
+    "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 494
+    "hotness": 492
   },
   {
-    "title": "丹麦隐私活动家拉尔斯·安德森 (Lars Andersen) 遭警方突击搜查",
+    "title": "Polymarket 在社交媒体上充斥着付费创作者制作的欺骗性视频",
     "source": "Hacker News",
-    "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+    "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 367
+    "hotness": 319
   },
   {
-    "title": "JSON-LD 针对个人网站的解释",
-    "source": "Hacker News",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 260
-  },
-  {
-    "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好",
-    "source": "Hacker News",
-    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 195
-  },
-  {
-    "title": "1991 年慕尼黑：当前人工智能热潮的根源",
-    "source": "Hacker News",
-    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 169
-  },
-  {
-    "title": "显示 HN：Recall – Claude Code 的本地项目内存",
-    "source": "Hacker News",
-    "url": "https://github.com/raiyanyahya/recall",
-    "category": "开源模型",
-    "emoji": "🧠",
-    "hotness": 124
-  },
-  {
-    "title": "克劳德·科德的“扩展思维”是一种总结——不是真实的思维",
+    "title": "克劳德·科德“扩展思维”输出中的文本",
     "source": "Hacker News",
     "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 101
+    "hotness": 306
   },
   {
     "title": "Moebius：0.2B图像修复模型，10B级性能",
@@ -61,62 +29,94 @@
     "url": "https://hustvl.github.io/Moebius/",
     "category": "开源模型",
     "emoji": "🧠",
-    "hotness": 61
+    "hotness": 295
   },
   {
-    "title": "为增长而打造的创始人大会：6 月 26 日 TechCrunch 创始人峰会通过率提高",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-    "category": "融资创投",
-    "emoji": "💰",
-    "hotness": 55
-  },
-  {
-    "title": "当特朗普政府打压 Anthropic 时，谁受益？",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "category": "大厂动态",
-    "emoji": "🏭",
-    "hotness": 55
-  },
-  {
-    "title": "超越 Siri：以下是 iOS 27 中 iPhone 的实用人工智能功能",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-    "category": "大厂动态",
-    "emoji": "🏭",
-    "hotness": 55
-  },
-  {
-    "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "category": "融资创投",
-    "emoji": "💰",
-    "hotness": 55
-  },
-  {
-    "title": "权重中是您新的以人工智能为中心的虚荣搜索",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "category": "融资创投",
-    "emoji": "💰",
-    "hotness": 55
-  },
-  {
-    "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "category": "大厂动态",
-    "emoji": "🏭",
-    "hotness": 55
-  },
-  {
-    "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-    "source": "TechCrunch AI",
-    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "title": "Show HN：Oak – 专为代理设计的 Git 替代方案",
+    "source": "Hacker News",
+    "url": "https://oak.space/oak/oak",
     "category": "开源模型",
     "emoji": "🧠",
+    "hotness": 188
+  },
+  {
+    "title": "对memcached的赞扬",
+    "source": "Hacker News",
+    "url": "https://jchri.st/blog/in-praise-of-memcached/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 170
+  },
+  {
+    "title": "新的 HTTP QUERY 方法解释",
+    "source": "Hacker News",
+    "url": "https://kreya.app/blog/new-http-query-method-explained/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 134
+  },
+  {
+    "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/daybreak-securing-the-world/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 110
+  },
+  {
+    "title": "人工智能制造了核武器，但仍然失败",
+    "source": "Hacker News",
+    "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 64
+  },
+  {
+    "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 推出新举措帮助查找和修补开源错误",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能世界正变得“疯狂”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "AI 芯片制造商 Groq 确认筹集 6.5 亿美元资金，并在 Nvidia 完成 200 亿美元非收购聘用交易后进行人员重组",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌 DeepMind 通过 A24 交易押注 7500 万美元押注好莱坞人工智能的未来",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "category": "大厂动态",
+    "emoji": "🏭",
     "hotness": 55
   }
 ]
