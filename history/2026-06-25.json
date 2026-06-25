@@ -1,0 +1,122 @@
+[
+  {
+    "title": "OpenAI 推出首款定制芯片，由 Broadcom 制造",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 707
+  },
+  {
+    "title": "Anthropic称阿里巴巴非法提取Claude AI模型能力",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 433
+  },
+  {
+    "title": "RubyLLM：适用于所有主要 AI 提供商的 Ruby 框架",
+    "source": "Hacker News",
+    "url": "https://rubyllm.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 391
+  },
+  {
+    "title": "GLM-5.2 是开放代理的一步改变",
+    "source": "Hacker News",
+    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 243
+  },
+  {
+    "title": "今天的公关垃圾邮件看起来就像 2000 年代初期的垃圾邮件",
+    "source": "Hacker News",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 226
+  },
+  {
+    "title": "为什么评估初创公司会失败（2025）",
+    "source": "Hacker News",
+    "url": "https://thomasliao.com/eval-startups",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 104
+  },
+  {
+    "title": "维基百科 英国工人寻求工会认可创下全球第一",
+    "source": "Hacker News",
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 82
+  },
+  {
+    "title": "Markdy：就像美人鱼图，但用于运动",
+    "source": "Hacker News",
+    "url": "https://markdy.com",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 69
+  },
+  {
+    "title": "欧洲正在反击华盛顿的芯片战",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Infosys 前首席执行官创办了一家新初创公司，希望挑战 IT 服务领域",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Cerebras 股价在盈利后暴跌，首席执行官表示利润前景被误解",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能本应消灭工程工作，但新数据表明它们是最具弹性的",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能研究人员继续离开谷歌，转向竞争对手",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "存储芯片危机正在为这家美国公司带来回报",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "公司正在努力阻止员工在小任务上最大化人工智能预算",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
