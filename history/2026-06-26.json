@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic称阿里巴巴非法提取Claude AI模型能力",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 761
+  },
+  {
+    "title": "苹果提高 MacBook 和 iPad 的价格",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 731
+  },
+  {
+    "title": "Show HN：OpenKnowledge – Obsidian/Notion 的开源 AI 优先替代品",
+    "source": "Hacker News",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 284
+  },
+  {
+    "title": "苹果将​​跳过高端 M6 Mac 芯片，转而专注于 AI 的 M7 系列",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 271
+  },
+  {
+    "title": "2000 人试图破解我的人工智能助手后发生了什么",
+    "source": "Hacker News",
+    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 171
+  },
+  {
+    "title": "人工智能中的政治偏见：人工智能模型的立场",
+    "source": "Hacker News",
+    "url": "https://trakkr.ai/bias",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 147
+  },
+  {
+    "title": "高级任天堂娱乐系统 (ANES) – NES 改装为使用 2 个 PPU",
+    "source": "Hacker News",
+    "url": "https://github.com/decrazyo/anes",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 114
+  },
+  {
+    "title": "带注释的 PyTorch 训练循环",
+    "source": "Hacker News",
+    "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 70
+  },
+  {
+    "title": "出于安全考虑，白宫要求 OpenAI 放慢新模型的发布速度",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Patronus AI 获得 5000 万美元投资，用于构建对 AI 代理进行压力测试的“数字世界”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 的 Claude 正在赢得付费消费者的青睐，这是 ChatGPT 拥有的市场",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "General Intuition 的 2.3B 美元赌注是视频游戏可以为现实世界训练人工智能代理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Databricks 的前 AI 主管认为他可以将 AI 的电费削减 1,000 倍",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Netris 从 a16z 筹集了 1500 万美元 A 轮融资，以帮助 AI Neocloud 更快上线",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "还剩 2 天可节省高达 190 美元：与 1,000 多名创始人和投资者一起参加 TechCrunch 创始人峰会",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
