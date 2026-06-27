@@ -1,0 +1,122 @@
+[
+  {
+    "title": "美国政府将决定谁可以使用 GPT-5.6",
+    "source": "Hacker News",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1003
+  },
+  {
+    "title": "预览 GPT‑5.6 Sol：下一代模型",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 978
+  },
+  {
+    "title": "美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI",
+    "source": "Hacker News",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 407
+  },
+  {
+    "title": "大脑超声成像",
+    "source": "Hacker News",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 274
+  },
+  {
+    "title": "开放式权重法学硕士和闭源法学硕士之间的差距",
+    "source": "Hacker News",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 191
+  },
+  {
+    "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由",
+    "source": "Hacker News",
+    "url": "https://github.com/workweave/router",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 167
+  },
+  {
+    "title": "数学领域的人工智能正在提出重大问题",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/ai-in-mathematics",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 111
+  },
+  {
+    "title": "MLSys 的现代 GPU 编程",
+    "source": "Hacker News",
+    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 75
+  },
+  {
+    "title": "在火车站式翻转板上显示 HN：黑客新闻",
+    "source": "Hacker News",
+    "url": "https://popflame.quickish.space/hn-flipboard/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 64
+  },
+  {
+    "title": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "为什么从 OpenAI 到 SpaceX 的每个人都在打造自己的芯片（并加大对 Nvidia 的热度）",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "这不再是 Anthropic 与 OpenAI 的问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的 Jalapeo 芯片是大型科技公司摆脱 Nvidia 后最辣的举动",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
