@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GLM 5.2 在我们的基准测试中击败了 Claude",
+    "source": "Hacker News",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1059
+  },
+  {
+    "title": "HackerRank 开源了其 ATS。我的简历得分为 90/100。哦等等 74。不 – 88",
+    "source": "Hacker News",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 943
+  },
+  {
+    "title": "Mulvad 的首席执行官是瑞典厄勒布鲁党的主要资助者",
+    "source": "Hacker News",
+    "url": "https://det.social/@lostgen/116820546568940358",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 522
+  },
+  {
+    "title": "潮汐人工智能政策",
+    "source": "Hacker News",
+    "url": "https://tidal.com/ai-policy",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 288
+  },
+  {
+    "title": ".self：旨在支持自托管的新顶级域名",
+    "source": "Hacker News",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 241
+  },
+  {
+    "title": "Ornith-1.0：用于代理编码的自我改进开源模型",
+    "source": "Hacker News",
+    "url": "https://github.com/deepreinforce-ai/Ornith-1",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 138
+  },
+  {
+    "title": "使用人工智能：一个具体的例子",
+    "source": "Hacker News",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 74
+  },
+  {
+    "title": "Gemini 的个性化 AI 图像生成现已免费向美国用户开放",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "TIDAL通过切断货币化来打击人工智能音乐",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "机器人手公司就特斯拉商业秘密诉讼达成和解并宣布融资 1100 万美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 55
+  },
+  {
+    "title": "Omen AI优化数据中心的计划全部落空",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
