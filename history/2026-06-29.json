@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GLM 5.2 在我们的基准测试中击败了 Claude",
+    "source": "Hacker News",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 338
+  },
+  {
+    "title": "我使用 Claude Code 来获得有关 MRI 的第二意见",
+    "source": "Hacker News",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 308
+  },
+  {
+    "title": "Librepods：解放 AirPods",
+    "source": "Hacker News",
+    "url": "https://github.com/librepods-org/librepods",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 243
+  },
+  {
+    "title": "AMD Strix Halo RDMA 集群设置指南",
+    "source": "Hacker News",
+    "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 222
+  },
+  {
+    "title": "OpenAI Codex 仍存在排除敏感文件问题的方法",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 172
+  },
+  {
+    "title": "布朗大学教授谴责大规模人工智能考试作弊",
+    "source": "Hacker News",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "Daisugi，日本用其他树种树的技术 (2020)",
+    "source": "Hacker News",
+    "url": "https://www.openculture.com/2020/10/daisugi.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 98
+  },
+  {
+    "title": "人工智能时代软件工程的思考",
+    "source": "Hacker News",
+    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 83
+  },
+  {
+    "title": "人工智能不足后，福特重新雇用“灰胡子”工程师",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "为什么华尔街认为美国内存制造商美光是下一个英伟达",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "软银首席执行官并不是唯一一位对埃隆·马斯克的轨道数据中心炒作提出质疑的人",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，Apple Vision Pro 高管将前往 OpenAI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "房间里最健康的创始人得了癌症。以下是他如何利用人工智能进行反击。",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
