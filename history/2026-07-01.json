@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Claude Code 正在以隐写方式标记请求",
+    "source": "Hacker News",
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1319
+  },
+  {
+    "title": "克劳德十四行诗 5",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 809
+  },
+  {
+    "title": "克劳德·科学",
+    "source": "Hacker News",
+    "url": "https://claude.com/product/claude-science",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 335
+  },
+  {
+    "title": "Zluda 6 版本（在非 Nvidia GPU 上运行未经修改的 CUDA 应用程序）",
+    "source": "Hacker News",
+    "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 140
+  },
+  {
+    "title": "从脑电波到语言：无需手术的沟通新途径",
+    "source": "Hacker News",
+    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 88
+  },
+  {
+    "title": "OpenClaw 终于在 Android 和 iOS 上可用",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "打造扑克人工智能的 DeepMind 三人组现在正在为量化对冲基金赚钱",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌推出了更快、更便宜的图像生成器 Nano Banana 2 Lite",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 推出 Claude Sonnet 5 作为运行代理的更便宜的方式",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Acti 将人工智能代理直接放入您的智能手机键盘中",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 的 Claude Science 押注于工作流程，而不是新模型，以赢得科学家的青睐",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "X 现在提供 MCP 服务器，使其平台更易于 AI 工具使用",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "播客平台 Riverside 进军时事通讯发布游戏",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "继 OpenAI 和 Anthropic 之后，亚马逊推出价值 10 亿美元的新 FDE 组织",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
