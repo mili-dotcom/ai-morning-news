@@ -1,0 +1,122 @@
+[
+  {
+    "title": "美国商务部取消了《克劳德寓言5》和《神话5》的出口管制",
+    "source": "Hacker News",
+    "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 918
+  },
+  {
+    "title": "索尼删除 PlayStation 用户付费购买的 551 部电影",
+    "source": "Hacker News",
+    "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 504
+  },
+  {
+    "title": "任天堂将员工基本工资提高10%",
+    "source": "Hacker News",
+    "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 488
+  },
+  {
+    "title": "苹果“隐藏我的电子邮件”漏洞泄露了人们的真实电子邮件地址",
+    "source": "Hacker News",
+    "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 240
+  },
+  {
+    "title": "SpaceX 有一个人工智能设备原型，听起来确实像手机",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "阿什顿·库彻 (Ashton Kutcher) 离开 Sound Ventures，与摩根·贝勒 (Morgan Beller) 共同创办新的风险投资公司",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Cloudflare新政策推动AI公司为出版商的内容付费",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "随着隐私优先的人工智能平台的腾飞，Venice AI 成为独角兽，A 轮融资金额达 6500 万美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Google 代理助手 Gemini Spark 现已在 Mac 上推出",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Builders Stage 议程揭晓：TechCrunch Disrupt 2026 上扩大初创企业规模的实用策略",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 与 SpaceX 一样，希望将多余的人工智能计算转化为现金",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "“互联网之父”终于退休了",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "特朗普取消了对 Anthropic 神话和寓言模型的限制",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "通过 GPU 快照减少 GVisor 冷启动",
+    "source": "Hacker News",
+    "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 47
+  }
+]
