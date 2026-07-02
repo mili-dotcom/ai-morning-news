@@ -1,0 +1,122 @@
+[
+  {
+    "title": "西班牙下令将 Palantir 列入上市和私营公司黑名单",
+    "source": "Hacker News",
+    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 562
+  },
+  {
+    "title": "鸡蛋强盗因价格操纵而获得的罚款是他们刚刚支付的一千倍",
+    "source": "Hacker News",
+    "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 427
+  },
+  {
+    "title": "日本最高法院规定人工智能不能被列为专利申请发明人",
+    "source": "Hacker News",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 351
+  },
+  {
+    "title": "代码审查的主要目的是找到难以维护的代码",
+    "source": "Hacker News",
+    "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 323
+  },
+  {
+    "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准",
+    "source": "Hacker News",
+    "url": "https://senior-swe-bench.snorkel.ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 164
+  },
+  {
+    "title": "一层就够了吗？单变压器层匹配全参数 RL 训练",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2607.01232",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 136
+  },
+  {
+    "title": "现实有数量惊人的细节 (2017)",
+    "source": "Hacker News",
+    "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 90
+  },
+  {
+    "title": "Claude-real-video － 任何法学硕士都可以观看视频",
+    "source": "Hacker News",
+    "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 66
+  },
+  {
+    "title": "马克·扎克伯格告诉员工，人工智能代理的进展没有他希望的那么快",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "泽西·迈克 (Jersey Mike) 的 IPO 表明人工智能炒作已变得多么糟糕",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 悄然推出 vivi 编码游戏应用程序 Pocket",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 正在与三星讨论新的定制芯片",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI拟将5%股权捐赠给美国主权财富基金",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "微软承诺投入 25 亿美元成立自己的人工智能部署公司",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "是的，我们现在正在使用 OpenClaw",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
