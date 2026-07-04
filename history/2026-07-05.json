@@ -1,0 +1,122 @@
+[
+  {
+    "title": "瓶颈可能是房间里的空气",
+    "source": "Hacker News",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 744
+  },
+  {
+    "title": "Postgres 数据存储在 S3 上的 Parquet 中：LTAP 架构解释",
+    "source": "Hacker News",
+    "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 161
+  },
+  {
+    "title": "MSI Center – 如何在几秒钟内获得SYSTEM权限",
+    "source": "Hacker News",
+    "url": "https://mrbruh.com/msicenter/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 138
+  },
+  {
+    "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/codex/issues/30364",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 103
+  },
+  {
+    "title": "谷歌新广告想象在人工智能的帮助下撰写的《独立宣言》",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "《中程》希望好莱坞电影公司透露其人工智能使用的细节",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，阿里巴巴禁止员工使用克劳德代码",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "什么是米斯特拉尔人工智能？关于 OpenAI 竞争对手的一切信息",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "今年您需要的唯一人工智能术语表",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "浏览器之战不再是搜索问题——这里是 Chrome 和 Safari 的最佳替代品",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "马克·扎克伯格告诉员工，人工智能代理的进展没有他希望的那么快",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "泽西·迈克 (Jersey Mike) 的 IPO 表明人工智能炒作已变得多么糟糕",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 悄然推出 vivi 编码游戏应用程序 Pocket",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 正在与三星讨论新的定制芯片",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "户外活动",
+    "source": "Hacker News",
+    "url": "https://art.joonas.wtf/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 54
+  }
+]
