@@ -1,0 +1,122 @@
+[
+  {
+    "title": "英国铁路网实时地图",
+    "source": "Hacker News",
+    "url": "https://www.map.signalbox.io",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 379
+  },
+  {
+    "title": "AMD Ryzen AI Halo - 4000 美元 AI 开发套件",
+    "source": "Hacker News",
+    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 262
+  },
+  {
+    "title": "OfficeCLI：供 AI 代理读取和编辑 Microsoft Office 文件的 Office 套件",
+    "source": "Hacker News",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 109
+  },
+  {
+    "title": "GLM 5.2 和即将到来的人工智能利润率崩溃",
+    "source": "Hacker News",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 86
+  },
+  {
+    "title": "“第一次”人工智能运行的勒索软件攻击仍然需要人类",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "美国投资者很快将有机会投资另一家乘着人工智能热潮的存储器制造商SK海力士",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Vercel 首席执行官吉列尔莫·劳奇 (Guillermo Rauch) 谈模特与经纪人分离的斗争",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "现在，您可以在最新的 iOS 27 Beta 中自定义 Siri 的节奏和表现力",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "2026 年每一次重大科技裁员都涉及人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "如果你使用谷歌，你就是在训练它的人工智能。以下是如何选择退出。",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "微软在 Xbox 和商业销售领域裁员近 5,000 名员工",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Reddit 正在使用法学硕士来解决法学硕士很大程度上造成的问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Station F 逐渐成为欧洲最热门人工智能初创公司的发射台",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "亚马逊将停止接受 Mechanical Turk 新客户",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "WorldDirector：使用持久动态内存构建可控世界模拟器",
+    "source": "ArXiv (cs.CV)",
+    "url": "https://arxiv.org/pdf/2607.02517v1",
+    "category": "学术前沿",
+    "emoji": "🔬",
+    "hotness": 45
+  }
+]
