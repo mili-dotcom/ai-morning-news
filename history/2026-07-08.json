@@ -1,0 +1,122 @@
+[
+  {
+    "title": "聊天控制 1.0 和 2.0 解释",
+    "source": "Hacker News",
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 398
+  },
+  {
+    "title": "为什么技术工人来到德国然后又离开",
+    "source": "Hacker News",
+    "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 154
+  },
+  {
+    "title": "显示 HN：Davit，Apple 容器 UI",
+    "source": "Hacker News",
+    "url": "https://davit.app",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 149
+  },
+  {
+    "title": "自动化 AI 离开",
+    "source": "Hacker News",
+    "url": "https://replicated.live/blog/away",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 91
+  },
+  {
+    "title": "Show HN：Rowboat – 开源、本地优先的 Claude Desktop 替代方案",
+    "source": "Hacker News",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "AI 遇见密码学 1：AI 在 Cloudflare 的 Circl 中发现了什么",
+    "source": "Hacker News",
+    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 66
+  },
+  {
+    "title": "非对称栅栏的 C++ 细节",
+    "source": "Hacker News",
+    "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 62
+  },
+  {
+    "title": "Meta 推出 Muse，一款新的人工智能图像生成器",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "为什么开源人工智能的兴起还没有伤害 Anthropic……",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "微软更多地依赖自有模型加入人工智能成本削减趋势",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Discord 承认人工智能审核错误错误地禁止用户查看无害图像",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Claude Cowork 扩展到移动和网络",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Savi 的应用程序旨在保护消费者免受现实的人工智能诈骗，例如绑匪索要赎金",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "第一批美国自主地面车辆正在乌克兰作战",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 55
+  },
+  {
+    "title": "“第一次”人工智能运行的勒索软件攻击仍然需要人类",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
