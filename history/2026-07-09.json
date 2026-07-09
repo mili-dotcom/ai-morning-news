@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GPT-Live",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-gpt-live/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 570
+  },
+  {
+    "title": "EVE Online 的 Carbon 引擎现已开源：Fenris Creations 解释原因",
+    "source": "Hacker News",
+    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 374
+  },
+  {
+    "title": "SWE-1.7 接近 GPT 5.5 和 Opus Intelligence",
+    "source": "Hacker News",
+    "url": "https://cognition.com/blog/swe-1-7",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 243
+  },
+  {
+    "title": "Anthropic 放在《寓言》前面的分类器太热心了",
+    "source": "Hacker News",
+    "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 178
+  },
+  {
+    "title": "Show HN：微软发布 Flint，一种用于 AI 代理的可视化语言",
+    "source": "Hacker News",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 167
+  },
+  {
+    "title": "Geosql：地理空间数据的 Claude/Codex 技能",
+    "source": "Hacker News",
+    "url": "https://github.com/dekart-xyz/geosql",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 126
+  },
+  {
+    "title": "Show HN：以 3D 方式关注伦敦火车",
+    "source": "Hacker News",
+    "url": "https://ride.nexttrain.london/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 125
+  },
+  {
+    "title": "据报道 Lovable 正在谈判将其估值翻倍至 $13.2B",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌照片添加了新的人工智能“视频混音”工具",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "为什么这位首席执行官认为视频游戏比互联网提供更好的训练数据",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 希望其人工智能眼镜看起来不那么令人毛骨悚然。它的人工智能战略却另有说法。",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 发布新的语音模型，实现更自然的实时对话",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
