@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k",
+    "source": "Hacker News",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 412
+  },
+  {
+    "title": "新旧应用程序，通过现代编码代理",
+    "source": "Hacker News",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 395
+  },
+  {
+    "title": "xAI 的 Grok 构建 CLI 发送给 xAI 的内容：线路级分析",
+    "source": "Hacker News",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 392
+  },
+  {
+    "title": "我喜欢法学硕士，我讨厌炒作",
+    "source": "Hacker News",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 284
+  },
+  {
+    "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27%",
+    "source": "Hacker News",
+    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 101
+  },
+  {
+    "title": "机械可解释性研究人员将因果关系理论应用于法学硕士",
+    "source": "Hacker News",
+    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 76
+  },
+  {
+    "title": "我又学会了读书",
+    "source": "Hacker News",
+    "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 76
+  },
+  {
+    "title": "反对有用性",
+    "source": "Hacker News",
+    "url": "https://www.motivenotes.ai/p/against-usefulness",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
+  },
+  {
+    "title": "随着 ChatGPT 深入家庭，OpenAI 押注家庭",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "强烈反对后，Meta 删除了 Instagram 上有争议的人工智能功能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "苹果起诉 OpenAI 涉嫌窃取商业机密",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Hugging Face 的 Clem Delangue 表示，开源人工智能比以往任何时候都更重要",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "SK海力士在美国历史上最大的海外IPO中筹集了26.5亿美元，敦促在美国建造新的晶圆厂",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Hugging Face 首席执行官解释为什么公司不再租用人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 称 GPT 5.6 是 Microsoft Copilot 365 在分手传闻中的“首选模型”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
