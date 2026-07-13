@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Apple 的新 SpeechAnalyzer API，以 Whisper 及其前身为基准",
+    "source": "Hacker News",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 404
+  },
+  {
+    "title": "Telegram 的 t.me 域名已被暂停",
+    "source": "Hacker News",
+    "url": "https://www.whois.com/whois/t.me",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 221
+  },
+  {
+    "title": "如果用户选择退出人工智能培训，三星健康应用程序将威胁删除数据",
+    "source": "Hacker News",
+    "url": "https://neow.in/cWsyMTV3",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 218
+  },
+  {
+    "title": "Show HN：Clawk – 为编码代理提供一次性 Linux 虚拟机，而不是您的笔记本电脑",
+    "source": "Hacker News",
+    "url": "https://github.com/clawkwork/clawk",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 170
+  },
+  {
+    "title": "使用现代工作负载对 15 个“电子垃圾”GPU 进行基准测试",
+    "source": "Hacker News",
+    "url": "https://esologic.com/benchmarking-tesla-gpus/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 105
+  },
+  {
+    "title": "克劳德只是米塞克斯先生",
+    "source": "Hacker News",
+    "url": "https://github.com/thephw/claude-meseeks",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 68
+  },
+  {
+    "title": "Show HN：Nobie – 适用于代理和人类的 Excel 兼容运行时",
+    "source": "Hacker News",
+    "url": "https://nobie.com",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 68
+  },
+  {
+    "title": "Hermes 代理制造商 Nous Research 正在以 1.5B 美元估值洽谈新融资",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "萨蒂亚·纳德拉 (Satya Nadella) 对使用人工智能的公司发出了令人震惊的警告",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "苹果针对 OpenAI 的商业秘密诉讼中最疯狂的指控",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "大多数专家已经相信萨姆·奥尔特曼的太空数据中心垃圾话",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能应该帮助你逃脱杀害配偶的罪名吗？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 开始对印度进行 Claude 定价本地化，印度是其继美国之后的最大市场",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "位智添加了新的人工智能功能和定制更新",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "随着 ChatGPT 深入家庭，OpenAI 押注家庭",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
