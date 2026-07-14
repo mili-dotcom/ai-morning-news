@@ -1,0 +1,122 @@
+[
+  {
+    "title": "如何阻止克劳德说承重",
+    "source": "Hacker News",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 405
+  },
+  {
+    "title": "Bonsai 27B：在手机上运行的 27B 级模型",
+    "source": "Hacker News",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 359
+  },
+  {
+    "title": "我们是否将太多的思维转移给了人工智能？",
+    "source": "Hacker News",
+    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 353
+  },
+  {
+    "title": "澳大利亚能源零售商必须提供三个小时的白天免费电力",
+    "source": "Hacker News",
+    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 262
+  },
+  {
+    "title": "Show HN：Juggler – 开源 GUI 编码代理，由 JUCE 的创建者开发",
+    "source": "Hacker News",
+    "url": "https://github.com/juggler-ai/juggler",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 163
+  },
+  {
+    "title": "最大的 Minecraft 世界，总计 15 TB",
+    "source": "Hacker News",
+    "url": "https://2b2t.place/1million",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 140
+  },
+  {
+    "title": "Demis Hassabis 制定了安全利用人工智能的计划",
+    "source": "Hacker News",
+    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 134
+  },
+  {
+    "title": "零成本谬误：代理时代的开源软件",
+    "source": "Hacker News",
+    "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 94
+  },
+  {
+    "title": "Show HN：我用 RL 训练了一个代理，该代理用 RL 训练模型（约 1,300 美元）",
+    "source": "Hacker News",
+    "url": "https://github.com/Danau5tin/ai-trains-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 94
+  },
+  {
+    "title": "Agentic Loop：风衣中的三个环",
+    "source": "Hacker News",
+    "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 68
+  },
+  {
+    "title": "洛德表示人工智能眼镜“并不性感”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，OpenAI 的第一款硬件设备是一款可以移动的无屏扬声器",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 反击苹果商业秘密诉讼",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "人们不断警告 OpenAI 新旗舰机型会自行删除文件",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "苹果通过 iOS 27 公开测试版向所有人开放新的 Siri AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
