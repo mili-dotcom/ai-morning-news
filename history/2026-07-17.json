@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Kimi K3：开放前沿智能",
+    "source": "Hacker News",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 1040
+  },
+  {
+    "title": "法学硕士的批评是正确的。无论如何我都使用法学硕士",
+    "source": "Hacker News",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 178
+  },
+  {
+    "title": "使用“经典”机器学习检测法学硕士生成的文本",
+    "source": "Hacker News",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 137
+  },
+  {
+    "title": "LM Studio Bionic：开放模型的 AI 代理",
+    "source": "Hacker News",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 119
+  },
+  {
+    "title": "德国AI联盟发布Soofi S，开放30B模型超越基准",
+    "source": "Hacker News",
+    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 116
+  },
+  {
+    "title": "100 美元 AI 音乐视频：克劳德寓言 5 与 GPT-5.6 Sol",
+    "source": "Hacker News",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 91
+  },
+  {
+    "title": "如何在具有 6GB VRAM 的旧 Linux 桌面上训练 Gen AI 底鼓模型",
+    "source": "Hacker News",
+    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 86
+  },
+  {
+    "title": "Kimi K3 现在以 1679 分在前端 Code Arena 中排名第一，超过了《神鬼寓言 5》",
+    "source": "Hacker News",
+    "url": "https://twitter.com/arena/status/2077824029126504525",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 56
+  },
+  {
+    "title": "Google Vids 现在可让您在自己的 AI 视频中担任主角",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Roblox 在其移动应用程序中推出了人工智能驱动的游戏创建功能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌的人工智能模式现在可以让你与选定的应用程序链接和交互",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "是的，您现在可以从命令行订购 DoorDash",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 为什么要销售 ChatGPT 篮球？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "前 DeepMind 研究员如何在推出产品之前筹集 3 亿美元的种子前估值",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "为什么 AMI Labs 的 Alexandre LeBrun 不会称他的人工智能为“AGI”或“超级智能”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
