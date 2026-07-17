@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Kimi K3：开放前沿智能",
+    "source": "Hacker News",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 1987
+  },
+  {
+    "title": "100 美元 AI 音乐视频：克劳德寓言 5 与 GPT-5.6 Sol",
+    "source": "Hacker News",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 382
+  },
+  {
+    "title": "苹果向数十名 OpenAI 员工发出法律信函",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 369
+  },
+  {
+    "title": "开源人工智能的现状",
+    "source": "Hacker News",
+    "url": "https://stateofopensource.ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 353
+  },
+  {
+    "title": "LM Studio Bionic：开放模型的 AI 代理",
+    "source": "Hacker News",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 318
+  },
+  {
+    "title": "Kimi K3，以及我们仍然可以从 Pelican 基准测试中学到什么",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 247
+  },
+  {
+    "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟",
+    "source": "Hacker News",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 122
+  },
+  {
+    "title": "FAA 允许波音再次签署 737 MAX 和 787 适航证书",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 80
+  },
+  {
+    "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
+    "source": "Hacker News",
+    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 79
+  },
+  {
+    "title": "VulnHunter：Capital One 代理 AI 代码安全工具",
+    "source": "Hacker News",
+    "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 56
+  },
+  {
+    "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Zoom 黑客说：“别录我”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Agility Robotics 在特斯拉后院插上了自己的旗帜",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能驱动的内存紧缩震动了印度智能手机市场",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
