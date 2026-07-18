@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GPT-5.6使用提示缩小了凸优化30年的差距",
+    "source": "Hacker News",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 477
+  },
+  {
+    "title": "AI 在图表中对 stackoverflow 做了什么",
+    "source": "Hacker News",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 348
+  },
+  {
+    "title": "Kimi K3 时刻",
+    "source": "Hacker News",
+    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 255
+  },
+  {
+    "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
+    "source": "Hacker News",
+    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 202
+  },
+  {
+    "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南",
+    "source": "Hacker News",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 162
+  },
+  {
+    "title": "市长马姆达尼表示房东不能使用人工智能图像做广告",
+    "source": "Hacker News",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 65
+  },
+  {
+    "title": "In-toto：确保软件供应链完整性的框架",
+    "source": "Hacker News",
+    "url": "https://in-toto.io/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 59
+  },
+  {
+    "title": "我们的生物弹性方法：同构实验室和 Google DeepMind",
+    "source": "Hacker News",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 58
+  },
+  {
+    "title": "Kimi：威胁还是威胁？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "尼尔·里默 (Neil Rimer) 认为人工智能资金正在回归",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Zoom 黑客说：“别录我”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Agility Robotics 在特斯拉后院插上了自己的旗帜",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能驱动的内存紧缩震动了印度智能手机市场",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
