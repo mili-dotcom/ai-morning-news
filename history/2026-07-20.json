@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Kimi K3 时刻",
+    "source": "Hacker News",
+    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 581
+  },
+  {
+    "title": "Claude Code 现在使用 Rust 编写的 Bun",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 367
+  },
+  {
+    "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/codex/pull/33972/files",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 290
+  },
+  {
+    "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
+    "source": "Hacker News",
+    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 191
+  },
+  {
+    "title": "研究人员发现，人工智能建议的准确性降低了 3 倍，但信心却提高了 2 倍",
+    "source": "Hacker News",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 190
+  },
+  {
+    "title": "研究发现大量看电视与较小的大脑结构有关",
+    "source": "Hacker News",
+    "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 84
+  },
+  {
+    "title": "聪明的黑客在价值 5 美元的 ESP32 广告拦截器中安装了 537,000 个域名",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "探知 AMD GFX1250 LLVM 茶叶",
+    "source": "Hacker News",
+    "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 62
+  },
+  {
+    "title": "黄仁勋访日后需要注意什么",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是明显的“特洛伊木马”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "非营利组织 Current AI 正在竞相构建免费的人工智能万维网",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Kimi：威胁还是威胁？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "尼尔·里默 (Neil Rimer) 认为人工智能资金正在回归",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
