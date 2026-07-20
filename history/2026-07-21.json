@@ -1,0 +1,122 @@
+[
+  {
+    "title": "中国的开放权重人工智能战略正在获胜",
+    "source": "Hacker News",
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 911
+  },
+  {
+    "title": "机场模拟器",
+    "source": "Hacker News",
+    "url": "https://airport.apunen.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 664
+  },
+  {
+    "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元",
+    "source": "Hacker News",
+    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 379
+  },
+  {
+    "title": "基米工作",
+    "source": "Hacker News",
+    "url": "https://www.kimi.com/products/kimi-work",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 339
+  },
+  {
+    "title": "Kimi K3、Qwen 3.8 和 Anthropic 的（潜在）揭晓",
+    "source": "Hacker News",
+    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 267
+  },
+  {
+    "title": "Firefox 153 现已推出，支持 Vulkan 视频解码、JPEG-XL",
+    "source": "Hacker News",
+    "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 233
+  },
+  {
+    "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点",
+    "source": "Hacker News",
+    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 187
+  },
+  {
+    "title": "谁害怕中国模特？",
+    "source": "Hacker News",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 112
+  },
+  {
+    "title": "代理群与新经济模型",
+    "source": "Hacker News",
+    "url": "https://cursor.com/blog/agent-swarm-model-economics",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 93
+  },
+  {
+    "title": "控制法学硕士的推理工作",
+    "source": "Hacker News",
+    "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 60
+  },
+  {
+    "title": "神话化人工智能使我们更有可能无法很好地操作它（2023）",
+    "source": "Hacker News",
+    "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 56
+  },
+  {
+    "title": "特朗普最新的人工智能沙皇已经辞职",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌正在开发一款新的人工智能芯片，旨在提高 Gemini 的效率",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能最重要的协议变得更容易使用",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "经过一年的努力，X 重新推出了重建的 Android 应用程序",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
