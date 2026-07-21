@@ -1,0 +1,122 @@
+[
+  {
+    "title": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 564
+  },
+  {
+    "title": "Qwen-Image-3.0：内容丰富、细节真实、知识渊博",
+    "source": "Hacker News",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 537
+  },
+  {
+    "title": "在 ChatGPT 中做广告",
+    "source": "Hacker News",
+    "url": "https://ads.openai.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 250
+  },
+  {
+    "title": "Jack Dorsey 推出 Buzz，将团队聊天、AI 代理和 Git 托管结合起来",
+    "source": "Hacker News",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 206
+  },
+  {
+    "title": "Kimi K3与神鬼寓言有竞争力； 《Kimi K3》和《神鬼寓言》是 SoTA",
+    "source": "Hacker News",
+    "url": "https://fireworks.ai/blog/kimik3-fable",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 141
+  },
+  {
+    "title": "Meta 的人工智能模型正在为第一波 Genesis Mission 项目提供动力",
+    "source": "Hacker News",
+    "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 89
+  },
+  {
+    "title": "用 GPT-5.6、Claude、Gemini 和 Grok“绘制”蒙娜丽莎",
+    "source": "Hacker News",
+    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 65
+  },
+  {
+    "title": "OpenAI 表示 Hugging Face 被其自己的预发布模型破坏",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Jack Dorsey 正在与 Buzz 对抗 Slack，Buzz 是一个面向团队及其人工智能代理的群聊平台",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能和通用娱乐应用程序的兴起",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "到 2035 年，数据中心的用电量预计将增加 4 倍",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌发布了三款新的 Gemini 型号，但没有 3.5 Pro",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "美国威胁对中国人工智能模型实施知识产权盗窃制裁",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "音乐流媒体 Deezer 表示，超过 50% 的每日上传内容是人工智能生成的",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "格里特退出隐秘状态，斥资 3200 万美元用于机器人建造太阳能发电厂——然后，其他一切",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
