@@ -1,0 +1,122 @@
+[
+  {
+    "title": "陶哲轩关于雅可比猜想反例的 ChatGPT 对话",
+    "source": "Hacker News",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 540
+  },
+  {
+    "title": "AI 实验室是 Pelicanmaxxing 吗？",
+    "source": "Hacker News",
+    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 348
+  },
+  {
+    "title": "英特尔开始出货高数值孔径 EUV 芯片",
+    "source": "Hacker News",
+    "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 233
+  },
+  {
+    "title": "所以 Reddit 认为纯 HTML 是不安全的",
+    "source": "Hacker News",
+    "url": "https://www.cole-k.com/2026/07/21/reddit/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 219
+  },
+  {
+    "title": "丑陋的人工智能菜单重新设计的企业",
+    "source": "Hacker News",
+    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "没有人知道二手 GPU 集群的价值",
+    "source": "Hacker News",
+    "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 150
+  },
+  {
+    "title": "MUD 可以评估 LLM 吗？ 99 美元的概念验证",
+    "source": "Hacker News",
+    "url": "https://cruciblebench.ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 97
+  },
+  {
+    "title": "Nvidia DGX Spark 作为日常驾驶员",
+    "source": "Hacker News",
+    "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 75
+  },
+  {
+    "title": "高质量的非小说类书籍是人工智能的对立面",
+    "source": "Hacker News",
+    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 72
+  },
+  {
+    "title": "在经历了令人震惊的季度后，IBM 坚称人工智能不会杀死大型机",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌通过蓬勃发展的云业务证明其大规模人工智能支出的合理性",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "白宫声称登月计划提炼了人类寓言后，财政部威胁实施制裁",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的人为错误如何导致人工智能驱动的 Hugging Face 黑客攻击",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Travis Kalanick 的机器人公司筹集了 $1.7B，由 a16z 领投",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Yope 筹集了 1230 万美元，用于建立一个没有算法或广告的私人社交网络",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
