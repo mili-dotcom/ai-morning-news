@@ -1,0 +1,122 @@
+[
+  {
+    "title": "手写对大脑有好处",
+    "source": "Hacker News",
+    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 900
+  },
+  {
+    "title": "初创公司创始人敦促美国政府不要关闭中国开放重量人工智能",
+    "source": "Hacker News",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 673
+  },
+  {
+    "title": "人工智能公司正试图隐藏巨额债务",
+    "source": "Hacker News",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 578
+  },
+  {
+    "title": "OpenAI对Hugging Face的意外攻击是科幻小说中发生的事情",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 356
+  },
+  {
+    "title": "反对开源人工智能的论据很糟糕",
+    "source": "Hacker News",
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 180
+  },
+  {
+    "title": "DARPA 和美国空军驾驶人工智能控制的 F-16",
+    "source": "Hacker News",
+    "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 161
+  },
+  {
+    "title": "为什么软件工厂失败（或者：利用工程还不够）",
+    "source": "Hacker News",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 142
+  },
+  {
+    "title": "Show HN：Palmier Pro – 专为 AI 打造的开源 macOS 视频编辑器",
+    "source": "Hacker News",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 108
+  },
+  {
+    "title": "混合动力电动飞机发动机的目标是实现 30% 的燃油效率",
+    "source": "Hacker News",
+    "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 81
+  },
+  {
+    "title": "学习 C++ 的 WebGPU",
+    "source": "Hacker News",
+    "url": "https://eliemichel.github.io/LearnWebGPU/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 78
+  },
+  {
+    "title": "从 ChatGPT Business 帐户中获取数据的免费方式",
+    "source": "Hacker News",
+    "url": "https://github.com/Conradqh/scrapemychats",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "Show HN：OneCLI – OSS 凭证网关，可向 AI 代理保密",
+    "source": "Hacker News",
+    "url": "https://github.com/onecli/onecli",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 70
+  },
+  {
+    "title": "AMD 推出 Helios AI 机架级系统与 Nvidia 展开较量",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 更新了 Claude 语音模式，推出了更多功能模型",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "由前谷歌安全高管创立的 AegisAI 获得 3600 万美元资金，用于阻止人工智能驱动的鱼叉式网络钓鱼",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
