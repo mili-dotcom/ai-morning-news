@@ -1,0 +1,122 @@
+[
+  {
+    "title": "近距离工作5",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 1207
+  },
+  {
+    "title": "Nvidia、微软、Meta 警告不要过度监管开放权重模型",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 460
+  },
+  {
+    "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 385
+  },
+  {
+    "title": "《半条命 2》在 HaikuOS 上本地运行",
+    "source": "Hacker News",
+    "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 249
+  },
+  {
+    "title": "IRGC 声称摧毁了亚马逊巴林数据中心",
+    "source": "Hacker News",
+    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 230
+  },
+  {
+    "title": "Firefox 容器预览",
+    "source": "Hacker News",
+    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 197
+  },
+  {
+    "title": "Kimi K3利用了最新的Redis服务器",
+    "source": "Hacker News",
+    "url": "https://twitter.com/fried_rice/status/2080059356322918777",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 119
+  },
+  {
+    "title": "自行托管您的邮件服务器",
+    "source": "Hacker News",
+    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 91
+  },
+  {
+    "title": "Opus 5 目前在人工智能分析排行榜上排名第一",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/models",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 82
+  },
+  {
+    "title": "Show HN：我根据真实石油贸易数据模拟关闭霍尔木兹海峡",
+    "source": "Hacker News",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 58
+  },
+  {
+    "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Cognition为何收购Poke：AI个性正在成为竞争优势",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 推出 Opus 5",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "随着美国权衡对中国人工智能的反应，业界敦促不要广泛的开放权重限制",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Bluesky 的 AI 助手 Attie 扩展为开放的社会研究工具",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
