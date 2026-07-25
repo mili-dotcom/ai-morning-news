@@ -1,0 +1,122 @@
+[
+  {
+    "title": "开放重量人工智能正在迎来 Kubernetes 时刻",
+    "source": "Hacker News",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 291
+  },
+  {
+    "title": "英国AISI/财思对Kimi K3网络能力进行初步评估",
+    "source": "Hacker News",
+    "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 122
+  },
+  {
+    "title": "Claude 5代模型的上下文工程新规则",
+    "source": "Hacker News",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 116
+  },
+  {
+    "title": "Show HN：Brolly，一个纯文本天气预报网站",
+    "source": "Hacker News",
+    "url": "https://brolly.sh/forecast/RWFP2qW8",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 107
+  },
+  {
+    "title": "将 PyTorch Monarch 引入 AMD GPU",
+    "source": "Hacker News",
+    "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 59
+  },
+  {
+    "title": "图书馆员正在为那些厌倦了大型科技的人们举办病毒式的“避免人工智能”研讨会",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Cognition为何收购Poke：AI个性正在成为竞争优势",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 推出 Opus 5",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "随着美国权衡对中国人工智能的反应，业界敦促不要广泛的开放权重限制",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Bluesky 的 AI 助手 Attie 扩展为开放的社会研究工具",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Midjourney 收购占星应用 Co-Star",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "“人工智能共产主义”、流氓模型以及 Kimi K3 为何令华尔街惊恐",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
