@@ -1,0 +1,122 @@
+[
+  {
+    "title": "HuggingFace 上的 Kimi-K3",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1301
+  },
+  {
+    "title": "Kimi-K3 技术报告 [pdf]",
+    "source": "Hacker News",
+    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 361
+  },
+  {
+    "title": "MDASH 内的 MAI-Cyber​​-1-Flash",
+    "source": "Hacker News",
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 211
+  },
+  {
+    "title": "现代电子邮件可以通过借用的部件来构建",
+    "source": "Hacker News",
+    "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 170
+  },
+  {
+    "title": "利用沃尔沃/Eicher的车队平台来控制所有用户/车辆",
+    "source": "Hacker News",
+    "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 126
+  },
+  {
+    "title": "独立的高度可移植的 Python 发行版",
+    "source": "Hacker News",
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 99
+  },
+  {
+    "title": "Claude Opus 5 上的错误增加",
+    "source": "Hacker News",
+    "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 96
+  },
+  {
+    "title": "Show HN：FeyNoBg – 自动背景去除模型和训练库",
+    "source": "Hacker News",
+    "url": "https://usefeyn.com/blog/feynobg/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 82
+  },
+  {
+    "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "微软推出首个网络安全模型以及新的代理网络安全系统",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的 Hugging Face 漏洞重新引发了关于对齐和控制的争论",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Threads 用户现在可以在他们的 DM 中与 Meta AI 聊天",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "新数据显示，谷歌的人工智能搜索正在迅速成为默认搜索",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "增强您的人工智能基础设施！ TechCrunch Disrupt 2026 智能系统阶段议程初探",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
