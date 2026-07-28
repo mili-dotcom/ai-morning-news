@@ -1,0 +1,122 @@
+[
+  {
+    "title": "OpenAI 刚刚开源 Codex Security",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/codex-security",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 284
+  },
+  {
+    "title": "Kimi K3 架构概述和注释",
+    "source": "Hacker News",
+    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 276
+  },
+  {
+    "title": "Kimi Linear：一种富有表现力、高效的注意力架构 (2025)",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.26692",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 266
+  },
+  {
+    "title": "DMARC 自 2012 年起已公开，但大多数公司域仍然不强制执行",
+    "source": "Hacker News",
+    "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 172
+  },
+  {
+    "title": "与 Claude 一起发现加密货币的弱点",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 164
+  },
+  {
+    "title": "谷歌的超越零：人工智能时代的企业安全",
+    "source": "Hacker News",
+    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 142
+  },
+  {
+    "title": "Una GPS 智能手表 – 可修复、USB-C 充电、开发人员友好",
+    "source": "Hacker News",
+    "url": "https://unawatch.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 127
+  },
+  {
+    "title": "Show HN: XY – 快速、可组合、GPU 加速的交互式绘图库",
+    "source": "Hacker News",
+    "url": "https://github.com/reflex-dev/xy",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 106
+  },
+  {
+    "title": "显示 HN：正式验证的 3D CSG：信任 93 行规范，而不是 1000 行 AI 代码",
+    "source": "Hacker News",
+    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 105
+  },
+  {
+    "title": "现在是让法学硕士访问 ACM 数字图书馆的时候了",
+    "source": "Hacker News",
+    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 102
+  },
+  {
+    "title": "和声的解释：科学音乐理论的进展 (2012)",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/1202.4212",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 93
+  },
+  {
+    "title": "在 M1 Max 上运行 Kimi K3",
+    "source": "Hacker News",
+    "url": "https://github.com/gavamedia/deltafin",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 68
+  },
+  {
+    "title": "机器人检测初创公司 Spur 从 Insight 获得 2 亿美元投资",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "MCP 初创公司 Runlayer 指责 Rippleing 窃取其产品创意",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "萨姆·奥尔特曼已准备好减速",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
