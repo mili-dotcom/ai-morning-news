@@ -1,0 +1,122 @@
+[
+  {
+    "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播",
+    "source": "Hacker News",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 328
+  },
+  {
+    "title": "基米K3-256k",
+    "source": "Hacker News",
+    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 309
+  },
+  {
+    "title": "Handbook.md 表明，长政策文件并不能可靠地管理代理人",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2607.25398",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 281
+  },
+  {
+    "title": "前沿实验室特工入侵剖析：2026 年 7 月事件的时间表",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 263
+  },
+  {
+    "title": "克劳德：所有模型的错误率升高 – 已解决",
+    "source": "Hacker News",
+    "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 252
+  },
+  {
+    "title": "7000 年前，狩猎采集者将鱼类引入山湖",
+    "source": "Hacker News",
+    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 138
+  },
+  {
+    "title": "自托管 Kimi K3：硬件成本增加 20%，任务分辨率提高 20%",
+    "source": "Hacker News",
+    "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 120
+  },
+  {
+    "title": "人工智能的顶级初创公司几乎没有发表他们的研究成果",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 118
+  },
+  {
+    "title": "关于 Anthropic 新密码分析结果的一些想法",
+    "source": "Hacker News",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 94
+  },
+  {
+    "title": "GPT-5.6 与物理 AI 的克劳德寓言 5，哪个表现最好？",
+    "source": "Hacker News",
+    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 85
+  },
+  {
+    "title": "针对 NPM 和 GitHub Actions 的中断供应链攻击",
+    "source": "Hacker News",
+    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 83
+  },
+  {
+    "title": "马克·扎克伯格预测五年内数十亿人将拥有个人人工智能代理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "微软从 Anthropic 获得 3.2B 美元投资，但 OpenAI 好坏参半",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "扎克伯格表示 Meta 的企业人工智能机会不仅仅局限于代理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "在 TechCrunch Disrupt 2026 上了解人工智能的下一步发展，从 SaaS 计算到代理安全漏洞",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
