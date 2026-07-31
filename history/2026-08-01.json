@@ -1,0 +1,122 @@
+[
+  {
+    "title": "DeepSeek-V4-Flash 更新",
+    "source": "Hacker News",
+    "url": "https://api-docs.deepseek.com/updates/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 666
+  },
+  {
+    "title": "DeepSeek V4 Flash 0731 情报、性能和价格分析",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 517
+  },
+  {
+    "title": "借助 AI，谷歌 6 月份修复的 Chrome 错误比过去两年还要多",
+    "source": "Hacker News",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 478
+  },
+  {
+    "title": "Tailscale 并没有阻止 Hugging Face 的入侵",
+    "source": "Hacker News",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 364
+  },
+  {
+    "title": "使用 29 GB RAM 以 0.50 tok/s 运行 Kimi K3",
+    "source": "Hacker News",
+    "url": "https://github.com/sqliteai/waste",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 127
+  },
+  {
+    "title": "Golang提案：container/：通用集合类型",
+    "source": "Hacker News",
+    "url": "https://github.com/golang/go/issues/80590",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 109
+  },
+  {
+    "title": "人工智能推理是否因错误的原因而正确？",
+    "source": "Hacker News",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 104
+  },
+  {
+    "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器",
+    "source": "Hacker News",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 79
+  },
+  {
+    "title": "据报道，OpenAI 发现证据表明其更多特工肆意妄为",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "印度开始为应用程序付费，而不仅仅是下载它们",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "山姆·奥尔特曼并不是唯一一个想要给人工智能踩刹车的人",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Snapchat 不再奖励完全由人工智能生成的 Spotlight 内容",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Siri AI 可能会为高级用户提供付费专区",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "SpaceX 在一年内不会拆除所有 xAI 未经许可的涡轮机",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
