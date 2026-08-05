@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Cloudflare OS：面向代理、应用程序和工作的开放平台",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 441
+  },
+  {
+    "title": "小雨会来 (1950) [pdf]",
+    "source": "Hacker News",
+    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 427
+  },
+  {
+    "title": "谷歌 DeepMind 人事变动：Demis Hassabis 从首席执行官转为董事长，Jeff Dean 离职",
+    "source": "Hacker News",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 408
+  },
+  {
+    "title": "职位：法学硕士不能跳",
+    "source": "Hacker News",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 233
+  },
+  {
+    "title": "TIME 为人工智能机器人提供了一个不同的网站，内置广告",
+    "source": "Hacker News",
+    "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 226
+  },
+  {
+    "title": "包含人工智能生成的儿童性虐待图像的 Meta Ran 广告",
+    "source": "Hacker News",
+    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 219
+  },
+  {
+    "title": "使用便宜 100 倍的开放模型在检索中击败 GPT-5.6 Sol",
+    "source": "Hacker News",
+    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 189
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "Hacker News",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 115
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "Hacker News",
+    "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 100
+  },
+  {
+    "title": "马尔可夫链的熵",
+    "source": "Hacker News",
+    "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 97
+  },
+  {
+    "title": "用高斯绘画",
+    "source": "Hacker News",
+    "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 88
+  },
+  {
+    "title": "Prime Agent：自我改进的 RLM 代理",
+    "source": "Hacker News",
+    "url": "https://www.primeintellect.ai/blog/prime-agent",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 69
+  },
+  {
+    "title": "谄媚的人工智能会降低亲社会意图并促进依赖性（2025）",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.01395",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 67
+  },
+  {
+    "title": "NVIDIA 的 Vera 白皮书出现问题",
+    "source": "Hacker News",
+    "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 58
+  },
+  {
+    "title": "Meta 推出 Muse Code，一款适用于大型代码库的 AI 代理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
