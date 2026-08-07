@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AMD 收购 Taalas，通过在硅中蚀刻模型来提高推理性能",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 877
+  },
+  {
+    "title": "DeepSeek V4 闪存 0731",
+    "source": "Hacker News",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 378
+  },
+  {
+    "title": "Oracle 禁止 OpenJDK 中人工智能生成的代码",
+    "source": "Hacker News",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 345
+  },
+  {
+    "title": "如果整个阶层的工人对自己的职业失去信心会发生什么",
+    "source": "Hacker News",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 325
+  },
+  {
+    "title": "Kitesurf：在 V8 隔离中运行的代理优先浏览器",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 150
+  },
+  {
+    "title": "Databricks 将 AI 编码支出减少了 70%",
+    "source": "Hacker News",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 144
+  },
+  {
+    "title": "这个地雷预示着重大战争。又开张了",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 66
+  },
+  {
+    "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "吉尔·莱波雷 (Jill Lepore) 谈“人造国家”以及为何硅谷领导人不擅长科幻小说",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "新墨西哥州法院命令 Meta 在儿童安全案件中额外支付 5.67 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "ChatGPT 为免费用户带来无限的文本聊天",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
