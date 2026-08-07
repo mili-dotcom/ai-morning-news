@@ -1,0 +1,122 @@
+[
+  {
+    "title": "谷歌 DeepMind 人事变动：Demis Hassabis 从首席执行官转为董事长，Jeff Dean 离职",
+    "source": "Hacker News",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 827
+  },
+  {
+    "title": "Qwen3.8 Max现已被代理指数评为最佳整体机型",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 424
+  },
+  {
+    "title": "AMD 收购 Taalas，通过在硅中蚀刻模型来提高推理性能",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 362
+  },
+  {
+    "title": "GitHub Actions 和 Pages 的可用性下降",
+    "source": "Hacker News",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 318
+  },
+  {
+    "title": "在 4 万次游戏运行中，人类错过了三分之一批准 AI 代理命令的威胁",
+    "source": "Hacker News",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 252
+  },
+  {
+    "title": "改进 ChatGPT 中的 GPT-5.6 Sol，扩展免费用户的 GPT-5.6 Luna 访问权限",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 145
+  },
+  {
+    "title": "Show HN：渠道 SDK – 将任何代理带到任何渠道（Slack、MS Teams）",
+    "source": "Hacker News",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 86
+  },
+  {
+    "title": "vLLM 内部：高通量 LLM 推理系统剖析 (2025)",
+    "source": "Hacker News",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 56
+  },
+  {
+    "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "ChatGPT 为免费用户带来无限的文本聊天",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Naïve 筹集了 2850 万美元，用于自动化设立和运营公司的繁重工作",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Ditto 等 Z 世代约会应用放弃刷卡，转而采用人工智能配对",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 称苹果自身的安全做法破坏了其商业机密案件",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "在法律斗争中，Suno 表示将开始为歌曲添加水印",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Spotify 前员工筹集 1000 万美元，将人工智能引入电子商务建议",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
