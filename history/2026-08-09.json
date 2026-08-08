@@ -1,0 +1,122 @@
+[
+  {
+    "title": "如果整个阶层的工人对自己的职业失去信心会发生什么",
+    "source": "Hacker News",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 968
+  },
+  {
+    "title": "DeepSeek V4 闪存 0731",
+    "source": "Hacker News",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 754
+  },
+  {
+    "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊",
+    "source": "Hacker News",
+    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 454
+  },
+  {
+    "title": "DeepMind 的 WeatherNext 模型在预测气旋方面取得突破",
+    "source": "Hacker News",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 356
+  },
+  {
+    "title": "域名现在可以在 DNS 中说它正在出售",
+    "source": "Hacker News",
+    "url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 323
+  },
+  {
+    "title": "OpenAI 对 Hugging Face 的意外攻击的时间线",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 303
+  },
+  {
+    "title": "大规模管理人工智能编码成本",
+    "source": "Hacker News",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 298
+  },
+  {
+    "title": "Fastmail 提供欧盟数据区域",
+    "source": "Hacker News",
+    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 289
+  },
+  {
+    "title": "我的手机在办公室丢了。克劳德建议跟踪蓝牙信号强度",
+    "source": "Hacker News",
+    "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 199
+  },
+  {
+    "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭",
+    "source": "Hacker News",
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 149
+  },
+  {
+    "title": "英特尔最终能否在每瓦性能上击败 ARM？",
+    "source": "Hacker News",
+    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 137
+  },
+  {
+    "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 收购演示初创公司 NextSlide",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
