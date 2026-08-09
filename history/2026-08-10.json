@@ -1,0 +1,122 @@
+[
+  {
+    "title": "我如何利用法学硕士学习复杂的主题",
+    "source": "Hacker News",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 291
+  },
+  {
+    "title": "约翰·C·礼来 (John C. Lilly) 论固态智能和人类的消灭 (1978)",
+    "source": "Hacker News",
+    "url": "https://kibotronics.net/unlisted/lilly-machines/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 113
+  },
+  {
+    "title": "OpenChamber：代理开发环境",
+    "source": "Hacker News",
+    "url": "https://openchamber.dev/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 94
+  },
+  {
+    "title": "我看到人们在意识形态上变得疯狂的主要方式（2025）",
+    "source": "Hacker News",
+    "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
+  },
+  {
+    "title": "黑客的复兴",
+    "source": "Hacker News",
+    "url": "https://phrack.org/issues/72/19#article",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 66
+  },
+  {
+    "title": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 默认开启 Claude Code 的自动模式",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "AI安全测试正成为安全风险",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 收购演示初创公司 NextSlide",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
