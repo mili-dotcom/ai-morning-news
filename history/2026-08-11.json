@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Muse Glimmer：针对始终在线的本地代理工作流程优化的 30B 参数模型",
+    "source": "Hacker News",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 981
+  },
+  {
+    "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
+    "source": "Hacker News",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 619
+  },
+  {
+    "title": "随着 Meta 回归开放模型，马克·扎克伯格攻击“封闭”的人工智能竞争对手",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 320
+  },
+  {
+    "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人",
+    "source": "Hacker News",
+    "url": "https://www.whodunnitai.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 188
+  },
+  {
+    "title": "进一步了解克劳德的数学能力",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 147
+  },
+  {
+    "title": "在收到数百起客户投诉后，Kinney Drugs 撤回了人工智能电话助手",
+    "source": "Hacker News",
+    "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 136
+  },
+  {
+    "title": "人性化的LLM输出是愚蠢的",
+    "source": "Hacker News",
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 127
+  },
+  {
+    "title": "Show HN：Ante，离线运行的单个二进制文件中的编码代理",
+    "source": "Hacker News",
+    "url": "https://github.com/AntigmaLabs/ante",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 119
+  },
+  {
+    "title": "C 中的尾部调用优化相对较新（2025 年）",
+    "source": "Hacker News",
+    "url": "https://lwn.net/Articles/1034703/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 113
+  },
+  {
+    "title": "GPU 上的 Rust SIMD",
+    "source": "Hacker News",
+    "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 101
+  },
+  {
+    "title": "Show HN：Needle2：14MB 代理法学硕士，适用于手机、可穿戴设备、智能家居和机器人",
+    "source": "Hacker News",
+    "url": "https://cactuscompute.com/needle",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 95
+  },
+  {
+    "title": "探索 Claude/GPT 知识截止点和预训练时间表",
+    "source": "Hacker News",
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 91
+  },
+  {
+    "title": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 82
+  },
+  {
+    "title": "推出 HN：Stoa Markets (YC S26) – GPU 和 AI 服务器的市场",
+    "source": "Hacker News",
+    "url": "https://www.stoaexchange.com",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 60
+  },
+  {
+    "title": "马克·扎克伯格的人工智能宣言正是人们不喜欢人工智能的原因",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
