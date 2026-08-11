@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Muse Glimmer：针对始终在线的本地代理工作流程优化的 30B 参数模型",
+    "source": "Hacker News",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1173
+  },
+  {
+    "title": "随着人工智能吞噬网络，互联网的集体记忆正在消失",
+    "source": "Hacker News",
+    "url": "https://thewalrus.ca/google-search-is-dying/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 860
+  },
+  {
+    "title": "从专有的 LLM API 中窃取推理痕迹",
+    "source": "Hacker News",
+    "url": "https://stolen-thoughts.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 452
+  },
+  {
+    "title": "H3-metal – Apple Silicon 的原生 MiniMax-H3 推理",
+    "source": "Hacker News",
+    "url": "https://github.com/antirez/h3.c",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 421
+  },
+  {
+    "title": "克劳德如何标记​​人工智能生成的内容",
+    "source": "Hacker News",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 415
+  },
+  {
+    "title": "Nvidia 的风险业务",
+    "source": "Hacker News",
+    "url": "https://stratechery.com/2026/nvidias-risky-business/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 279
+  },
+  {
+    "title": "Apple Silicon 和 macOS VM：使用 llama.cpp 加快 LLM 推理速度",
+    "source": "Hacker News",
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 274
+  },
+  {
+    "title": "OpenAI 道德主管加入不到一年就离职",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 237
+  },
+  {
+    "title": "Go 是人工智能辅助软件工程的理想语言",
+    "source": "Hacker News",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 202
+  },
+  {
+    "title": "Nvidia Nemotron 3.5 Lightning 和 NeMo Switchyard",
+    "source": "Hacker News",
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 149
+  },
+  {
+    "title": "大脑可能即将迎来臭氧时刻",
+    "source": "Hacker News",
+    "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 94
+  },
+  {
+    "title": "Accel 在数周内关闭了超额认购的 5.5 亿美元印度基金，距上次发行已过去 19 个月",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌 Gemini 应用用户数量激增至 10 亿",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的长期首席运营官 Brad Lightcap 即将离职，“开始新的事情”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
