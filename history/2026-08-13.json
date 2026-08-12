@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Tailscale 追踪数据库损坏至 16y/o SQLite WAL 重置错误",
+    "source": "Hacker News",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 727
+  },
+  {
+    "title": "DeepSeek V4 Pro 0813",
+    "source": "Hacker News",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 683
+  },
+  {
+    "title": "人工智能正在消除软件工程的中产阶级？",
+    "source": "Hacker News",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 665
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 299
+  },
+  {
+    "title": "LLM 擅长什么类型的数学？",
+    "source": "Hacker News",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 230
+  },
+  {
+    "title": "有人正在运行大规模漏洞扫描，欺骗像 ClaudeBot 这样的人工智能机器人",
+    "source": "Hacker News",
+    "url": "https://knownagents.com/insights",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 214
+  },
+  {
+    "title": "Delphi 13 社区版现已推出",
+    "source": "Hacker News",
+    "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 162
+  },
+  {
+    "title": "高分辨率照片显示沙丘从火星多边形平原升起",
+    "source": "Hacker News",
+    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 153
+  },
+  {
+    "title": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理",
+    "source": "Hacker News",
+    "url": "https://discoveredmaterials.com/research/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 110
+  },
+  {
+    "title": "我的代理设置",
+    "source": "Hacker News",
+    "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 92
+  },
+  {
+    "title": "Lovable C 轮融资 4 亿美元",
+    "source": "Hacker News",
+    "url": "https://lovable.dev/blog/series-c",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 83
+  },
+  {
+    "title": "Hax – 用 C 语言编写的极简、终端原生编码代理",
+    "source": "Hacker News",
+    "url": "https://usehax.dev/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 79
+  },
+  {
+    "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "默认情况下，亚马逊将针对 Twitch 主播的内容进行训练，除非他们选择退出",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "据报道，人工智能编码初创公司 Cognition 已在就估值 40B 美元的融资进行谈判",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
