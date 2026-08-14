@@ -1,0 +1,122 @@
+[
+  {
+    "title": "谷歌正在通过同态加密使私人人工智能变得实用",
+    "source": "Hacker News",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 235
+  },
+  {
+    "title": "手工人工智能",
+    "source": "Hacker News",
+    "url": "https://www.byhand.ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 165
+  },
+  {
+    "title": "最大限度地发挥克劳德代码课程的价值",
+    "source": "Hacker News",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 112
+  },
+  {
+    "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Kog 正在更深入地利用 GPU 进行更多推理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Databricks 想要筹集 1B 美元，投资者想要 15B 美元。其最终估值为 5B 美元，估值为 190B 美元。",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "IBM 与 OpenAI 合作，推动企业人工智能的发展",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "人类让人工智能代理松散地执行同一任务。他们开始了地盘争夺战。",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "人为风险 2026 年 8 月 [pdf]",
+    "source": "Hacker News",
+    "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 51
+  },
+  {
+    "title": "AI 模型图集 – 将 ML 模型群体可视化为互连的 3D 图",
+    "source": "Hacker News",
+    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 50
+  }
+]
