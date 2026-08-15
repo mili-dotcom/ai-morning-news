@@ -1,0 +1,122 @@
+[
+  {
+    "title": "人工智能拥有比人脑大得多的工作记忆",
+    "source": "Hacker News",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 353
+  },
+  {
+    "title": "与人工智能一起工作感觉更像是领导而不是编码",
+    "source": "Hacker News",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 242
+  },
+  {
+    "title": "一项备受争议的阿尔茨海默氏症手术据说可以逆转症状",
+    "source": "Hacker News",
+    "url": "https://www.nature.com/articles/d41586-026-02448-x",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 143
+  },
+  {
+    "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
+    "source": "Hacker News",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 106
+  },
+  {
+    "title": "计算机科学家能建造大脑吗？",
+    "source": "Hacker News",
+    "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 79
+  },
+  {
+    "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 59
+  },
+  {
+    "title": "女子声称她的继父使用 Grok 将童年照片变成露骨图像",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "SpaceX 正式完成 Cursor 收购",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "马克·扎克伯格真的相信人工智能“适合所有人”吗？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Kog 正在更深入地利用 GPU 进行更多推理",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
