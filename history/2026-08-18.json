@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic在《克劳德》中的“水印”文本掺假是对写作的歪曲",
+    "source": "Hacker News",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 753
+  },
+  {
+    "title": "AI;DR（AI；未读）",
+    "source": "Hacker News",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 479
+  },
+  {
+    "title": "AI 生成的 GitHub Copilot “Autofix” 允许 Snowflake 的 Jira 受到损害",
+    "source": "Hacker News",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 298
+  },
+  {
+    "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
+    "source": "Hacker News",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 288
+  },
+  {
+    "title": "如何禁用或避免侵入性人工智能",
+    "source": "Hacker News",
+    "url": "https://www.librarian.net/notoai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 236
+  },
+  {
+    "title": "关于人工智能监管和消息传递",
+    "source": "Hacker News",
+    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 230
+  },
+  {
+    "title": "Rust 中的 GPU 卸载：便携、安全且快速",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2608.13759",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 138
+  },
+  {
+    "title": "推出 HN：Speko (YC S26) – 用于语音 AI 的 OpenRouter",
+    "source": "Hacker News",
+    "url": "https://speko.ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 85
+  },
+  {
+    "title": "关于离开 Gmail 转而使用 Fastmail 的更新",
+    "source": "Hacker News",
+    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 84
+  },
+  {
+    "title": "显示 HN：推箱子 AI 求解器",
+    "source": "Hacker News",
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 66
+  },
+  {
+    "title": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Wispr 以 20 亿美元估值筹集 2.8 亿美元，因为它看起来超越了指令",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
