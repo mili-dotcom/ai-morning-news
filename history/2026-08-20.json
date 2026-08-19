@@ -1,0 +1,122 @@
+[
+  {
+    "title": "一次开玩笑的域名购买变成了地缘政治战争",
+    "source": "Hacker News",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 702
+  },
+  {
+    "title": "支持 GrapheneOS 的设备将于 2027 年上市",
+    "source": "Hacker News",
+    "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 569
+  },
+  {
+    "title": "Air Theremin – 通过在网络摄像头上挥手即可播放的浏览器 Theremin",
+    "source": "Hacker News",
+    "url": "https://theremin.bizibah.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 234
+  },
+  {
+    "title": "Google 将某些源代码的 Git 标签替换为通过 Google Drive 获取",
+    "source": "Hacker News",
+    "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 223
+  },
+  {
+    "title": "fx ：小型、开放、本机编码代理。",
+    "source": "Hacker News",
+    "url": "https://fx.sh",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 152
+  },
+  {
+    "title": "纯 C 语言中的 MicroGPT-C 在 Apple M5 上达到 1000 万 TPS",
+    "source": "Hacker News",
+    "url": "https://github.com/vixhal-baraiya/microgpt-c",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 116
+  },
+  {
+    "title": "人工智能时代的数学",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 103
+  },
+  {
+    "title": "法学硕士时代的可扩展软件",
+    "source": "Hacker News",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 95
+  },
+  {
+    "title": "野外的思想链推理并不总是忠实的 (2025)",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2503.08679",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 59
+  },
+  {
+    "title": "人类拒绝支持特工.md",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "人工智能现在应该赢得人们的支持——但事实并非如此",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌为搜索和 Gemini 提供新的人工智能研究工具",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "研究人员称 OpenAI 撤销了他们对有限网络程序的访问权限",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
