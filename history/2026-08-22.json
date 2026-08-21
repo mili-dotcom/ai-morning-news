@@ -1,0 +1,122 @@
+[
+  {
+    "title": "人工智能公司销毁实体书籍——让我们在为时已晚之前扫描善本书籍",
+    "source": "Hacker News",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 493
+  },
+  {
+    "title": "DeepSeek-v4-flash-vision-exp",
+    "source": "Hacker News",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 440
+  },
+  {
+    "title": "我变得人工智能盲了",
+    "source": "Hacker News",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 224
+  },
+  {
+    "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究",
+    "source": "Hacker News",
+    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 202
+  },
+  {
+    "title": "克劳德：让克劳德停止像 BuzzFeed 文章一样说话",
+    "source": "Hacker News",
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 168
+  },
+  {
+    "title": "Sara Paculdo 设计的平椅",
+    "source": "Hacker News",
+    "url": "https://paculdo.com/innovative-housewares-inside-out-design-oliso/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 105
+  },
+  {
+    "title": "当 GPU 读取内存时会发生什么",
+    "source": "Hacker News",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 89
+  },
+  {
+    "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂",
+    "source": "Hacker News",
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 71
+  },
+  {
+    "title": "快速印象：比 Claude 使用 Codex 多的一周",
+    "source": "Hacker News",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 68
+  },
+  {
+    "title": "Anthropic 的 Opus 4.6 是一台色情机器",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia 与数据中心开发商 Cloverleaf 合作",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
