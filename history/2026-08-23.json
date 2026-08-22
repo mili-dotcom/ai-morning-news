@@ -1,0 +1,122 @@
+[
+  {
+    "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究",
+    "source": "Hacker News",
+    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 369
+  },
+  {
+    "title": "Munder Difflin – 代理管理克隆办公室",
+    "source": "Hacker News",
+    "url": "https://munderdiffl.in/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 239
+  },
+  {
+    "title": "Anthropic 似乎正在减少 Claude 代码中的 A/B 测试工作量",
+    "source": "Hacker News",
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 155
+  },
+  {
+    "title": "为什么你当地的法学硕士感觉比实际情况更愚蠢",
+    "source": "Hacker News",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 120
+  },
+  {
+    "title": "泰国如何抵抗殖民统治",
+    "source": "Hacker News",
+    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 119
+  },
+  {
+    "title": "Autolith：具有实时运行时的编程代理",
+    "source": "Hacker News",
+    "url": "https://www.lambda-symbolics.com/autolith",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 103
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "Hacker News",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 100
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 88
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "Hacker News",
+    "url": "https://ozbrain.com",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
+  },
+  {
+    "title": "猜猜其中哪些 LLM 输出带有水印",
+    "source": "Hacker News",
+    "url": "https://sgoedecke.github.io/watermark-quiz/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 58
+  },
+  {
+    "title": "哈佛 699 美元的创业训练营提供其讲师的人工智能头像",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 表示加州应加强其人工智能安全法案",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Frontier AI 实验室仍然不愿透露他们如何遏制流氓模型",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
