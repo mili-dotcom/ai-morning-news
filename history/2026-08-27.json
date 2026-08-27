@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Tailcat – 类似于 netcat，但在 Tailscale 的数据平面上",
+    "source": "Hacker News",
+    "url": "https://github.com/tailscale/tailcat",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 505
+  },
+  {
+    "title": "Nvidia 同意以 $13B 收购 Hugging Face",
+    "source": "Hacker News",
+    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 474
+  },
+  {
+    "title": "完成一个不是你的、只是人工智能建议的想法是非常困难的",
+    "source": "Hacker News",
+    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 187
+  },
+  {
+    "title": "动荡的AI时代已经到来",
+    "source": "Hacker News",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 184
+  },
+  {
+    "title": "CEO 解雇了开发人员，为人工智能腾出空间。开发者创建开源人工智能CEO",
+    "source": "Hacker News",
+    "url": "https://github.com/SenteLabsAI/OpenExecutive",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 176
+  },
+  {
+    "title": "虚拟机将不包含具有网络能力的代理",
+    "source": "Hacker News",
+    "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 151
+  },
+  {
+    "title": "PageRank 解释",
+    "source": "Hacker News",
+    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 122
+  },
+  {
+    "title": "使用 Accept 标头向 AI 代理提供 Markdown 服务",
+    "source": "Hacker News",
+    "url": "https://acceptmarkdown.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 103
+  },
+  {
+    "title": "病毒式 AI 初创公司 Instinct 融资 3.5 亿美元，估值 25 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "由于“需求激增”，亚马逊刚刚将 Nvidia 芯片订单增加了两倍",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 与 Nscale 达成 45B 美元交易，继续吞噬计算资源",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌的 Gemini 存在品牌问题，其他人工智能也存在品牌问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "我们如何解释 OpenAI 的高管离职？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 发布关于 Hugging Face 漏洞的官方报告",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "雷达使播客可供人工智能代理搜索和使用",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
