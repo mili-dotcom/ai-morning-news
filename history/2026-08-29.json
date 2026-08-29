@@ -1,0 +1,122 @@
+[
+  {
+    "title": "法官裁定特朗普政府将 Anthropic 列入黑名单是非法的",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 557
+  },
+  {
+    "title": "美国对 A/I 集体的制裁",
+    "source": "Hacker News",
+    "url": "https://www.inventati.org/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 516
+  },
+  {
+    "title": "阻止智能电视被用来对付你",
+    "source": "Hacker News",
+    "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 160
+  },
+  {
+    "title": "开放世界多智能体环境中的自主数学发现",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2608.23691",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 88
+  },
+  {
+    "title": "我不小心把LLM记忆变成了程序分析",
+    "source": "Hacker News",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 57
+  },
+  {
+    "title": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "一位人类研究人员刚刚让我们了解了自我改进的人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "开放式人工智能公司是硅谷最热门的收购目标",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 首次在法庭上战胜五角大楼的供应链风险标签",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "由于社交媒体巨头在印度面临越来越严格的审查，Meta 高管离职前往 OpenAI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 和 OpenAI 将在 TechCrunch Disrupt 2026 上加入人工智能舞台",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI、Anthropic、Google 和其他 100 家公司呼吁采取行动抵御流氓人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌的人工智能模式现在可以跟踪航班价格、帮助预订酒店等",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Hugging Face 正在销售一款售价 399 美元的可爱开源鸭子机器人 Microduck",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
