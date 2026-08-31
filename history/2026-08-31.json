@@ -1,0 +1,122 @@
+[
+  {
+    "title": "俳句 R1/beta6 已发布",
+    "source": "Hacker News",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 245
+  },
+  {
+    "title": "特工文明的兴衰",
+    "source": "Hacker News",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 218
+  },
+  {
+    "title": "地球上水上或陆地上最长的直线路径（2018）",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/1804.07389",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 189
+  },
+  {
+    "title": "默认情况下，Claude 会话 URL 附加到提交消息和 PR 描述",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 182
+  },
+  {
+    "title": "我父亲在 90 年代教给我的人工智能编码知识",
+    "source": "Hacker News",
+    "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 130
+  },
+  {
+    "title": "电雨可以腐蚀金属",
+    "source": "Hacker News",
+    "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 91
+  },
+  {
+    "title": "为什么开源如此震撼——新的 SM750 (Silicon Motion GPU) HDMI 驱动程序",
+    "source": "Hacker News",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 63
+  },
+  {
+    "title": "马斯克加快生产更多燃气轮机的步伐也带来了污染问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Caterpillar 正在将其从自动化采矿中学到的知识引入人工智能部署",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的盗窃知识产权活动”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "“我们每年不会进行 30 次投注”：Vijay Pande 在 a16z 投入 40 亿美元后谈小额投注",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia 的 AI 优势正在超越 GPU",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "一位人类研究人员刚刚让我们了解了自我改进的人工智能",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "开放式人工智能公司是硅谷最热门的收购目标",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
