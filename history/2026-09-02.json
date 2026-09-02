@@ -1,0 +1,122 @@
+[
+  {
+    "title": "克劳德寓言5.1和克劳德神话5.1",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 890
+  },
+  {
+    "title": "我在 1.5 小时内训练了一个小型 Transformer，它击败了许多法学硕士",
+    "source": "Hacker News",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 562
+  },
+  {
+    "title": "美国航空机械师阿兹里尔·“阿尔”·布莱克曼去世",
+    "source": "Hacker News",
+    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 369
+  },
+  {
+    "title": "Ed Zitron 的人工智能怀疑论者预测有多准确？",
+    "source": "Hacker News",
+    "url": "https://danluu.com/zitron/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 364
+  },
+  {
+    "title": "ChatGPT/Codex 应用程序捆绑了 LibreOffice 的完整副本",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 228
+  },
+  {
+    "title": "《矮人要塞》的创造者称该行业因人工智能而陷入混乱",
+    "source": "Hacker News",
+    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 195
+  },
+  {
+    "title": "苹果在 OpenAI 诉讼中披露了前员工 MacBook 的“令人震惊的证据”",
+    "source": "Hacker News",
+    "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 167
+  },
+  {
+    "title": "人工智能也能让你吸得更快",
+    "source": "Hacker News",
+    "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 143
+  },
+  {
+    "title": "Atlas：空间智能的世界模型",
+    "source": "Hacker News",
+    "url": "https://www.worldlabs.ai/blog/atlas",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 137
+  },
+  {
+    "title": "据报道，AfterQuery 成为 Y Combinator 有史以来最快的独角兽，目前估值为 $3.2B",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的 Astra 模型正在开发中——并且非常擅长闯入计算机系统",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌的 Android 更新解决了晕动症、无障碍等问题",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic 的新《神鬼寓言》版本更便宜、限制更少",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌对 Canva 的回应是一款人工智能工具，你可以在其中提示而不是设计",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "ChatGPT Health 为临床医生添加了 Epic 集成以导入患者数据",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
