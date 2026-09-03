@@ -1,0 +1,122 @@
+[
+  {
+    "title": "我可以选择不将我的输入或输出数据用于训练吗？",
+    "source": "Hacker News",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 363
+  },
+  {
+    "title": "三个网站制作了 215,128 个人工智能“最佳软件”页面。困惑引用了他们",
+    "source": "Hacker News",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 296
+  },
+  {
+    "title": "衰老的大脑会将记忆混合在一起，而不是仅仅忘记它们",
+    "source": "Hacker News",
+    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 203
+  },
+  {
+    "title": "Paint.net 5.2 alpha 现在可以在 Linux 上运行",
+    "source": "Hacker News",
+    "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "Quasar 438B：欧洲领先的人工智能模型",
+    "source": "Hacker News",
+    "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 159
+  },
+  {
+    "title": "OpenAI 和 Anthropic 归零后的 6 个curl CVE",
+    "source": "Hacker News",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 152
+  },
+  {
+    "title": "检查文件是否是由克劳德制作的",
+    "source": "Hacker News",
+    "url": "https://claude.com/check-content",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 149
+  },
+  {
+    "title": "SteamdDB 加入 Nexus Mods",
+    "source": "Hacker News",
+    "url": "https://www.nexusmods.com/news/15597",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 100
+  },
+  {
+    "title": "WebLLM：高性能浏览器内LLM推理引擎",
+    "source": "Hacker News",
+    "url": "https://github.com/mlc-ai/web-llm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 86
+  },
+  {
+    "title": "2010 年（2023 年）澳洲航空空客 A380 发动机故障",
+    "source": "Hacker News",
+    "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 76
+  },
+  {
+    "title": "METR关于OpenAI/拥抱脸黑客事件的报告",
+    "source": "Hacker News",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 73
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "Hacker News",
+    "url": "https://openteams.com/intelligence-vs-cost/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 68
+  },
+  {
+    "title": "Builders Stage 为 TechCrunch Disrupt 2026 带来了扩大初创企业规模的实用策略",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "消息人士称 Palo Alto Networks 斥资 5 亿美元购买 Thrive 支持的控制台",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 的全新真实世界人工智能舞台以 Nvidia、机器人和灭绝动物为特色",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
