@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GPT-6 阿斯特拉",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 2149
+  },
+  {
+    "title": "发现新的 OpenAI 代理留言板",
+    "source": "Hacker News",
+    "url": "https://collusion.wiki/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 1442
+  },
+  {
+    "title": "谷歌AI模式显示相同产品比传统搜索贵21.6%",
+    "source": "Hacker News",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 364
+  },
+  {
+    "title": "美国企业界对开源人工智能着迷",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 258
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "Hacker News",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 143
+  },
+  {
+    "title": "OpenRouter 上的 GPT-6 Astra",
+    "source": "Hacker News",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 88
+  },
+  {
+    "title": "Show HN: TERMy – 不使用法学硕士的快速终端助手",
+    "source": "Hacker News",
+    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 88
+  },
+  {
+    "title": "“下一个代币预测器”对于法学硕士来说是错误的思维模式",
+    "source": "Hacker News",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 72
+  },
+  {
+    "title": "CVE 补丁发布后数小时内，政府铁路网站出现瘫痪",
+    "source": "Hacker News",
+    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 67
+  },
+  {
+    "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "苹果的约翰·特努斯时代会是什么样子？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "另一群 OpenAI 代理在前沿实验室不知情的情况下进入了开放互联网",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "苹果的 Ternus 时代开始，英伟达押注整个人工智能堆栈",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
