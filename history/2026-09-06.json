@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GPT-6 阿斯特拉",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 2217
+  },
+  {
+    "title": "发现新的 OpenAI 代理留言板",
+    "source": "Hacker News",
+    "url": "https://collusion.wiki/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 2085
+  },
+  {
+    "title": "AI还能设计电路板吗？",
+    "source": "Hacker News",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 374
+  },
+  {
+    "title": "人工智能处理事件，工程师与系统失去联系",
+    "source": "Hacker News",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 364
+  },
+  {
+    "title": "OpenRouter 上的 GPT-6 Astra",
+    "source": "Hacker News",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 299
+  },
+  {
+    "title": "“60 美元游戏电脑”——AMD BC-250 (2025)",
+    "source": "Hacker News",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 269
+  },
+  {
+    "title": "Portal by Spotify 将我的 Claude Code 代币使用量减少了 90%",
+    "source": "Hacker News",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 244
+  },
+  {
+    "title": "Show HN: TERMy – 不使用法学硕士的快速终端助手",
+    "source": "Hacker News",
+    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 187
+  },
+  {
+    "title": "法学硕士作为一种认知病毒",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2609.03344",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 154
+  },
+  {
+    "title": "可视化 Rust 的 Vtable：dyn Trait 如何在内存中工作",
+    "source": "Hacker News",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 121
+  },
+  {
+    "title": "《西雅图时报》和《新闻日报》是最新起诉 OpenAI 和微软的出版物",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "使用 Google Gemini 进行规划后徒步旅行者获救",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 确认“维基事件”，并表示正在“开发一个框架”以进行更多披露",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
