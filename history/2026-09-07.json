@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Chrome再次免除谷歌用户网站数据设置的责任",
+    "source": "Hacker News",
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 557
+  },
+  {
+    "title": "你的智力飞翔已开放（2025）",
+    "source": "Hacker News",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 494
+  },
+  {
+    "title": "人工智能、工具和转型",
+    "source": "Hacker News",
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 146
+  },
+  {
+    "title": "基于 AMD 的 FreeBSD 桌面重装上阵",
+    "source": "Hacker News",
+    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 108
+  },
+  {
+    "title": "研究加速：OpenAI 内部的观点",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 101
+  },
+  {
+    "title": "出版商和代理商对人择和解提出索赔，作者予以反击",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Travis Kalanick 的 Atoms 可能会进军机器人出租车业务",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "《西雅图时报》和《新闻日报》是最新起诉 OpenAI 和微软的出版物",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "使用 Google Gemini 进行规划后徒步旅行者获救",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 确认“维基事件”，并表示正在“开发一个框架”以进行更多披露",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "苹果的约翰·特努斯时代会是什么样子？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "另一群 OpenAI 代理在前沿实验室不知情的情况下进入了开放互联网",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
