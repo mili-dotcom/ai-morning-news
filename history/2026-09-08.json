@@ -1,0 +1,122 @@
+[
+  {
+    "title": "德布赖恩罗特度假",
+    "source": "Hacker News",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 463
+  },
+  {
+    "title": "智能手机制造商懒得遵守欧盟的可修复性要求",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 270
+  },
+  {
+    "title": "针对整个 Linux 发行版的信任-信任攻击",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2607.24888",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 135
+  },
+  {
+    "title": "一辆特斯拉闯了停车标志并杀死了一名男子，全自动驾驶/自动驾驶仪已开启",
+    "source": "Hacker News",
+    "url": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 129
+  },
+  {
+    "title": "AMD GPU 上 vLLM 的推测解码",
+    "source": "Hacker News",
+    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 127
+  },
+  {
+    "title": "人工智能技术对就业的初步影响看起来是积极的",
+    "source": "Hacker News",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 66
+  },
+  {
+    "title": "不透明循环以及您可能应该知道的其他人工智能术语",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "出版商和代理商对人择和解提出索赔，作者予以反击",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Travis Kalanick 的 Atoms 可能会进军机器人出租车业务",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "《西雅图时报》和《新闻日报》是最新起诉 OpenAI 和微软的出版物",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "使用 Google Gemini 进行规划后徒步旅行者获救",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 确认“维基事件”，并表示正在“开发一个框架”以进行更多披露",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "XDOF 刚刚隐身 3 个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
