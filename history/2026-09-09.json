@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Mistral 筹集 €3B",
+    "source": "Hacker News",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 804
+  },
+  {
+    "title": "独立维基有一个新的“Google Jail”",
+    "source": "Hacker News",
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 519
+  },
+  {
+    "title": "我患有注意力缺陷多动症：一种阻止编码代理埋葬答案的技能",
+    "source": "Hacker News",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 304
+  },
+  {
+    "title": "ChatGPT 图像 2.5",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 268
+  },
+  {
+    "title": "Muse – Meta 的个人人工智能代理",
+    "source": "Hacker News",
+    "url": "https://ai.meta.com/muse/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 266
+  },
+  {
+    "title": "基督教的两位圣人就是佛陀",
+    "source": "Hacker News",
+    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 215
+  },
+  {
+    "title": "Kimi K3 (2.8T) 在 MacBook Pro 上以 1 token/s 的速度从四个 SSD 进行流式传输",
+    "source": "Hacker News",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 201
+  },
+  {
+    "title": "代理使用测试/验证技术的情况如何？",
+    "source": "Hacker News",
+    "url": "https://danluu.com/agentic-testing/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 174
+  },
+  {
+    "title": "显示 HN：LLM 注意力可视化",
+    "source": "Hacker News",
+    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 116
+  },
+  {
+    "title": "陶：人工智能不可再生地挖掘开放数学问题",
+    "source": "Hacker News",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 105
+  },
+  {
+    "title": "黑客正在从订阅者那里窃取克劳德代币",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Cognition 估值达到 48B 美元，表明投资者相信人工智能编码远非赢家通吃的市场",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta 首次推出 Muse AI 代理。消费者会信任它吗？",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "纽约大学数学家表示，OpenAI 在影响职业生涯的数学问题上进行了肮脏的斗争",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "谷歌云与埃森哲达成协议，在人工智能部署大战中奋起直追",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
