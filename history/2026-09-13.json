@@ -1,0 +1,122 @@
+[
+  {
+    "title": "人工智能在数学中的错位",
+    "source": "Hacker News",
+    "url": "https://mathandai.org/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1179
+  },
+  {
+    "title": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击",
+    "source": "Hacker News",
+    "url": "https://www.rubyhack.ai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 922
+  },
+  {
+    "title": "Async/Await 的设计空间探索",
+    "source": "Hacker News",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 420
+  },
+  {
+    "title": "LG否认电视间谍指控，称跟踪和窥探的担忧“不属实”",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 408
+  },
+  {
+    "title": "Nvidia是人工智能的中央银行",
+    "source": "Hacker News",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 369
+  },
+  {
+    "title": "Litelm：没有臃肿的 LiteLLM",
+    "source": "Hacker News",
+    "url": "https://github.com/kennethwolters/litelm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 173
+  },
+  {
+    "title": "Waymo 靠边停车，向警察通报持有“幽灵枪”的青少年骑手",
+    "source": "Hacker News",
+    "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 115
+  },
+  {
+    "title": "最糟糕的垃圾邮件：iLands AI 代理的喧嚣",
+    "source": "Hacker News",
+    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 100
+  },
+  {
+    "title": "我使用约翰迪尔的自助维修服务修理了一台拖拉机。农民不被卖",
+    "source": "Hacker News",
+    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 96
+  },
+  {
+    "title": "Intel 8087浮点芯片中的微代码：scale指令",
+    "source": "Hacker News",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 86
+  },
+  {
+    "title": "Real-SWE：在私人、现实世界、企业代码库上对人工智能模型进行基准测试",
+    "source": "Hacker News",
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 85
+  },
+  {
+    "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 66
+  },
+  {
+    "title": "Anthropic首席执行官概述了减缓人工智能发展的计划",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
