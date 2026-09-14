@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "source": "Hacker News",
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 590
+  },
+  {
+    "title": "Nvidia is the central bank of AI",
+    "source": "Hacker News",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 559
+  },
+  {
+    "title": "I'm being cyberattacked by Tesla, Inc",
+    "source": "Hacker News",
+    "url": "https://dreamstation.systems/personal/tesla.html",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 395
+  },
+  {
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 337
+  },
+  {
+    "title": "CUDA for AMD on Windows",
+    "source": "Hacker News",
+    "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 133
+  },
+  {
+    "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 70
+  },
+  {
+    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+    "source": "Hacker News",
+    "url": "https://github.com/FeralFirmware/TailTalk/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 68
+  },
+  {
+    "title": "There Is No AI (It's Just People) with Jaron Lanier",
+    "source": "Hacker News",
+    "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 63
+  },
+  {
+    "title": "AI recursive self-improvement might not come so quickly after all",
+    "source": "Hacker News",
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 61
+  },
+  {
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
