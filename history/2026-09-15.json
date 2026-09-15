@@ -1,0 +1,122 @@
+[
+  {
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "source": "Hacker News",
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 364
+  },
+  {
+    "title": "Pion, an agent designed to run any company autonomously",
+    "source": "Hacker News",
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 276
+  },
+  {
+    "title": "The case against JPEG XL",
+    "source": "Hacker News",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 257
+  },
+  {
+    "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+    "source": "Hacker News",
+    "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 163
+  },
+  {
+    "title": "Oracle’s 6am layoff emails hit staff amid new wave of cuts",
+    "source": "Hacker News",
+    "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 148
+  },
+  {
+    "title": "Claude is a Contrarian",
+    "source": "Hacker News",
+    "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 114
+  },
+  {
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+    "source": "Hacker News",
+    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 103
+  },
+  {
+    "title": "Why don't machine learning research agents overfit?",
+    "source": "Hacker News",
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 102
+  },
+  {
+    "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/adversarial-fashion",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 94
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "With iOS 27, I’m actually using Siri again",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
