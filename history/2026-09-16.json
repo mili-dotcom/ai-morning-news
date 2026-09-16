@@ -1,0 +1,122 @@
+[
+  {
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "source": "Hacker News",
+    "url": "https://www.effort.news/irregular",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 440
+  },
+  {
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 426
+  },
+  {
+    "title": "Let's make quality the norm again",
+    "source": "Hacker News",
+    "url": "https://www.forbrukerradet.no/short-life/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 297
+  },
+  {
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "source": "Hacker News",
+    "url": "https://codyho.dev/blog/gpu-driver/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 145
+  },
+  {
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "source": "Hacker News",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 125
+  },
+  {
+    "title": "How much of F-Droid is LLM generated?",
+    "source": "Hacker News",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 123
+  },
+  {
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "source": "Hacker News",
+    "url": "https://www.formas.ai/cartesian",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 86
+  },
+  {
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "AI agents now have a place to snitch",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
