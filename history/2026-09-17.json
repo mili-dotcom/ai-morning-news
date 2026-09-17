@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "source": "Hacker News",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 532
+  },
+  {
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "source": "Hacker News",
+    "url": "https://rohanbansal.com/qorl",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 380
+  },
+  {
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "source": "Hacker News",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 230
+  },
+  {
+    "title": "Nvidia announces native GPU programming in Rust",
+    "source": "Hacker News",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 208
+  },
+  {
+    "title": "Claude Cowork and chat are now one Claude",
+    "source": "Hacker News",
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 201
+  },
+  {
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2511.07885",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 159
+  },
+  {
+    "title": "The DeepMind Institute",
+    "source": "Hacker News",
+    "url": "https://institute.deepmind.com/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 138
+  },
+  {
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2609.16338",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 130
+  },
+  {
+    "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+    "source": "Hacker News",
+    "url": "https://stale.jock.pl/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 70
+  },
+  {
+    "title": "Accurate Models of AMD Matrix Cores",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2609.14845",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 59
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Your AI agents can now control your Google Home devices",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
