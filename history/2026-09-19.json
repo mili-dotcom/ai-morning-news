@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "source": "Hacker News",
+    "url": "https://code.claude.com/docs/en/changelog",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 479
+  },
+  {
+    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+    "source": "Hacker News",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 469
+  },
+  {
+    "title": "US Military had close call after using AI for hallucinated intelligence report",
+    "source": "Hacker News",
+    "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 382
+  },
+  {
+    "title": "How to Write with an LLM",
+    "source": "Hacker News",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 374
+  },
+  {
+    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 286
+  },
+  {
+    "title": "Korea raises data breach fines to 10% of revenue",
+    "source": "Hacker News",
+    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 263
+  },
+  {
+    "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+    "source": "Hacker News",
+    "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 186
+  },
+  {
+    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+    "source": "Hacker News",
+    "url": "https://cactuscompute.com/needle",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 161
+  },
+  {
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "source": "Hacker News",
+    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 102
+  },
+  {
+    "title": "AI chatbots are becoming experts at changing people's minds",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 81
+  },
+  {
+    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+    "source": "Hacker News",
+    "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 69
+  },
+  {
+    "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.03215",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 63
+  },
+  {
+    "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "AI hallucination nearly triggers US military operation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
