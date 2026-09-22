@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AX – Google’s Open Agentic Orchestrator",
+    "source": "Hacker News",
+    "url": "https://agentexecutor.io",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 630
+  },
+  {
+    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+    "source": "Hacker News",
+    "url": "https://github.com/volotat/mini-AGI/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 249
+  },
+  {
+    "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+    "source": "Hacker News",
+    "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 239
+  },
+  {
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "source": "Hacker News",
+    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 208
+  },
+  {
+    "title": "US halts flights at busy East Coast airports, says fiber line cut",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 191
+  },
+  {
+    "title": "Transformers Explained Visually",
+    "source": "Hacker News",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 190
+  },
+  {
+    "title": "Python Workers are now generally available",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/python-workers-ga/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 179
+  },
+  {
+    "title": "Amiga Unix, Again",
+    "source": "Hacker News",
+    "url": "https://amigaux.org/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 141
+  },
+  {
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "source": "Hacker News",
+    "url": "https://linear.app/now/ci-bottleneck-reworked",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 132
+  },
+  {
+    "title": "Why does mathmain need an encrypted loader?",
+    "source": "Hacker News",
+    "url": "https://safedep.io/mathmain-encrypted-loader/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 108
+  },
+  {
+    "title": "Frontier AI on Your Own Hardware",
+    "source": "Hacker News",
+    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 97
+  },
+  {
+    "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "Hacker News",
+    "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 80
+  },
+  {
+    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+    "source": "Hacker News",
+    "url": "https://github.com/aru-labs/lossless-memory",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 57
+  },
+  {
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
