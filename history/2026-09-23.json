@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Claude Opus 5.5",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1166
+  },
+  {
+    "title": "GPT-6 Sol and Luna",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1133
+  },
+  {
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "source": "Hacker News",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 551
+  },
+  {
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 392
+  },
+  {
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "source": "Hacker News",
+    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 257
+  },
+  {
+    "title": "AMD's random number generator can't generate a 0?",
+    "source": "Hacker News",
+    "url": "https://board.flatassembler.net/topic.php?t=24261",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 247
+  },
+  {
+    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 230
+  },
+  {
+    "title": "How did AMD Ryzen get 50% faster in two years?",
+    "source": "Hacker News",
+    "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 199
+  },
+  {
+    "title": "Solitaire Alone Together",
+    "source": "Hacker News",
+    "url": "https://solitairealonetogether.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 131
+  },
+  {
+    "title": "Unreal Agent",
+    "source": "Hacker News",
+    "url": "https://unreallabs.ai/blog/unreal-agent/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 127
+  },
+  {
+    "title": "16-bit Intel 8088 chip (c. 1985)",
+    "source": "Hacker News",
+    "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 106
+  },
+  {
+    "title": "Writing Rust code that's fast by asking agents to make the code faster",
+    "source": "Hacker News",
+    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 94
+  },
+  {
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "source": "Hacker News",
+    "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 92
+  },
+  {
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
