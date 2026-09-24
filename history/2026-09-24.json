@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Claude Opus 5.5",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1767
+  },
+  {
+    "title": "GPT-6 Sol and Luna",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1730
+  },
+  {
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 893
+  },
+  {
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 468
+  },
+  {
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+    "source": "Hacker News",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 446
+  },
+  {
+    "title": "I don't want the details",
+    "source": "Hacker News",
+    "url": "https://michaelheap.com/i-dont-want-the-details/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 343
+  },
+  {
+    "title": "GPT-6 Astra has gained the ability to drive a car",
+    "source": "Hacker News",
+    "url": "https://drivingbench.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 272
+  },
+  {
+    "title": "Stripe's Knowledge AI Platform",
+    "source": "Hacker News",
+    "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 173
+  },
+  {
+    "title": "Once Claude can measure something, it can make it faster",
+    "source": "Hacker News",
+    "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 157
+  },
+  {
+    "title": "OpenAI breaches Medicare, Albanese reveals",
+    "source": "Hacker News",
+    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 139
+  },
+  {
+    "title": "VSCode's SSH Agent Is Bananas (2025)",
+    "source": "Hacker News",
+    "url": "https://fly.io/blog/vscode-ssh-wtf/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 109
+  },
+  {
+    "title": "Making Tailscale Faster",
+    "source": "Hacker News",
+    "url": "https://tailscale.com/blog/making-tailscale-faster",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Meta introduces camera-free AI glasses",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic says its biology lab has already found something big",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
