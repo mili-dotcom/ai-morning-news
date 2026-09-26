@@ -1,0 +1,122 @@
+[
+  {
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 375
+  },
+  {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "source": "Hacker News",
+    "url": "https://swarmtraces.org/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 176
+  },
+  {
+    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "source": "Hacker News",
+    "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 165
+  },
+  {
+    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+    "source": "Hacker News",
+    "url": "https://mouse.dev/blog/muse-special/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 110
+  },
+  {
+    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 77
+  },
+  {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Meta opens early access program for new Muse features",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Astra and Opus just passed Turing’s other test",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
