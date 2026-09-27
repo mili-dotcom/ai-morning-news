@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "source": "Hacker News",
+    "url": "https://swarmtraces.org/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 700
+  },
+  {
+    "title": "How to keep enjoying programming in a world of LLMs",
+    "source": "Hacker News",
+    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 150
+  },
+  {
+    "title": "DeepSeek Elastic Compute (DSec)",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2609.22978",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 147
+  },
+  {
+    "title": "A single function Jev-like wrapper for LLMs, including vision models",
+    "source": "Hacker News",
+    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 133
+  },
+  {
+    "title": "How I changed teaching after AI managed to do all my homework assignments",
+    "source": "Hacker News",
+    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 127
+  },
+  {
+    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 122
+  },
+  {
+    "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "source": "Hacker News",
+    "url": "https://www.movingimagearchive.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 107
+  },
+  {
+    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "source": "Hacker News",
+    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 103
+  },
+  {
+    "title": "OpenAI bots meddled with multiple US Government agency sites",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 102
+  },
+  {
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Meta opens early access program for new Muse features",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
