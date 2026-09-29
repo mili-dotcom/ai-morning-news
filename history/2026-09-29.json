@@ -1,0 +1,122 @@
+[
+  {
+    "title": "It's Time to Investigate the AI Labs",
+    "source": "Hacker News",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 312
+  },
+  {
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "source": "Hacker News",
+    "url": "https://git.mills.io/prologic/parley",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 306
+  },
+  {
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "source": "Hacker News",
+    "url": "https://github.com/firelex/jeff",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 296
+  },
+  {
+    "title": "World Labs Is Joining AMD",
+    "source": "Hacker News",
+    "url": "https://www.worldlabs.ai/blog/amd-announcement",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 193
+  },
+  {
+    "title": "Nissan's third generation e-POWER powertrain",
+    "source": "Hacker News",
+    "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 155
+  },
+  {
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "source": "Hacker News",
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 137
+  },
+  {
+    "title": "What would a serious AI product look like?",
+    "source": "Hacker News",
+    "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 133
+  },
+  {
+    "title": "Cf: The Agentic CLI for the Cloudflare API",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 122
+  },
+  {
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 109
+  },
+  {
+    "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+    "source": "Hacker News",
+    "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 85
+  },
+  {
+    "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 74
+  },
+  {
+    "title": "What reversing, modernising old games tells us about the economic impact of AI",
+    "source": "Hacker News",
+    "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 71
+  },
+  {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
