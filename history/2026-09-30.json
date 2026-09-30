@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 786
+  },
+  {
+    "title": "Dots: Always-on agents",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-dots/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 466
+  },
+  {
+    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+    "source": "Hacker News",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 408
+  },
+  {
+    "title": "ChatGPT Pro 500",
+    "source": "Hacker News",
+    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 190
+  },
+  {
+    "title": "Sustainable energy without the hot air (2008)",
+    "source": "Hacker News",
+    "url": "https://www.withouthotair.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 135
+  },
+  {
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
