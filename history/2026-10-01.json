@@ -1,0 +1,122 @@
+[
+  {
+    "title": "You said no MCP",
+    "source": "Hacker News",
+    "url": "https://earendil.com/posts/you-said-no-mcp/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 616
+  },
+  {
+    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "source": "Hacker News",
+    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 132
+  },
+  {
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "source": "Hacker News",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 125
+  },
+  {
+    "title": "Surprisingly complex waves reveal the brain's inner workings",
+    "source": "Hacker News",
+    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 118
+  },
+  {
+    "title": "CS240 AI Cheating Retrospective",
+    "source": "Hacker News",
+    "url": "https://turkeyland.net/thoughts/ai.php",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 92
+  },
+  {
+    "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 81
+  },
+  {
+    "title": "Responsible Release of AI-Generated Mathematics",
+    "source": "Hacker News",
+    "url": "https://agmai.org/general-sep29/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 78
+  },
+  {
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "The ugly economics of consumer AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
