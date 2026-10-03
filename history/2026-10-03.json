@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Sites in ChatGPT",
+    "source": "Hacker News",
+    "url": "https://chatgpt.com/features/sites/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 208
+  },
+  {
+    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "source": "Hacker News",
+    "url": "https://stillwet.art/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 198
+  },
+  {
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 176
+  },
+  {
+    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 174
+  },
+  {
+    "title": "From the creator of Redis; run LLM locally with ds4",
+    "source": "Hacker News",
+    "url": "https://dwarfstar.sh/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 148
+  },
+  {
+    "title": "Crypto Capture of Foreign Aid",
+    "source": "Hacker News",
+    "url": "https://www.nber.org/papers/w35655",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 86
+  },
+  {
+    "title": "Venice’s failed war against Constantinople led to the first bond market",
+    "source": "Hacker News",
+    "url": "https://bigthink.com/books/a-fabulous-debt/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 69
+  },
+  {
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "source": "Hacker News",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 67
+  },
+  {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
