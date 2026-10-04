@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "source": "Hacker News",
+    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 164
+  },
+  {
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 161
+  },
+  {
+    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+    "source": "Hacker News",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 143
+  },
+  {
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "source": "Hacker News",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 83
+  },
+  {
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "source": "Hacker News",
+    "url": "https://pipod.dev/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 77
+  },
+  {
+    "title": "Agents don't need memory, they need documentation",
+    "source": "Hacker News",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 62
+  },
+  {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "All the AI agents that can live in your text messages",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
