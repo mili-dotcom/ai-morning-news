@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "source": "Hacker News",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 565
+  },
+  {
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "source": "Hacker News",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 289
+  },
+  {
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "source": "Hacker News",
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 223
+  },
+  {
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "source": "Hacker News",
+    "url": "https://qlabs.sh/research/dust",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 113
+  },
+  {
+    "title": "Linux containers in 500 lines of code (2016)",
+    "source": "Hacker News",
+    "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 102
+  },
+  {
+    "title": "Martian chaos terrain",
+    "source": "Hacker News",
+    "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 99
+  },
+  {
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
