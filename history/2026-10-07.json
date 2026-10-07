@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Sharing AI progress in mathematics",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 423
+  },
+  {
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "source": "Hacker News",
+    "url": "https://qlabs.sh/research/dust",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 273
+  },
+  {
+    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+    "source": "Hacker News",
+    "url": "https://github.com/FeSens/openTPU",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 235
+  },
+  {
+    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+    "source": "Hacker News",
+    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 97
+  },
+  {
+    "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+    "source": "Hacker News",
+    "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 94
+  },
+  {
+    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+    "source": "Hacker News",
+    "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 67
+  },
+  {
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "source": "Hacker News",
+    "url": "https://penguin-mail.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 65
+  },
+  {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "How AI decision models could change content moderation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
