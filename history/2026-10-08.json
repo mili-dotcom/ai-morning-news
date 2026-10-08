@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Sharing AI progress in mathematics",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 1235
+  },
+  {
+    "title": "Claude Haiku 5.5",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 696
+  },
+  {
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 510
+  },
+  {
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "source": "Hacker News",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 295
+  },
+  {
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "source": "Hacker News",
+    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 283
+  },
+  {
+    "title": "Docker Agent",
+    "source": "Hacker News",
+    "url": "https://github.com/docker/docker-agent",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 184
+  },
+  {
+    "title": "AI-assisted proof of optimal packing for 11 squares",
+    "source": "Hacker News",
+    "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 109
+  },
+  {
+    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "source": "Hacker News",
+    "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 85
+  },
+  {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
