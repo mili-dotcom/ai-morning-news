@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "source": "Hacker News",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 431
+  },
+  {
+    "title": "Grieving the loss of details",
+    "source": "Hacker News",
+    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 345
+  },
+  {
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "source": "Hacker News",
+    "url": "https://github.com/rociiu/talorys",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 247
+  },
+  {
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "source": "Hacker News",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 193
+  },
+  {
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "source": "Hacker News",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 159
+  },
+  {
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 117
+  },
+  {
+    "title": "Food processing influences metabolism and brain activity",
+    "source": "Hacker News",
+    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 107
+  },
+  {
+    "title": "Recent AI models struggled to match a human algorithmic innovation",
+    "source": "Hacker News",
+    "url": "https://epoch.ai/publications/innovationeval",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
+  },
+  {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
