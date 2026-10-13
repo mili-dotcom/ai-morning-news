@@ -1,0 +1,122 @@
+[
+  {
+    "title": "QGIS enacts moratorium on AI contributions",
+    "source": "Hacker News",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 367
+  },
+  {
+    "title": "AI coding agents generate more code, but not more software",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 317
+  },
+  {
+    "title": "AI is a tool and using it well takes skill",
+    "source": "Hacker News",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 255
+  },
+  {
+    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "source": "Hacker News",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 234
+  },
+  {
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "source": "Hacker News",
+    "url": "https://taylor.town/kk-ai-2026",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 151
+  },
+  {
+    "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+    "source": "Hacker News",
+    "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 131
+  },
+  {
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 115
+  },
+  {
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "source": "Hacker News",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 96
+  },
+  {
+    "title": "Running the unmodified Linux amdgpu driver on an iPad",
+    "source": "Hacker News",
+    "url": "https://github.com/Geramy/LemonSeed-Studio",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 90
+  },
+  {
+    "title": "The baffling intelligence of a single cell (2024)",
+    "source": "Hacker News",
+    "url": "https://jsomers.net/e-coli-chemotaxis/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 89
+  },
+  {
+    "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "source": "Hacker News",
+    "url": "https://github.com/SaarthurR/atticus-mac",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 78
+  },
+  {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
