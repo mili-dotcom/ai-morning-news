@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AI is a tool and using it well takes skill",
+    "source": "Hacker News",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 648
+  },
+  {
+    "title": "Redesigning source control at Anthropic",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 536
+  },
+  {
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "source": "Hacker News",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 402
+  },
+  {
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+    "source": "Hacker News",
+    "url": "https://blog.character.ai/an-update-on-character-ai/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 290
+  },
+  {
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "source": "Hacker News",
+    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 245
+  },
+  {
+    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+    "source": "Hacker News",
+    "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 222
+  },
+  {
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "source": "Hacker News",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 182
+  },
+  {
+    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+    "source": "Hacker News",
+    "url": "https://pdftomp3.com/connect-ai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 159
+  },
+  {
+    "title": "How to engineer an AI harness for game development",
+    "source": "Hacker News",
+    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 130
+  },
+  {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
