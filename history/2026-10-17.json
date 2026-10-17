@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Tesla Roadster",
+    "source": "Hacker News",
+    "url": "https://www.tesla.com/roadster",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 1152
+  },
+  {
+    "title": "Claude reveals ECDSA curve origins",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 646
+  },
+  {
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "source": "Hacker News",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 387
+  },
+  {
+    "title": "Waymo in Toronto",
+    "source": "Hacker News",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 259
+  },
+  {
+    "title": "How the Claude Code team does code review",
+    "source": "Hacker News",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 220
+  },
+  {
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 206
+  },
+  {
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "source": "Hacker News",
+    "url": "https://github.com/cobanov/PS5LM",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 180
+  },
+  {
+    "title": "AI-assisted PCB design for KiCad 10",
+    "source": "Hacker News",
+    "url": "https://github.com/mixelpixx/Konnect",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 127
+  },
+  {
+    "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+    "source": "Hacker News",
+    "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 100
+  },
+  {
+    "title": "Designing more efficient quantum circuits with Claude",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 91
+  },
+  {
+    "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+    "source": "Hacker News",
+    "url": "https://wonderhop.io/en/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 58
+  },
+  {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
