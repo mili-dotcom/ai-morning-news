@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Tesla Roadster",
+    "source": "Hacker News",
+    "url": "https://www.tesla.com/roadster",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 1601
+  },
+  {
+    "title": "Claude reveals ECDSA curve origins",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1021
+  },
+  {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 672
+  },
+  {
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "source": "Hacker News",
+    "url": "https://github.com/cobanov/PS5LM",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 365
+  },
+  {
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "source": "Hacker News",
+    "url": "https://llmspeed.dev/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 243
+  },
+  {
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "source": "Hacker News",
+    "url": "https://pele.run/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 210
+  },
+  {
+    "title": "Tell HN: Remember to migrate away from .name domain",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50089577",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 130
+  },
+  {
+    "title": "Microsoft and CMU team up to train early career software engineers",
+    "source": "Hacker News",
+    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 56
+  },
+  {
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
