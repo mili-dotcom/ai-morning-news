@@ -1,0 +1,122 @@
+[
+  {
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "source": "Hacker News",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 534
+  },
+  {
+    "title": "Namecheap just seized and disabled all my domains",
+    "source": "Hacker News",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 410
+  },
+  {
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "source": "Hacker News",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 241
+  },
+  {
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 173
+  },
+  {
+    "title": "The Intel 8087 chip: floating-point addition and subtraction",
+    "source": "Hacker News",
+    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 86
+  },
+  {
+    "title": "The Brain Sandwich",
+    "source": "Hacker News",
+    "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "I built a programming language that LLMs can't use",
+    "source": "Hacker News",
+    "url": "https://blog.picheta.me/post/killswitch-lang/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 66
+  },
+  {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
