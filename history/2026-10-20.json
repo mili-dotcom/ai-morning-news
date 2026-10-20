@@ -1,0 +1,122 @@
+[
+  {
+    "title": "MiniMax M3.1 Flash",
+    "source": "Hacker News",
+    "url": "https://www.minimax.io/blog/minimax-m31f",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 377
+  },
+  {
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50151036",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 252
+  },
+  {
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "source": "Hacker News",
+    "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 243
+  },
+  {
+    "title": "RuneScape Bench: MMOs for Agents [video]",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 150
+  },
+  {
+    "title": "The obscure trust looming over Anthropic's IPO",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 131
+  },
+  {
+    "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+    "source": "Hacker News",
+    "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 110
+  },
+  {
+    "title": "The fire retardant in the seafood chain",
+    "source": "Hacker News",
+    "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 105
+  },
+  {
+    "title": "Ukraine claims first drone evacuation of wounded soldier",
+    "source": "Hacker News",
+    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 104
+  },
+  {
+    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+    "source": "Hacker News",
+    "url": "https://bsd.network/@brynet/117407035545900963",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 82
+  },
+  {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
