@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "source": "Hacker News",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 428
+  },
+  {
+    "title": "Claude Duet",
+    "source": "Hacker News",
+    "url": "https://claude.com/product/claude-duet",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 306
+  },
+  {
+    "title": "Railway Security Disclosure",
+    "source": "Hacker News",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 287
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 231
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 230
+  },
+  {
+    "title": "The Decoherence Trap",
+    "source": "Hacker News",
+    "url": "https://maevyn.codes/decoherence",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 178
+  },
+  {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 132
+  },
+  {
+    "title": "The bridge to agent-scale Git infrastructure",
+    "source": "Hacker News",
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 56
+  },
+  {
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
