@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Jailbreaking the Switch 2",
+    "source": "Hacker News",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 710
+  },
+  {
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "source": "Hacker News",
+    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 503
+  },
+  {
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "source": "Hacker News",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 290
+  },
+  {
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "source": "Hacker News",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 225
+  },
+  {
+    "title": "Using LLM for confidence scoring is a bad idea",
+    "source": "Hacker News",
+    "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 202
+  },
+  {
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 106
+  },
+  {
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 78
+  },
+  {
+    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+    "source": "Hacker News",
+    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
+  },
+  {
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "source": "Hacker News",
+    "url": "https://www.typeui.sh/micro-interactions",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 68
+  },
+  {
+    "title": "Award-winning AI literature",
+    "source": "Hacker News",
+    "url": "https://jamesyu.org/award-winning-ai-literature/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 58
+  },
+  {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
