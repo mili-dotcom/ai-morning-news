@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "source": "Hacker News",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1057
+  },
+  {
+    "title": "No signs of AI payoff outside the tech sector",
+    "source": "Hacker News",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 460
+  },
+  {
+    "title": "A practical guide to AI image generation, from diffusion to agents",
+    "source": "Hacker News",
+    "url": "https://danielball.com/notes/ai_image_generation.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 243
+  },
+  {
+    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+    "source": "Hacker News",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 180
+  },
+  {
+    "title": "Why is AI generated language so hard to understand?",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2610.29162",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 147
+  },
+  {
+    "title": "Neural chip decodes interactions between brain regions",
+    "source": "Hacker News",
+    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 86
+  },
+  {
+    "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+    "source": "Hacker News",
+    "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 83
+  },
+  {
+    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+    "source": "Hacker News",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 72
+  },
+  {
+    "title": "Tiling Noise – Procedural GPU Patterns",
+    "source": "Hacker News",
+    "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 59
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Block’s new voice model sounds eerily human",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
