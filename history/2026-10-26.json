@@ -1,0 +1,122 @@
+[
+  {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "source": "Hacker News",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 409
+  },
+  {
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "source": "Hacker News",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 351
+  },
+  {
+    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "source": "Hacker News",
+    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 195
+  },
+  {
+    "title": "JetBrains Thinkrail",
+    "source": "Hacker News",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 176
+  },
+  {
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "source": "Hacker News",
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 114
+  },
+  {
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Block’s new voice model sounds eerily human",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
