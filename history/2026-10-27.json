@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic S-1",
+    "source": "Hacker News",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 1478
+  },
+  {
+    "title": "Birdwatching rewires the brain and slows cognitive decline",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 510
+  },
+  {
+    "title": "GPT-6.1 Terra",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 499
+  },
+  {
+    "title": "Blaise Pascal invented fixed route public transport (2024)",
+    "source": "Hacker News",
+    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 261
+  },
+  {
+    "title": "Concerning behavior from a popular open-weight AI model",
+    "source": "Hacker News",
+    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 255
+  },
+  {
+    "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+    "source": "Hacker News",
+    "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 215
+  },
+  {
+    "title": "Fixing Tool-Call Accuracy in vLLM",
+    "source": "Hacker News",
+    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 145
+  },
+  {
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "source": "Hacker News",
+    "url": "https://github.com/FrigadeHQ/hob",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 114
+  },
+  {
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 68
+  },
+  {
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic officially files for its public debut",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
