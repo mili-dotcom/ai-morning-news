@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "source": "Hacker News",
+    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 471
+  },
+  {
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 450
+  },
+  {
+    "title": "The Mythical Man-Month in the Age of AI",
+    "source": "Hacker News",
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 436
+  },
+  {
+    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+    "source": "Hacker News",
+    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 342
+  },
+  {
+    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+    "source": "Hacker News",
+    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 267
+  },
+  {
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "source": "Hacker News",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 193
+  },
+  {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "source": "Hacker News",
+    "url": "https://www.brangus.io/survival-llm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 190
+  },
+  {
+    "title": "Here be monsters: What do you still need to know when agents do the work?",
+    "source": "Hacker News",
+    "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 157
+  },
+  {
+    "title": "Early progress on accelerating drug development with Claude",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 128
+  },
+  {
+    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+    "source": "Hacker News",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 123
+  },
+  {
+    "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 73
+  },
+  {
+    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "source": "Hacker News",
+    "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
