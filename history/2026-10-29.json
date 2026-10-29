@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "source": "Hacker News",
+    "url": "https://www.brangus.io/survival-llm",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 517
+  },
+  {
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "source": "Hacker News",
+    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 434
+  },
+  {
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "source": "Hacker News",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 203
+  },
+  {
+    "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 115
+  },
+  {
+    "title": "The Agent SDK",
+    "source": "Hacker News",
+    "url": "https://cursor.com/blog/agent-sdk",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 99
+  },
+  {
+    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+    "source": "ArXiv (cs.CV)",
+    "url": "https://arxiv.org/pdf/2610.37668v1",
+    "category": "学术前沿",
+    "emoji": "🔬",
+    "hotness": 45
+  }
+]
