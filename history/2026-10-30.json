@@ -1,0 +1,122 @@
+[
+  {
+    "title": "LLM Voice",
+    "source": "Hacker News",
+    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 349
+  },
+  {
+    "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+    "source": "Hacker News",
+    "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 293
+  },
+  {
+    "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+    "source": "Hacker News",
+    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 291
+  },
+  {
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "source": "Hacker News",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 167
+  },
+  {
+    "title": "What we know so far about Spain train crash",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 161
+  },
+  {
+    "title": "Zombie stats: Where the numbers AI quotes come from",
+    "source": "Hacker News",
+    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 145
+  },
+  {
+    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+    "source": "Hacker News",
+    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 130
+  },
+  {
+    "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+    "source": "Hacker News",
+    "url": "https://fig.blue/posts/duet-is-the-future/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 107
+  },
+  {
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
