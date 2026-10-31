@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "source": "Hacker News",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 779
+  },
+  {
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "source": "Hacker News",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 510
+  },
+  {
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "source": "Hacker News",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 395
+  },
+  {
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 280
+  },
+  {
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "source": "Hacker News",
+    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 208
+  },
+  {
+    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "source": "Hacker News",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "Building an AI-native engineering org",
+    "source": "Hacker News",
+    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 110
+  },
+  {
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "source": "Hacker News",
+    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 103
+  },
+  {
+    "title": "AO3 Down for Maintenance",
+    "source": "Hacker News",
+    "url": "https://www.otwstatus.org",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 92
+  },
+  {
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Cracks are emerging in the AI spending boom",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
