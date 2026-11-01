@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "source": "Hacker News",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 967
+  },
+  {
+    "title": "Serbia just elected the world's brainiest parliament",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 812
+  },
+  {
+    "title": "Do the math: How we took over ChatGPT accounts",
+    "source": "Hacker News",
+    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 302
+  },
+  {
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "source": "Hacker News",
+    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 232
+  },
+  {
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "source": "Hacker News",
+    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 189
+  },
+  {
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "source": "Hacker News",
+    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 187
+  },
+  {
+    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+    "source": "Hacker News",
+    "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 156
+  },
+  {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
