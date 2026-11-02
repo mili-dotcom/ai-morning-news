@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The AI cost of JavaScript frameworks",
+    "source": "Hacker News",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 299
+  },
+  {
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2409.02292",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 182
+  },
+  {
+    "title": "Frontier Airlines Likely Breached",
+    "source": "Hacker News",
+    "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 176
+  },
+  {
+    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 149
+  },
+  {
+    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 137
+  },
+  {
+    "title": "Understanding Email Encryption (2025)",
+    "source": "Hacker News",
+    "url": "https://www.fastmail.com/blog/email-encryption/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 125
+  },
+  {
+    "title": "Postgres 19 is late, and it's AI's fault",
+    "source": "Hacker News",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 66
+  },
+  {
+    "title": "Domain hacks with unusual Unicode characters (2018)",
+    "source": "Hacker News",
+    "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
