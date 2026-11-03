@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "source": "Hacker News",
+    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 297
+  },
+  {
+    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+    "source": "Hacker News",
+    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 241
+  },
+  {
+    "title": "Anthropic's growth just flattened",
+    "source": "Hacker News",
+    "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 181
+  },
+  {
+    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 171
+  },
+  {
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "source": "Hacker News",
+    "url": "https://momentic.ai/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 131
+  },
+  {
+    "title": "Egoless Mathematics in the AI Era",
+    "source": "Hacker News",
+    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 126
+  },
+  {
+    "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+    "source": "Hacker News",
+    "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 119
+  },
+  {
+    "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 102
+  },
+  {
+    "title": "Agentic backdoors via pretraining poisoning",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2610.37741",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 93
+  },
+  {
+    "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+    "source": "Hacker News",
+    "url": "https://longcat.ai/blog/longcat-2.5/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 79
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/scaling-git-at-openai/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 70
+  },
+  {
+    "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+    "source": "Hacker News",
+    "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 70
+  },
+  {
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
