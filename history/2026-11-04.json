@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "source": "Hacker News",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1060
+  },
+  {
+    "title": "Jailbreaking my car's navigation system just so I can change the time",
+    "source": "Hacker News",
+    "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 636
+  },
+  {
+    "title": "Google will turn off search for schools that reject AI",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 562
+  },
+  {
+    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50352757",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 437
+  },
+  {
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 390
+  },
+  {
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "source": "Hacker News",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 276
+  },
+  {
+    "title": "Nvidia – open-source auto-ontology",
+    "source": "Hacker News",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 263
+  },
+  {
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 251
+  },
+  {
+    "title": "How I use AI (Oct 2026)",
+    "source": "Hacker News",
+    "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 95
+  },
+  {
+    "title": "We're training a Figma-fluent editing model",
+    "source": "Hacker News",
+    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
+  },
+  {
+    "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+    "source": "Hacker News",
+    "url": "https://github.com/finic-ai/kairos",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 64
+  },
+  {
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
