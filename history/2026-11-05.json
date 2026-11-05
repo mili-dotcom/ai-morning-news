@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1099
+  },
+  {
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50363461",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 631
+  },
+  {
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "source": "Hacker News",
+    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 592
+  },
+  {
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 487
+  },
+  {
+    "title": "Kimi K3.1 Pro model weights are out",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 400
+  },
+  {
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "source": "Hacker News",
+    "url": "https://www.ricursive.com/ripple",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 234
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/openai-to-acquire-pierre/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 198
+  },
+  {
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50366117",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 144
+  },
+  {
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "source": "Hacker News",
+    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 108
+  },
+  {
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 80
+  },
+  {
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 72
+  },
+  {
+    "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 69
+  },
+  {
+    "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 69
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
