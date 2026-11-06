@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1266
+  },
+  {
+    "title": "Claude Code sends your email address to websites",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 601
+  },
+  {
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "source": "Hacker News",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 344
+  },
+  {
+    "title": "GPT-6 Astra covertly underperforms on safety research",
+    "source": "Hacker News",
+    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 307
+  },
+  {
+    "title": "MCP Explained",
+    "source": "Hacker News",
+    "url": "https://mcp-explained.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 253
+  },
+  {
+    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+    "source": "Hacker News",
+    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "Baidu released ERNIE 5.5 Flash Base",
+    "source": "Hacker News",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 166
+  },
+  {
+    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+    "source": "Hacker News",
+    "url": "https://www.linum.ai/field-notes/pjit-21k",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 160
+  },
+  {
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "source": "Hacker News",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 134
+  },
+  {
+    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "source": "Hacker News",
+    "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 90
+  },
+  {
+    "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+    "source": "Hacker News",
+    "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 78
+  },
+  {
+    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+    "source": "Hacker News",
+    "url": "https://github.com/rivet-dev/rivet",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
+  },
+  {
+    "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+    "source": "Hacker News",
+    "url": "https://github.com/AGGIB/Stroq",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 58
+  },
+  {
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
