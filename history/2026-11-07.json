@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Claude Code sends your email address to websites",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1554
+  },
+  {
+    "title": "Tesla to wind down Cybertruck production",
+    "source": "Hacker News",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "category": "自动驾驶",
+    "emoji": "🚗",
+    "hotness": 862
+  },
+  {
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "source": "Hacker News",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 686
+  },
+  {
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 288
+  },
+  {
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 239
+  },
+  {
+    "title": "AI is dramatically accelerating AI research",
+    "source": "Hacker News",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 212
+  },
+  {
+    "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+    "source": "Hacker News",
+    "url": "https://github.com/anomalyco/rune",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 155
+  },
+  {
+    "title": "Restaurant Delivery Payment-Skimming Campaign",
+    "source": "Hacker News",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 98
+  },
+  {
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2610.21375",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 88
+  },
+  {
+    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "source": "Hacker News",
+    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 75
+  },
+  {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
