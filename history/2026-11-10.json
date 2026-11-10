@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Foldable Flight: The Best Paper Airplanes",
+    "source": "Hacker News",
+    "url": "https://www.foldableflight.com",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 895
+  },
+  {
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "source": "Hacker News",
+    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 490
+  },
+  {
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "source": "Hacker News",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 477
+  },
+  {
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 316
+  },
+  {
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 313
+  },
+  {
+    "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+    "source": "Hacker News",
+    "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 290
+  },
+  {
+    "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+    "source": "Hacker News",
+    "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 145
+  },
+  {
+    "title": "A primer on GPUs and kernel optimization",
+    "source": "Hacker News",
+    "url": "https://www.nabo.dev/blogs/kernel-primer",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 110
+  },
+  {
+    "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50427934",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 97
+  },
+  {
+    "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+    "source": "Hacker News",
+    "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 94
+  },
+  {
+    "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+    "source": "Hacker News",
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 70
+  },
+  {
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "The race is on to sue Nvidia",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
