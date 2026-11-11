@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Foldable Flight: The Best Paper Airplanes",
+    "source": "Hacker News",
+    "url": "https://www.foldableflight.com",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1200
+  },
+  {
+    "title": "AI usage generates a fragile codebase",
+    "source": "Hacker News",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 390
+  },
+  {
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "source": "Hacker News",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 301
+  },
+  {
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "source": "Hacker News",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 269
+  },
+  {
+    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "source": "Hacker News",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 259
+  },
+  {
+    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+    "source": "Hacker News",
+    "url": "https://tinyvalencia.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 198
+  },
+  {
+    "title": "AMD's Zen 6 Family: Feeding the Beast",
+    "source": "Hacker News",
+    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 187
+  },
+  {
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "source": "Hacker News",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 160
+  },
+  {
+    "title": "Life on Claude Nine",
+    "source": "Hacker News",
+    "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 85
+  },
+  {
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
