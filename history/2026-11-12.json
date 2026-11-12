@@ -1,0 +1,122 @@
+[
+  {
+    "title": "My AI agents found an unmapped Maya site?",
+    "source": "Hacker News",
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 941
+  },
+  {
+    "title": "Nvidia is preparing to oust Jensen Huang",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 622
+  },
+  {
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "source": "Hacker News",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 519
+  },
+  {
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "source": "Hacker News",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 432
+  },
+  {
+    "title": "Jensen Huang said to have had relationship with executive who reports to him",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 278
+  },
+  {
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "source": "Hacker News",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 215
+  },
+  {
+    "title": "Atuin Threads: All your agent sessions on every machine",
+    "source": "Hacker News",
+    "url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 194
+  },
+  {
+    "title": "Retirement Savings Are Fueling the AI Bubble",
+    "source": "Hacker News",
+    "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 141
+  },
+  {
+    "title": "AI, activity, and outcomes in software engineering",
+    "source": "Hacker News",
+    "url": "https://cabird.com/talks/shipping-faster/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 107
+  },
+  {
+    "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+    "source": "Hacker News",
+    "url": "https://github.com/klad-app/klad",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Why the data center you dread might never even be built",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
