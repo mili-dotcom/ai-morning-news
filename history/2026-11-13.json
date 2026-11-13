@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic IPO",
+    "source": "Hacker News",
+    "url": "https://ipo.anthropic.com/us/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 840
+  },
+  {
+    "title": "I'm making LLMs work on small and old devices",
+    "source": "Hacker News",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 287
+  },
+  {
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "source": "Hacker News",
+    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 196
+  },
+  {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "source": "Hacker News",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 189
+  },
+  {
+    "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 116
+  },
+  {
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "source": "Hacker News",
+    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 115
+  },
+  {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "source": "Hacker News",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 79
+  },
+  {
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "source": "Hacker News",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 79
+  },
+  {
+    "title": "Nvidia employees petition to bring back Jensen Huang",
+    "source": "Hacker News",
+    "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 60
+  },
+  {
+    "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+    "source": "Hacker News",
+    "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 59
+  },
+  {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
