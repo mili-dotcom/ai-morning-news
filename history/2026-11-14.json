@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "source": "Hacker News",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 685
+  },
+  {
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "source": "Hacker News",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 484
+  },
+  {
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 339
+  },
+  {
+    "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+    "source": "Hacker News",
+    "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 299
+  },
+  {
+    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "source": "Hacker News",
+    "url": "https://orcasairband.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 219
+  },
+  {
+    "title": "All US airports are currently ground stopped",
+    "source": "Hacker News",
+    "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 169
+  },
+  {
+    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "source": "Hacker News",
+    "url": "https://text.npr.org/nx-s1-6029408",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 166
+  },
+  {
+    "title": "OpenAI disbands its robotics team as its general models start running robots",
+    "source": "Hacker News",
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 146
+  },
+  {
+    "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+    "source": "Hacker News",
+    "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 145
+  },
+  {
+    "title": "The Dawn of the Data Intelligence Engineer",
+    "source": "Hacker News",
+    "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 139
+  },
+  {
+    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "source": "Hacker News",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 101
+  },
+  {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
