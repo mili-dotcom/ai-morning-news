@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "source": "Hacker News",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 786
+  },
+  {
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "source": "Hacker News",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 658
+  },
+  {
+    "title": "Tech companies are trying to shift the concept of privacy again",
+    "source": "Hacker News",
+    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 469
+  },
+  {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "source": "Hacker News",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 378
+  },
+  {
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "source": "Hacker News",
+    "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 202
+  },
+  {
+    "title": "Generative AI uses more energy on non-English text",
+    "source": "Hacker News",
+    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 181
+  },
+  {
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "source": "Hacker News",
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 180
+  },
+  {
+    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+    "source": "Hacker News",
+    "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 128
+  },
+  {
+    "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+    "source": "Hacker News",
+    "url": "https://github.com/0xdeadf1sh/T1DMAI",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 102
+  },
+  {
+    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+    "source": "Hacker News",
+    "url": "https://github.com/paul-nameless/agweb",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 87
+  },
+  {
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 72
+  },
+  {
+    "title": "Where was Nvidia’s security team?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
