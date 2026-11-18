@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GPT‑6.2 Astra and Sol",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1141
+  },
+  {
+    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 426
+  },
+  {
+    "title": "MAI Code 2 and Code 2 Flash",
+    "source": "Hacker News",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 308
+  },
+  {
+    "title": "How the Claude Code team thinks about verification",
+    "source": "Hacker News",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 275
+  },
+  {
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "source": "Hacker News",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 166
+  },
+  {
+    "title": "Not Everything Needs an LLM",
+    "source": "Hacker News",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 113
+  },
+  {
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "source": "Hacker News",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 86
+  },
+  {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "source": "Hacker News",
+    "url": "https://starsling.dev",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 62
+  },
+  {
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
