@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "source": "Hacker News",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 391
+  },
+  {
+    "title": "Genie 4 is now available",
+    "source": "Hacker News",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 205
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 170
+  },
+  {
+    "title": "DaisyRose-27B",
+    "source": "Hacker News",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 156
+  },
+  {
+    "title": "Anthropic prices initial public offering",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 126
+  },
+  {
+    "title": "LLM assisted reverse engineering",
+    "source": "Hacker News",
+    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 99
+  },
+  {
+    "title": "AI will not make you rich (2025)",
+    "source": "Hacker News",
+    "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 65
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
