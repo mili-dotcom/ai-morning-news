@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic’s Nasdaq debut",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 988
+  },
+  {
+    "title": "Fuck Your AI Safeguards",
+    "source": "Hacker News",
+    "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 493
+  },
+  {
+    "title": "Claude solves two open problems in the physics of black holes",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 427
+  },
+  {
+    "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+    "source": "Hacker News",
+    "url": "https://verialabs.com/ruby2shell/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 389
+  },
+  {
+    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+    "source": "Hacker News",
+    "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 228
+  },
+  {
+    "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+    "source": "Hacker News",
+    "url": "https://thedataexchange.media/pete-warden-moonshine/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 219
+  },
+  {
+    "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+    "source": "Hacker News",
+    "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 211
+  },
+  {
+    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 87
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic’s IPO could deliver $156B to charity",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  }
+]
