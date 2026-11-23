@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1344
+  },
+  {
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "source": "Hacker News",
+    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 907
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 511
+  },
+  {
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "source": "Hacker News",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 287
+  },
+  {
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "source": "Hacker News",
+    "url": "https://github.com/gulivan/worker755",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 279
+  },
+  {
+    "title": "Agent swarm trying to solve P vs. NP",
+    "source": "Hacker News",
+    "url": "https://pequalnp.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 126
+  },
+  {
+    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Nov/21/muru/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 73
+  },
+  {
+    "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+    "source": "Hacker News",
+    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 72
+  },
+  {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "A tale of two Nvidias",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
