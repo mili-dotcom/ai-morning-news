@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 2418
+  },
+  {
+    "title": "Kagi Mail (public beta)",
+    "source": "Hacker News",
+    "url": "https://blog.kagi.com/kagi-mail-public-beta",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 393
+  },
+  {
+    "title": "GPUI is getting its own repository",
+    "source": "Hacker News",
+    "url": "https://github.com/zed-industries/gpui",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 214
+  },
+  {
+    "title": "C++26 is done (again): ISO C++ meeting trip report",
+    "source": "Hacker News",
+    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 111
+  },
+  {
+    "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-shirudo/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 62
+  },
+  {
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Jensen Huang isn’t out of the woods yet",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  }
+]
