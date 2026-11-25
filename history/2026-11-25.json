@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 2805
+  },
+  {
+    "title": "LLM agents work for their parent companies, not for you",
+    "source": "Hacker News",
+    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 950
+  },
+  {
+    "title": "Ternary Bonsai 2.5 27B",
+    "source": "Hacker News",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 385
+  },
+  {
+    "title": "Active intrusion campaign against Check Point security management servers",
+    "source": "Hacker News",
+    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 273
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 220
+  },
+  {
+    "title": "A training engine for your local model, using your idle compute",
+    "source": "Hacker News",
+    "url": "https://github.com/sous-labs/songe",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 205
+  },
+  {
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "source": "Hacker News",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 139
+  },
+  {
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Even the best AI agents struggle with everyday life",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 55
+  },
+  {
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  },
+  {
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
