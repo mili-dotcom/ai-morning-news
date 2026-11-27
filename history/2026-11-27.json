@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "source": "Hacker News",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 660
+  },
+  {
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "source": "Hacker News",
+    "url": "https://github.com/lsernau/grh-lean",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 550
+  },
+  {
+    "title": "Intel One Mono font (2023)",
+    "source": "Hacker News",
+    "url": "https://github.com/intel/intel-one-mono",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 487
+  },
+  {
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "source": "Hacker News",
+    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 473
+  },
+  {
+    "title": "AI made self-hosting fun again",
+    "source": "Hacker News",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 436
+  },
+  {
+    "title": "AMD-specific fork of llama.cpp",
+    "source": "Hacker News",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 309
+  },
+  {
+    "title": "OpenAI may be in cost control mode",
+    "source": "Hacker News",
+    "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 304
+  },
+  {
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "source": "Hacker News",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "category": "大厂动态",
+    "emoji": "🏭",
+    "hotness": 283
+  },
+  {
+    "title": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+    "source": "Hacker News",
+    "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 275
+  },
+  {
+    "title": "An algebraic quantization of gravity from the null cone",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2611.34924",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 226
+  },
+  {
+    "title": "The USAID Files",
+    "source": "Hacker News",
+    "url": "https://reclaimthenet.org/usaid-files",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 189
+  },
+  {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  }
+]
