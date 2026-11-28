@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AI made self-hosting fun again",
+    "source": "Hacker News",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 1107
+  },
+  {
+    "title": "Group chat where your AI talks behind your back",
+    "source": "Hacker News",
+    "url": "https://construct22.com/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 692
+  },
+  {
+    "title": "Claude sabotaging ML research tasks?",
+    "source": "Hacker News",
+    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 642
+  },
+  {
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "source": "Hacker News",
+    "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 371
+  },
+  {
+    "title": "US Air Force's cloud computing platform hacked",
+    "source": "Hacker News",
+    "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 337
+  },
+  {
+    "title": "The need for a formally verifiable mainstream programming language",
+    "source": "Hacker News",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 319
+  },
+  {
+    "title": "\"What's Claude's fursona?\" and other questions",
+    "source": "Hacker News",
+    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 189
+  },
+  {
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "source": "Hacker News",
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 104
+  },
+  {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "category": "芯片算力",
+    "emoji": "📊",
+    "hotness": 55
+  },
+  {
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "category": "开源模型",
+    "emoji": "🧠",
+    "hotness": 55
+  },
+  {
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "source": "TechCrunch AI",
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "category": "融资创投",
+    "emoji": "💰",
+    "hotness": 55
+  }
+]
